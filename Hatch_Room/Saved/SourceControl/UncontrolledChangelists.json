@@ -5,7 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"E:/Thesis_Hatch_Room_UE/Hatch_Room/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+				"E:/Thesis_Hatch_Room_UE/Hatch_Room/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"E:/Thesis_Hatch_Room_UE/Hatch_Room/Content/Textures/FireExtinguisher/FireExtinguisher_MAT.uasset",
+				"E:/Thesis_Hatch_Room_UE/Hatch_Room/Content/Textures/FireExtinguisher/FireExtinguisher_Body_MAT.uasset",
+				"E:/Thesis_Hatch_Room_UE/Hatch_Room/Content/Textures/FireExtinguisher/FireExtinguisher_bodyAttachment_MAT.uasset",
+				"E:/Thesis_Hatch_Room_UE/Hatch_Room/Content/Textures/FireExtinguisher/FireExtinguisher_pipe_MAT.uasset",
+				"E:/Thesis_Hatch_Room_UE/Hatch_Room/Content/Textures/FireExtinguisher/FireExtignuisher_TopHandle_MAT.uasset"
 			]
 		}
 	]
