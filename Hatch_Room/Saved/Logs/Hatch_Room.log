@@ -11280,3 +11280,215 @@ An asset already exists at the import location: /Game/Textures/AirCon/AirCon_mes
 [2025.05.01-12.39.16:859][515]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
 [2025.05.01-12.39.16:859][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2025.05.01-12.39.33:865][195]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.01-13.28.24:321][832]LogDerivedDataCache: C:/Users/bella/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:30.090 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 15671 files in 17633 folders with total size 650 MiB.
+[2025.05.01-14.28.24:303][807]LogDerivedDataCache: C:/Users/bella/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:30.071 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 15671 files in 17633 folders with total size 650 MiB.
+[2025.05.01-15.28.24:332][762]LogDerivedDataCache: C:/Users/bella/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:30.100 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 15671 files in 17633 folders with total size 650 MiB.
+[2025.05.01-16.20.38:655][196]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.05.01-16.20.38:669][196]LogContentBrowser: Creating deferred item: NewFolder
+[2025.05.01-16.20.38:768][197]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.05.01-16.20.42:997][654]LogContentBrowser: Attempting asset rename: NewFolder -> trashcan_sideways_mesh
+[2025.05.01-16.20.43:644][654]LogContentBrowser: End creating deferred item NewFolder
+[2025.05.01-16.20.45:620][783]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2025.05.01-16.20.45:629][783]LogContentBrowser: Creating deferred item: NewMaterial
+[2025.05.01-16.20.45:651][784]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2025.05.01-16.20.50:316][286]LogContentBrowser: Attempting asset rename: NewMaterial -> trashcan_sideways_MAT
+[2025.05.01-16.20.50:360][286]LogContentBrowser: End creating deferred item NewMaterial
+[2025.05.01-16.21.00:462][690]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:/Dystopian_Thesis/FBX/traschcan_side.fbx)
+[2025.05.01-16.21.00:496][690]LogFbx: Loading FBX Scene from E:/Dystopian_Thesis/FBX/traschcan_side.fbx
+[2025.05.01-16.21.00:525][690]LogFbx: FBX Scene Loaded Succesfully
+[2025.05.01-16.21.01:840][690]LogSlate: Window 'FBX Import Options' being destroyed
+[2025.05.01-16.21.02:402][690]LogStaticMesh: Display: Building static mesh traschcan_side...
+[2025.05.01-16.21.02:452][690]LogStaticMesh: Adjacency [0.00s], tris: 15810, UVs 1
+[2025.05.01-16.21.02:485][690]LogStaticMesh: Clustering [0.03s]. Ratio: 1.008065
+[2025.05.01-16.21.02:489][690]LogStaticMesh: Leaves [0.00s]
+[2025.05.01-16.21.02:804][690]LogStaticMesh: Reduce [0.32s]
+[2025.05.01-16.21.02:898][690]LogStaticMesh: Fallback 0/1 [0.09s], num tris: 1818
+[2025.05.01-16.21.02:902][690]LogStaticMesh: ConstrainClusters:
+[2025.05.01-16.21.02:902][690]LogStaticMesh:   Input: 252 Clusters, 31806 Triangles and 21743 Vertices
+[2025.05.01-16.21.02:902][690]LogStaticMesh:   Output without splits: 252 Clusters, 31806 Triangles and 22334 Vertices
+[2025.05.01-16.21.02:902][690]LogStaticMesh:   Output with splits: 252 Clusters, 31806 Triangles and 22334 Vertices
+[2025.05.01-16.21.02:903][690]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 252, Slow Path Clusters: 0, 1 Material: 252, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.05.01-16.21.02:909][690]LogStaticMesh: WritePages:
+[2025.05.01-16.21.02:909][690]LogStaticMesh:   Root: GPU size: 31900 bytes. 1 Pages. 31900.000 bytes per page (97.351% utilization).
+[2025.05.01-16.21.02:909][690]LogStaticMesh:   Streaming: GPU size: 244488 bytes. 2 Pages (2 with relative encoding). 122244.000 bytes per page (93.265% utilization).
+[2025.05.01-16.21.02:909][690]LogStaticMesh:   Page data disk size: 207768 bytes. Fixup data size: 1176 bytes.
+[2025.05.01-16.21.02:909][690]LogStaticMesh:   Total GPU size: 276388 bytes, Total disk size: 208944 bytes.
+[2025.05.01-16.21.02:910][690]LogStaticMesh: Encode [0.01s]
+[2025.05.01-16.21.02:910][690]LogStaticMesh: Nanite build [0.42s]
+
+[2025.05.01-16.21.02:937][690]LogStaticMesh: Built static mesh [0.55s] /Game/Textures/Trashcan/trashcan_sideways_mesh/traschcan_side.traschcan_side
+[2025.05.01-16.21.03:307][690]LogAutomationController: Ignoring very large delta of 8.44 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.01-16.21.04:326][736]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Textures/Trashcan/trashcan_sideways_mesh/traschcan_side.traschcan_side
+[2025.05.01-16.21.04:326][736]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Textures/Trashcan/trashcan_sideways_mesh/traschcan_side.traschcan_side
+[2025.05.01-16.21.04:368][736]LogActorFactory: Actor Factory spawned StaticMesh /Game/Textures/Trashcan/trashcan_sideways_mesh/traschcan_side.traschcan_side as actor: StaticMeshActor /Game/Main.Main:PersistentLevel.StaticMeshActor_202
+[2025.05.01-16.21.04:491][741]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Textures/Trashcan/trashcan_sideways_mesh/traschcan_side.traschcan_side
+[2025.05.01-16.21.04:491][741]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Textures/Trashcan/trashcan_sideways_mesh/traschcan_side.traschcan_side
+[2025.05.01-16.21.04:511][741]LogActorFactory: Actor Factory spawned StaticMesh /Game/Textures/Trashcan/trashcan_sideways_mesh/traschcan_side.traschcan_side as actor: StaticMeshActor /Game/Main.Main:PersistentLevel.StaticMeshActor_203
+[2025.05.01-16.21.11:501][299]Cmd: PIVOT HERE
+[2025.05.01-16.21.13:959][501]Cmd: ACTOR BAKEPREPIVOT
+[2025.05.01-16.21.14:446][523]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.01-16.21.22:625][223]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.01-16.21.24:330][381]Cmd: DELETE
+[2025.05.01-16.21.24:330][381]Cmd: ACTOR DELETE
+[2025.05.01-16.21.24:375][381]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-16.21.24:511][381]LogUObjectHash: Compacting FUObjectHashTables data took   6.67ms
+[2025.05.01-16.21.24:540][381]LogEditorActor: Deleted 1 Actors (0.208 secs)
+[2025.05.01-16.21.44:500][ 92]LogInterchangeEngine: [Pending] Importing
+[2025.05.01-16.21.44:501][ 92]LogInterchangeEngine: Display: Interchange start importing source [E:/Dystopian_Thesis_...can_sideways_exports/traschcan_side_standardSurface3_BaseColor.png]
+[2025.05.01-16.21.44:502][ 92]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.05.01-16.21.44:502][ 92]LogInterchangeEngine: Display: Interchange start importing source [E:/Dystopian_Thesis_...can_sideways_exports/traschcan_side_standardSurface3_Normal.png]
+[2025.05.01-16.21.44:503][ 92]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.05.01-16.21.44:503][ 92]LogInterchangeEngine: Display: Interchange start importing source [E:/Dystopian_Thesis_...can_sideways_exports/traschcan_side_standardSurface3_OcclusionRoughnessMetallic.png]
+[2025.05.01-16.21.44:525][ 93]LogAutomationController: Ignoring very large delta of 12.93 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.01-16.21.44:547][ 93]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.05.01-16.21.44:657][ 95]LogTexture: Display: Building textures: /Game/Textures/Trashcan/traschcan_side_standardSurface3_OcclusionRoughnessMetallic.traschcan_side_standardSurface3_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 305.145823 MB), EncodeSpeed: Fast
+[2025.05.01-16.21.44:737][ 95]LogInterchangePipeline: Display: Auto-detected normal map
+[2025.05.01-16.21.44:743][ 95]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.05.01-16.21.44:743][ 95]LogTexture: Display: Building textures: /Game/Textures/Trashcan/traschcan_side_standardSurface3_Normal.traschcan_side_standardSurface3_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 471.562488 MB), EncodeSpeed: Fast
+[2025.05.01-16.21.44:743][ 95]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.05.01-16.21.44:745][ 95]LogInterchangeEngine: [Success] Import Done
+[2025.05.01-16.21.44:757][ 95]LogTexture: Display: Building textures: /Game/Textures/Trashcan/traschcan_side_standardSurface3_BaseColor.traschcan_side_standardSurface3_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 305.145823 MB), EncodeSpeed: Fast
+[2025.05.01-16.21.45:040][ 96]LogInterchangeEngine: [Success] Import Done
+[2025.05.01-16.21.46:731][169]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/Trashcan/traschcan_side_standardSurface3_OcclusionRoughnessMetallic.traschcan_side_standardSurface3_OcclusionRoughnessMetallic
+[2025.05.01-16.21.47:443][169]LogViewport: Scene viewport resized to 1083x768, mode Windowed.
+[2025.05.01-16.21.48:933][183]LogTexture: Display: Building textures: /Game/Textures/Trashcan/traschcan_side_standardSurface3_OcclusionRoughnessMetallic.traschcan_side_standardSurface3_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 305.145823 MB), EncodeSpeed: Final
+[2025.05.01-16.21.49:587][190]LogSlate: Window 'traschcan_side_standardSurface3_OcclusionRoughnessMetallic' being destroyed
+[2025.05.01-16.21.49:634][190]LogSlate: Window 'traschcan_side_standardSurface3_OcclusionRoughnessMetallic' being destroyed
+[2025.05.01-16.21.50:475][203]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Textures/Trashcan/trashcan_sideways_MAT.trashcan_sideways_MAT
+[2025.05.01-16.21.50:562][203]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.01-16.21.50:573][203]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.01-16.21.51:497][203]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.01-16.21.51:497][203]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.01-16.21.51:497][203]MaterialEditorStats: Shader Count: 0
+[2025.05.01-16.21.51:513][203]LogViewport: Scene viewport resized to 285x383, mode Windowed.
+[2025.05.01-16.21.51:588][204]LogShaderCompilers: Display: ================================================
+[2025.05.01-16.21.51:588][204]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.01-16.21.51:588][204]LogShaderCompilers: Display: Total job queries 5,976, among them cache hits 5,643 (94.43%)
+[2025.05.01-16.21.51:588][204]LogShaderCompilers: Display: Tracking 333 distinct input hashes that result in 155 distinct outputs (46.55%)
+[2025.05.01-16.21.51:588][204]LogShaderCompilers: Display: RAM used: 8.00 MiB of 1.60 GiB budget. Usage: 0.49%
+[2025.05.01-16.21.51:588][204]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.01-16.21.51:588][204]LogShaderCompilers: Display: Shaders Compiled: 117
+[2025.05.01-16.21.51:588][204]LogShaderCompilers: Display: Jobs assigned 117, completed 117 (100%)
+[2025.05.01-16.21.51:588][204]LogShaderCompilers: Display: Average time worker was idle: 2291.81 s
+[2025.05.01-16.21.51:588][204]LogShaderCompilers: Display: Time job spent in pending queue: average 0.14 s, longest 1.04 s
+[2025.05.01-16.21.51:588][204]LogShaderCompilers: Display: Job execution time: average 0.67 s, max 2.27 s
+[2025.05.01-16.21.51:589][204]LogShaderCompilers: Display: Job life time (pending + execution): average 0.81 s, max 2.30
+[2025.05.01-16.21.51:589][204]LogShaderCompilers: Display: Shader code size: average 42.622 KiB, min 5.336 KiB, max 72.621 KiB
+[2025.05.01-16.21.51:589][204]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 13.41 s
+[2025.05.01-16.21.51:589][204]LogShaderCompilers: Display: Jobs were issued in 111 batches (only local compilation was used), average 1.05 jobs/batch
+[2025.05.01-16.21.51:589][204]LogShaderCompilers: Display: Average processing rate: 8.73 jobs/sec
+[2025.05.01-16.21.51:589][204]LogShaderCompilers: Display: Total thread time: 49.524 s
+[2025.05.01-16.21.51:589][204]LogShaderCompilers: Display: Total thread preprocess time: 3.314 s
+[2025.05.01-16.21.51:589][204]LogShaderCompilers: Display: Percentage time preprocessing: 6.69%
+[2025.05.01-16.21.51:589][204]LogShaderCompilers: Display: Effective parallelization: 3.69 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2025.05.01-16.21.51:589][204]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.05.01-16.21.51:590][204]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    2 times, average 0.81 sec, max 0.89 sec, min 0.73 sec)
+[2025.05.01-16.21.51:590][204]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    4 times, average 0.75 sec, max 1.22 sec, min 0.31 sec)
+[2025.05.01-16.21.51:590][204]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    4 times, average 0.74 sec, max 1.19 sec, min 0.30 sec)
+[2025.05.01-16.21.51:590][204]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    4 times, average 0.73 sec, max 1.22 sec, min 0.32 sec)
+[2025.05.01-16.21.51:590][204]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    4 times, average 0.73 sec, max 1.19 sec, min 0.29 sec)
+[2025.05.01-16.21.51:591][204]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.05.01-16.21.51:591][204]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 12.00% of total time (compiled   11 times, average 0.54 sec, max 0.94 sec, min 0.42 sec)
+[2025.05.01-16.21.51:592][204]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.16% of total time (compiled   12 times, average 0.42 sec, max 1.17 sec, min 0.21 sec)
+[2025.05.01-16.21.51:592][204]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 6.02% of total time (compiled    4 times, average 0.75 sec, max 1.22 sec, min 0.31 sec)
+[2025.05.01-16.21.51:592][204]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 5.97% of total time (compiled    4 times, average 0.74 sec, max 1.19 sec, min 0.30 sec)
+[2025.05.01-16.21.51:593][204]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 5.90% of total time (compiled    4 times, average 0.73 sec, max 1.22 sec, min 0.32 sec)
+[2025.05.01-16.21.51:593][204]LogShaderCompilers: Display: ================================================
+[2025.05.01-16.21.51:624][205]MaterialEditorStats: Base pass shader: 187 instructions
+[2025.05.01-16.21.51:624][205]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2025.05.01-16.21.51:624][205]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.01-16.21.51:624][205]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.01-16.21.51:624][205]MaterialEditorStats: Shader Count: 5
+[2025.05.01-16.21.53:637][249]LogMaterial: Display: Material /Game/Textures/Trashcan/trashcan_sideways_MAT.trashcan_sideways_MAT needed to have new flag set bUsedWithNanite !
+[2025.05.01-16.21.53:638][249]LogMaterial: Display: Material /Engine/Transient.trashcan_sideways_MAT needed to have new flag set bUsedWithNanite !
+[2025.05.01-16.21.53:712][249]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.01-16.21.53:712][249]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.01-16.21.53:712][249]MaterialEditorStats: Shader Count: 0
+[2025.05.01-16.21.53:889][250]MaterialEditorStats: Base pass shader: 187 instructions
+[2025.05.01-16.21.53:889][250]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2025.05.01-16.21.53:889][250]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.01-16.21.53:889][250]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.01-16.21.53:889][250]MaterialEditorStats: Shader Count: 15
+[2025.05.01-16.21.56:899][361]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.01-16.21.56:899][361]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.01-16.21.56:899][361]MaterialEditorStats: Shader Count: 0
+[2025.05.01-16.21.57:101][362]MaterialEditorStats: Base pass shader: 187 instructions
+[2025.05.01-16.21.57:101][362]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2025.05.01-16.21.57:101][362]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.01-16.21.57:101][362]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.01-16.21.57:101][362]MaterialEditorStats: Shader Count: 5
+[2025.05.01-16.22.03:625][708]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.01-16.22.03:625][708]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.05.01-16.22.03:625][708]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.01-16.22.03:625][708]MaterialEditorStats: Shader Count: 0
+[2025.05.01-16.22.03:757][710]MaterialEditorStats: Base pass shader: 194 instructions
+[2025.05.01-16.22.03:757][710]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.01-16.22.03:757][710]MaterialEditorStats: Texture samplers: 3/16
+[2025.05.01-16.22.03:757][710]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.05.01-16.22.03:757][710]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.01-16.22.03:757][710]MaterialEditorStats: Shader Count: 5
+[2025.05.01-16.22.05:040][789]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.01-16.22.05:040][789]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.05.01-16.22.05:040][789]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.01-16.22.05:040][789]MaterialEditorStats: Shader Count: 0
+[2025.05.01-16.22.05:171][792]MaterialEditorStats: Base pass shader: 198 instructions
+[2025.05.01-16.22.05:171][792]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.01-16.22.05:171][792]MaterialEditorStats: Texture samplers: 4/16
+[2025.05.01-16.22.05:171][792]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.05.01-16.22.05:171][792]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.01-16.22.05:171][792]MaterialEditorStats: Shader Count: 5
+[2025.05.01-16.22.06:477][870]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.01-16.22.06:477][870]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.05.01-16.22.06:477][870]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.01-16.22.06:477][870]MaterialEditorStats: Shader Count: 0
+[2025.05.01-16.22.06:607][872]MaterialEditorStats: Base pass shader: 199 instructions
+[2025.05.01-16.22.06:607][872]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.01-16.22.06:607][872]MaterialEditorStats: Texture samplers: 4/16
+[2025.05.01-16.22.06:607][872]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.05.01-16.22.06:607][872]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.01-16.22.06:607][872]MaterialEditorStats: Shader Count: 5
+[2025.05.01-16.22.07:764][939]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.01-16.22.07:764][939]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.05.01-16.22.07:764][939]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.01-16.22.07:764][939]MaterialEditorStats: Shader Count: 0
+[2025.05.01-16.22.07:888][942]MaterialEditorStats: Base pass shader: 206 instructions
+[2025.05.01-16.22.07:888][942]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.01-16.22.07:888][942]MaterialEditorStats: Texture samplers: 5/16
+[2025.05.01-16.22.07:888][942]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.05.01-16.22.07:888][942]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.01-16.22.07:888][942]MaterialEditorStats: Shader Count: 5
+[2025.05.01-16.22.08:814][  2]LogMaterialEditor: Saving and Compiling material trashcan_sideways_MAT
+[2025.05.01-16.22.10:137][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.05.01-16.22.10:305][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.05.01-16.22.10:325][  2]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.01-16.22.10:480][  2]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Trashcan/trashcan_sideways_MAT" FILE="E:/Thesis_Hatch_Room_UE/Hatch_Room/Content/Textures/Trashcan/trashcan_sideways_MAT.uasset" SILENT=true
+[2025.05.01-16.22.11:499][  2]LogSavePackage: Moving output files for package: /Game/Textures/Trashcan/trashcan_sideways_MAT
+[2025.05.01-16.22.11:499][  2]LogSavePackage: Moving 'E:/Thesis_Hatch_Room_UE/Hatch_Room/Saved/trashcan_sideways_MAT414E8FD44E8354F0941ABBB92163CC23.tmp' to 'E:/Thesis_Hatch_Room_UE/Hatch_Room/Content/Textures/Trashcan/trashcan_sideways_MAT.uasset'
+[2025.05.01-16.22.11:575][  2]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.24 sec (total: 22:58 min)
+[2025.05.01-16.22.11:587][  2]AssetCheck: New page: Asset Save: trashcan_sideways_MAT
+[2025.05.01-16.22.11:587][  2]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Textures/Trashcan/trashcan_sideways_MAT.trashcan_sideways_MAT
+[2025.05.01-16.22.11:602][  2]MaterialEditorStats: Base pass shader: 206 instructions
+[2025.05.01-16.22.11:602][  2]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.01-16.22.11:602][  2]MaterialEditorStats: MaxSampler: 256 instructions
+[2025.05.01-16.22.11:602][  2]MaterialEditorStats: Texture samplers: 6/16
+[2025.05.01-16.22.11:602][  2]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.05.01-16.22.11:602][  2]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.01-16.22.11:602][  2]MaterialEditorStats: Shader Count: 40
+[2025.05.01-16.22.11:776][  2]LogAutomationController: Ignoring very large delta of 2.96 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.01-16.22.15:114][185]LogSlate: Window 'trashcan_sideways_MAT' being destroyed
+[2025.05.01-16.22.15:121][185]LogSlate: Window 'trashcan_sideways_MAT' being destroyed
+[2025.05.01-16.22.19:217][185]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2025.05.01-16.22.19:220][185]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.01-16.22.19:287][185]LogAutomationController: Ignoring very large delta of 4.19 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.01-16.22.22:056][434]Cmd: DUPLICATE
+[2025.05.01-16.22.22:056][434]Cmd: ACTOR DUPLICATE
+[2025.05.01-16.22.23:537][568]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.01-16.22.26:128][818]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.01-16.22.30:852][265]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.01-16.22.46:741][548]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.01-16.22.54:011][260]Cmd: DELETE
+[2025.05.01-16.22.54:011][260]Cmd: ACTOR DELETE
+[2025.05.01-16.22.54:018][260]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-16.22.54:027][260]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.05.01-16.22.54:033][260]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.05.01-16.28.25:597][915]LogDerivedDataCache: C:/Users/bella/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:31.365 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 15706 files in 17669 folders with total size 659 MiB.
