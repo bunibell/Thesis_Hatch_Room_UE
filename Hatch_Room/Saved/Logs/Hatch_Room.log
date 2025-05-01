@@ -7309,3 +7309,1190 @@ Script Stack (0 frames) :
 [2025.05.01-10.21.33:415][315]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/doors/door_L_and_R_standardSurface3_Normal.door_L_and_R_standardSurface3_Normal
 [2025.05.01-10.21.33:415][315]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/doors/door_L_and_R_standardSurface3_OcclusionRoughnessMetallic.door_L_and_R_standardSurface3_OcclusionRoughnessMetallic
 [2025.05.01-10.21.33:498][315]LogAutomationController: Ignoring very large delta of 238.79 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.01-10.28.22:500][819]LogDerivedDataCache: C:/Users/bella/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:28.272 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 15043 files in 16990 folders with total size 552 MiB.
+[2025.05.01-10.35.16:823][685]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.05.01-10.35.16:919][685]LogContentBrowser: Creating deferred item: NewFolder
+[2025.05.01-10.35.16:928][686]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.05.01-10.35.18:691][898]LogContentBrowser: Attempting asset rename: NewFolder -> AirCon
+[2025.05.01-10.35.18:742][898]LogContentBrowser: End creating deferred item NewFolder
+[2025.05.01-10.35.22:652][285]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.05.01-10.35.22:676][285]LogContentBrowser: Creating deferred item: NewFolder
+[2025.05.01-10.35.22:728][287]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.05.01-10.35.27:482][858]LogContentBrowser: Attempting asset rename: NewFolder -> AirCon_mesh
+[2025.05.01-10.35.27:568][858]LogContentBrowser: End creating deferred item NewFolder
+[2025.05.01-10.36.08:996][403]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2025.05.01-10.36.09:003][403]LogContentBrowser: Creating deferred item: NewMaterial
+[2025.05.01-10.36.09:012][404]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2025.05.01-10.36.12:171][730]LogContentBrowser: Attempting asset rename: NewMaterial -> body_MAT
+[2025.05.01-10.36.12:172][730]LogContentBrowser: End creating deferred item NewMaterial
+[2025.05.01-10.36.27:783][192]LogContentBrowser: Attempting asset rename: body_MAT -> BodyBase_MAT
+[2025.05.01-10.36.27:844][192]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.01-10.36.27:947][192]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/AirCon/BodyBase_MAT" FILE="E:/Thesis_Hatch_Room_UE/Hatch_Room/Content/Textures/AirCon/BodyBase_MAT.uasset" SILENT=true
+[2025.05.01-10.36.28:006][192]LogSavePackage: Moving output files for package: /Game/Textures/AirCon/BodyBase_MAT
+[2025.05.01-10.36.28:006][192]LogSavePackage: Moving 'E:/Thesis_Hatch_Room_UE/Hatch_Room/Saved/BodyBase_MAT659F91234E4606DB58D20FB071090731.tmp' to 'E:/Thesis_Hatch_Room_UE/Hatch_Room/Content/Textures/AirCon/BodyBase_MAT.uasset'
+[2025.05.01-10.36.28:029][192]LogFileHelpers: InternalPromptForCheckoutAndSave took 184 ms (total: 18:21 min)
+[2025.05.01-10.36.28:047][192]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.05.01-10.36.28:056][192]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.05.01-10.36.28:062][192]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.05.01-10.36.28:065][192]AssetCheck: New page: Asset Save: BodyBase_MAT
+[2025.05.01-10.36.28:065][192]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Textures/AirCon/BodyBase_MAT.BodyBase_MAT
+[2025.05.01-10.36.30:760][462]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2025.05.01-10.36.30:865][462]LogContentBrowser: Creating deferred item: NewMaterial
+[2025.05.01-10.36.30:873][463]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2025.05.01-10.36.39:685][478]LogContentBrowser: Attempting asset rename: NewMaterial -> NewMaterial
+[2025.05.01-10.36.39:685][478]LogContentBrowser: End creating deferred item NewMaterial
+[2025.05.01-10.36.44:952][  9]LogContentBrowser: Attempting asset rename: NewMaterial -> Body_MAT
+[2025.05.01-10.36.44:986][  9]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.01-10.36.45:181][  9]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/AirCon/Body_MAT" FILE="E:/Thesis_Hatch_Room_UE/Hatch_Room/Content/Textures/AirCon/Body_MAT.uasset" SILENT=true
+[2025.05.01-10.36.45:229][  9]LogSavePackage: Moving output files for package: /Game/Textures/AirCon/Body_MAT
+[2025.05.01-10.36.45:229][  9]LogSavePackage: Moving 'E:/Thesis_Hatch_Room_UE/Hatch_Room/Saved/Body_MATCD55DCCB4F6A85FB7BF6739105D41049.tmp' to 'E:/Thesis_Hatch_Room_UE/Hatch_Room/Content/Textures/AirCon/Body_MAT.uasset'
+[2025.05.01-10.36.45:251][  9]LogFileHelpers: InternalPromptForCheckoutAndSave took 264 ms (total: 18:21 min)
+[2025.05.01-10.36.45:263][  9]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.05.01-10.36.45:270][  9]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.05.01-10.36.45:276][  9]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.05.01-10.36.45:279][  9]AssetCheck: New page: Asset Save: Body_MAT
+[2025.05.01-10.36.45:279][  9]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Textures/AirCon/Body_MAT.Body_MAT
+[2025.05.01-10.36.54:184][  8]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2025.05.01-10.36.54:280][  8]LogContentBrowser: Creating deferred item: NewMaterial
+[2025.05.01-10.36.54:290][  9]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2025.05.01-10.36.57:456][285]LogContentBrowser: Attempting asset rename: NewMaterial -> fan_MAT
+[2025.05.01-10.36.57:456][285]LogContentBrowser: End creating deferred item NewMaterial
+[2025.05.01-10.37.02:133][560]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2025.05.01-10.37.02:139][560]LogContentBrowser: Creating deferred item: NewMaterial
+[2025.05.01-10.37.02:148][561]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2025.05.01-10.37.04:874][882]LogContentBrowser: Attempting asset rename: NewMaterial -> Pipes_MAT
+[2025.05.01-10.37.04:874][882]LogContentBrowser: End creating deferred item NewMaterial
+[2025.05.01-10.37.10:807][509]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2025.05.01-10.37.10:814][509]LogContentBrowser: Creating deferred item: NewMaterial
+[2025.05.01-10.37.10:824][510]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2025.05.01-10.37.14:259][901]LogContentBrowser: Attempting asset rename: NewMaterial -> screws_MAT
+[2025.05.01-10.37.14:259][901]LogContentBrowser: End creating deferred item NewMaterial
+[2025.05.01-10.37.34:866][823]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:/Dystopian_Thesis/FBX/AirCon.fbx)
+[2025.05.01-10.37.34:882][823]LogFbx: Loading FBX Scene from E:/Dystopian_Thesis/FBX/AirCon.fbx
+[2025.05.01-10.37.34:912][823]LogFbx: FBX Scene Loaded Succesfully
+[2025.05.01-10.37.36:153][823]LogSlate: Window 'FBX Import Options' being destroyed
+[2025.05.01-10.37.36:526][823]LogFbx: Bones digested - 6  Depth of hierarchy - 2
+[2025.05.01-10.37.36:678][823]LogSkeletalMesh: Display: /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2025.05.01-10.37.37:048][823]LogSkeletalMesh: Section 0: Material=0, 9710 triangles
+[2025.05.01-10.37.37:048][823]LogSkeletalMesh: Section 1: Material=1, 108 triangles
+[2025.05.01-10.37.37:048][823]LogSkeletalMesh: Section 2: Material=2, 4160 triangles
+[2025.05.01-10.37.37:048][823]LogSkeletalMesh: Section 3: Material=3, 4736 triangles
+[2025.05.01-10.37.37:048][823]LogSkeletalMesh: Section 4: Material=4, 816 triangles
+[2025.05.01-10.37.37:111][823]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (AirCon) ...
+[2025.05.01-10.37.37:128][823]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2025.05.01-10.37.37:131][823]LogSkeletalMesh: Building Skeletal Mesh AirCon...
+[2025.05.01-10.37.37:195][823]LogSkeletalMesh: Display: /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2025.05.01-10.37.37:609][823]LogSkeletalMesh: Built Skeletal Mesh [0.52s] /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon
+[2025.05.01-10.37.37:735][823]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.01-10.37.37:735][823]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.01-10.37.37:754][823]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2025.05.01-10.37.37:754][823]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2025.05.01-10.37.37:754][823]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.01-10.37.37:844][823]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.01-10.37.37:844][823]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.01-10.37.37:864][823]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2025.05.01-10.37.37:865][823]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.01-10.37.37:894][823]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2025.05.01-10.37.38:120][823]LogAutomationController: Ignoring very large delta of 14.87 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.01-10.37.38:395][826]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.01-10.37.38:515][827]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.01-10.37.38:571][828]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.01-10.37.43:063][245]LogSlate: Window 'Message Log' being destroyed
+[2025.05.01-10.37.43:070][245]LogSlate: Window 'Message Log' being destroyed
+[2025.05.01-10.37.49:747][562]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Textures/AirCon/AirCon_mesh/AirCon_Skeleton.AirCon_Skeleton
+[2025.05.01-10.37.49:747][562]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Textures/AirCon/AirCon_mesh/AirCon_Skeleton.AirCon_Skeleton
+[2025.05.01-10.37.49:750][562]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon as actor: SkeletalMeshActor /Game/Main.Main:PersistentLevel.SkeletalMeshActor_0
+[2025.05.01-10.37.49:751][562]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon as actor: SkeletalMeshActor /Game/Main.Main:PersistentLevel.SkeletalMeshActor_0
+[2025.05.01-10.37.49:751][562]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon
+[2025.05.01-10.37.49:751][562]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon
+[2025.05.01-10.37.49:753][562]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon as actor: SkeletalMeshActor /Game/Main.Main:PersistentLevel.SkeletalMeshActor_1
+[2025.05.01-10.37.49:754][562]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon as actor: SkeletalMeshActor /Game/Main.Main:PersistentLevel.SkeletalMeshActor_1
+[2025.05.01-10.37.49:756][562]LogActorFactory: Actor Factory spawned PhysicsAsset /Game/Textures/AirCon/AirCon_mesh/AirCon_PhysicsAsset.AirCon_PhysicsAsset as actor: SkeletalMeshActor /Game/Main.Main:PersistentLevel.SkeletalMeshActor_2
+[2025.05.01-10.37.49:757][562]LogActor: Warning: SetReplicates called on non-initialized actor SkeletalMeshActor_2. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2025.05.01-10.37.49:758][562]LogActorFactory: Actor Factory spawned PhysicsAsset /Game/Textures/AirCon/AirCon_mesh/AirCon_PhysicsAsset.AirCon_PhysicsAsset as actor: SkeletalMeshActor /Game/Main.Main:PersistentLevel.SkeletalMeshActor_2
+[2025.05.01-10.37.49:957][579]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Textures/AirCon/AirCon_mesh/AirCon_Skeleton.AirCon_Skeleton
+[2025.05.01-10.37.49:957][579]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Textures/AirCon/AirCon_mesh/AirCon_Skeleton.AirCon_Skeleton
+[2025.05.01-10.37.49:962][579]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon as actor: SkeletalMeshActor /Game/Main.Main:PersistentLevel.SkeletalMeshActor_3
+[2025.05.01-10.37.49:963][579]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon as actor: SkeletalMeshActor /Game/Main.Main:PersistentLevel.SkeletalMeshActor_3
+[2025.05.01-10.37.50:024][579]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon
+[2025.05.01-10.37.50:024][579]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon
+[2025.05.01-10.37.50:026][579]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon as actor: SkeletalMeshActor /Game/Main.Main:PersistentLevel.SkeletalMeshActor_4
+[2025.05.01-10.37.50:027][579]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon as actor: SkeletalMeshActor /Game/Main.Main:PersistentLevel.SkeletalMeshActor_4
+[2025.05.01-10.37.50:057][579]LogActorFactory: Actor Factory spawned PhysicsAsset /Game/Textures/AirCon/AirCon_mesh/AirCon_PhysicsAsset.AirCon_PhysicsAsset as actor: SkeletalMeshActor /Game/Main.Main:PersistentLevel.SkeletalMeshActor_5
+[2025.05.01-10.37.50:057][579]LogActor: Warning: SetReplicates called on non-initialized actor SkeletalMeshActor_5. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2025.05.01-10.37.50:058][579]LogActorFactory: Actor Factory spawned PhysicsAsset /Game/Textures/AirCon/AirCon_mesh/AirCon_PhysicsAsset.AirCon_PhysicsAsset as actor: SkeletalMeshActor /Game/Main.Main:PersistentLevel.SkeletalMeshActor_5
+[2025.05.01-10.37.58:566][322]Cmd: DELETE
+[2025.05.01-10.37.58:566][322]Cmd: ACTOR DELETE
+[2025.05.01-10.37.58:575][322]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2025.05.01-10.37.58:587][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.05.01-10.37.58:591][322]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2025.05.01-10.38.00:177][495]Cmd: DELETE
+[2025.05.01-10.38.00:177][495]Cmd: ACTOR DELETE
+[2025.05.01-10.38.00:186][495]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2025.05.01-10.38.00:192][495]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.05.01-10.38.00:195][495]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2025.05.01-10.38.02:159][696]Cmd: TRANSACTION UNDO
+[2025.05.01-10.38.02:159][696]LogEditorTransaction: Undo Clicking on Elements
+[2025.05.01-10.38.02:606][702]Cmd: TRANSACTION UNDO
+[2025.05.01-10.38.02:606][702]LogEditorTransaction: Undo Delete Elements
+[2025.05.01-10.38.03:175][736]Cmd: TRANSACTION UNDO
+[2025.05.01-10.38.03:175][736]LogEditorTransaction: Undo Clicking on Elements
+[2025.05.01-10.38.03:548][770]Cmd: TRANSACTION UNDO
+[2025.05.01-10.38.03:548][770]LogEditorTransaction: Undo Delete Elements
+[2025.05.01-10.38.05:696][939]Cmd: DELETE
+[2025.05.01-10.38.05:696][939]Cmd: ACTOR DELETE
+[2025.05.01-10.38.05:705][939]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2025.05.01-10.38.05:705][939]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2025.05.01-10.38.05:711][939]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.05.01-10.38.05:716][939]LogEditorActor: Deleted 2 Actors (0.019 secs)
+[2025.05.01-10.38.07:268][ 83]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.01-10.38.18:039][583]LogSlate: Window 'Message' being destroyed
+[2025.05.01-10.38.18:046][583]Message dialog closed, result: Yes, title: Message, text: Do you want to overwrite the existing asset?
+
+An asset already exists at the import location: /Game/Textures/AirCon/AirCon_mesh/AirCon
+[2025.05.01-10.38.18:050][583]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:/Dystopian_Thesis/FBX/AirCon.fbx)
+[2025.05.01-10.38.18:060][583]LogEditorFactories: Performing atomic reimport of [E:/Dystopian_Thesis/FBX/AirCon.fbx]
+[2025.05.01-10.38.18:076][583]LogFbx: Loading FBX Scene from E:/Dystopian_Thesis/FBX/AirCon.fbx
+[2025.05.01-10.38.18:104][583]LogFbx: FBX Scene Loaded Succesfully
+[2025.05.01-10.38.18:234][583]LogFbx: Bones digested - 6  Depth of hierarchy - 2
+[2025.05.01-10.38.18:321][583]LogSkeletalMesh: Display: /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2025.05.01-10.38.18:688][583]LogSkeletalMesh: Section 0: Material=0, 9710 triangles
+[2025.05.01-10.38.18:688][583]LogSkeletalMesh: Section 1: Material=1, 108 triangles
+[2025.05.01-10.38.18:688][583]LogSkeletalMesh: Section 2: Material=2, 4160 triangles
+[2025.05.01-10.38.18:688][583]LogSkeletalMesh: Section 3: Material=3, 4736 triangles
+[2025.05.01-10.38.18:688][583]LogSkeletalMesh: Section 4: Material=4, 816 triangles
+[2025.05.01-10.38.18:751][583]LogEditorFactories: -- imported successfully
+[2025.05.01-10.38.18:753][583]LogSkeletalMesh: Building Skeletal Mesh AirCon...
+[2025.05.01-10.38.18:770][583]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (AirCon) ...
+[2025.05.01-10.38.18:808][583]LogSkeletalMesh: Display: /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2025.05.01-10.38.19:210][583]LogSkeletalMesh: Built Skeletal Mesh [0.46s] /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon
+[2025.05.01-10.38.19:214][583]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2025.05.01-10.38.19:233][583]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (AirCon) ...
+[2025.05.01-10.38.19:334][584]LogAutomationController: Ignoring very large delta of 6.71 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.01-10.38.26:134][969]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.05.01-10.38.27:539][969]LogSlate: Window 'Delete Assets' being destroyed
+[2025.05.01-10.38.27:577][969]LogUObjectGlobals: Force Deleting 2 Package(s):
+	Asset Name: /Game/Textures/AirCon/AirCon_mesh/AirCon_Skeleton.AirCon_Skeleton
+	Asset Type: Skeleton
+	Asset Name: /Game/Textures/AirCon/AirCon_mesh/AirCon_PhysicsAsset.AirCon_PhysicsAsset
+	Asset Type: PhysicsAsset
+[2025.05.01-10.38.28:274][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.05.01-10.38.28:281][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.05.01-10.38.28:286][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.05.01-10.38.28:317][969]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.38.28:331][969]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.38.28:341][969]LogAutomationController: Ignoring very large delta of 2.21 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.01-10.38.28:421][971]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.38.28:673][991]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.38.28:720][992]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.38.28:733][993]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.38.28:746][994]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.38.28:758][995]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.38.28:770][996]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.38.28:818][997]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.38.28:832][998]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.38.28:846][999]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.38.28:860][  0]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.38.28:875][  1]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.38.28:890][  2]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.38.28:905][  3]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.38.28:920][  4]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.38.28:934][  5]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.38.28:994][ 12]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.38.29:089][ 13]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.38.32:666][332]Cmd: PIVOT HERE
+[2025.05.01-10.38.34:662][505]Cmd: ACTOR BAKEPREPIVOT
+[2025.05.01-10.38.36:621][690]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.01-10.39.02:059][691]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.39.02:118][692]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.39.02:132][693]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.39.02:146][694]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.39.02:161][695]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.39.02:176][696]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.39.02:190][697]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.39.02:205][698]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.39.02:219][699]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.39.02:234][700]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.39.02:249][701]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.39.02:264][702]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.39.02:278][703]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.39.02:293][704]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.39.02:307][705]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.39.02:321][706]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.39.02:336][707]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.39.02:350][708]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.39.02:365][709]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.39.02:380][710]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.39.02:395][711]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.39.02:411][712]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.39.02:426][713]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.39.02:440][714]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.39.02:452][715]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.39.02:463][716]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.39.02:474][717]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.39.03:980][886]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.39.04:028][887]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.39.04:040][888]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.39.04:052][889]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.39.04:185][902]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.39.04:293][903]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.39.04:308][904]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.39.04:323][905]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.39.04:337][906]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.39.04:352][907]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.39.04:366][908]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.39.04:381][909]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.39.04:396][910]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.39.04:410][911]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.39.04:425][912]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.39.04:440][913]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.39.04:455][914]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.39.04:469][915]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.39.04:484][916]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.39.04:499][917]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.39.04:514][918]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.39.04:528][919]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.39.04:542][920]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.39.04:556][921]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.39.04:571][922]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.39.04:586][923]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.39.04:600][924]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.39.04:614][925]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.39.04:628][926]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.39.04:641][927]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.39.04:657][928]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.39.04:671][929]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.39.04:686][930]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.39.04:700][931]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.39.04:714][932]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.39.04:728][933]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.39.04:743][934]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon has no skeleton. This needs to fixed before an animation can be set
+[2025.05.01-10.39.04:762][935]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.05.01-10.39.05:846][935]LogSlate: Window 'Delete Assets' being destroyed
+[2025.05.01-10.39.05:871][935]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Textures/AirCon/AirCon_mesh/AirCon.AirCon
+	Asset Type: SkeletalMesh
+[2025.05.01-10.39.06:227][935]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.05.01-10.39.06:234][935]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.05.01-10.39.06:239][935]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.05.01-10.39.11:172][ 34]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:/Dystopian_Thesis/FBX/AirCon.fbx)
+[2025.05.01-10.39.11:188][ 34]LogFbx: Loading FBX Scene from E:/Dystopian_Thesis/FBX/AirCon.fbx
+[2025.05.01-10.39.11:216][ 34]LogFbx: FBX Scene Loaded Succesfully
+[2025.05.01-10.39.42:321][ 34]LogSlate: Window 'FBX Import Options' being destroyed
+[2025.05.01-10.39.42:695][ 34]LogFbx: Warning: Skipping invalid edge on mesh 
+[2025.05.01-10.39.42:695][ 34]LogFbx: Warning: Skipping invalid edge on mesh 
+[2025.05.01-10.39.42:695][ 34]LogFbx: Warning: Skipping invalid edge on mesh 
+[2025.05.01-10.39.42:695][ 34]LogFbx: Warning: Skipping invalid edge on mesh 
+[2025.05.01-10.39.42:742][ 34]LogStaticMesh: Display: Building static mesh AirCon_body...
+[2025.05.01-10.39.42:766][ 34]LogStaticMesh: Adjacency [0.00s], tris: 9706, UVs 1
+[2025.05.01-10.39.42:774][ 34]LogStaticMesh: Clustering [0.01s]. Ratio: 1.013158
+[2025.05.01-10.39.42:775][ 34]LogStaticMesh: Leaves [0.00s]
+[2025.05.01-10.39.43:049][ 34]LogStaticMesh: Reduce [0.27s]
+[2025.05.01-10.39.43:088][ 34]LogStaticMesh: Fallback 0/1 [0.04s], num tris: 628
+[2025.05.01-10.39.43:091][ 34]LogStaticMesh: ConstrainClusters:
+[2025.05.01-10.39.43:091][ 34]LogStaticMesh:   Input: 157 Clusters, 19784 Triangles and 20497 Vertices
+[2025.05.01-10.39.43:091][ 34]LogStaticMesh:   Output without splits: 157 Clusters, 19784 Triangles and 20565 Vertices
+[2025.05.01-10.39.43:091][ 34]LogStaticMesh:   Output with splits: 157 Clusters, 19784 Triangles and 20565 Vertices
+[2025.05.01-10.39.43:091][ 34]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 157, Slow Path Clusters: 0, 1 Material: 157, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.05.01-10.39.43:095][ 34]LogStaticMesh: WritePages:
+[2025.05.01-10.39.43:095][ 34]LogStaticMesh:   Root: GPU size: 31352 bytes. 1 Pages. 31352.000 bytes per page (95.679% utilization).
+[2025.05.01-10.39.43:095][ 34]LogStaticMesh:   Streaming: GPU size: 203712 bytes. 2 Pages (2 with relative encoding). 101856.000 bytes per page (77.710% utilization).
+[2025.05.01-10.39.43:095][ 34]LogStaticMesh:   Page data disk size: 170816 bytes. Fixup data size: 728 bytes.
+[2025.05.01-10.39.43:095][ 34]LogStaticMesh:   Total GPU size: 235064 bytes, Total disk size: 171544 bytes.
+[2025.05.01-10.39.43:096][ 34]LogStaticMesh: Encode [0.01s]
+[2025.05.01-10.39.43:096][ 34]LogStaticMesh: Nanite build [0.32s]
+
+[2025.05.01-10.39.43:100][ 34]LogStaticMesh: Built static mesh [0.36s] /Game/Textures/AirCon/AirCon_mesh/AirCon_body.AirCon_body
+[2025.05.01-10.39.43:112][ 34]LogStaticMesh: Display: Building static mesh AirCon_body_base...
+[2025.05.01-10.39.43:113][ 34]LogStaticMesh: Adjacency [0.00s], tris: 108, UVs 1
+[2025.05.01-10.39.43:113][ 34]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.05.01-10.39.43:113][ 34]LogStaticMesh: Leaves [0.00s]
+[2025.05.01-10.39.43:113][ 34]LogStaticMesh: Reduce [0.00s]
+[2025.05.01-10.39.43:113][ 34]LogStaticMesh: Fallback 0/1 [0.00s], num tris: 108
+[2025.05.01-10.39.43:113][ 34]LogStaticMesh: ConstrainClusters:
+[2025.05.01-10.39.43:113][ 34]LogStaticMesh:   Input: 1 Clusters, 108 Triangles and 108 Vertices
+[2025.05.01-10.39.43:113][ 34]LogStaticMesh:   Output without splits: 1 Clusters, 108 Triangles and 108 Vertices
+[2025.05.01-10.39.43:113][ 34]LogStaticMesh:   Output with splits: 1 Clusters, 108 Triangles and 108 Vertices
+[2025.05.01-10.39.43:113][ 34]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.05.01-10.39.43:113][ 34]LogStaticMesh: WritePages:
+[2025.05.01-10.39.43:113][ 34]LogStaticMesh:   Root: GPU size: 1260 bytes. 1 Pages. 1260.000 bytes per page (3.845% utilization).
+[2025.05.01-10.39.43:113][ 34]LogStaticMesh:   Streaming: 0 bytes.
+[2025.05.01-10.39.43:113][ 34]LogStaticMesh:   Page data disk size: 1300 bytes. Fixup data size: 24 bytes.
+[2025.05.01-10.39.43:113][ 34]LogStaticMesh:   Total GPU size: 1260 bytes, Total disk size: 1324 bytes.
+[2025.05.01-10.39.43:113][ 34]LogStaticMesh: Encode [0.00s]
+[2025.05.01-10.39.43:113][ 34]LogStaticMesh: Nanite build [0.00s]
+
+[2025.05.01-10.39.43:115][ 34]LogStaticMesh: Built static mesh [0.00s] /Game/Textures/AirCon/AirCon_mesh/AirCon_body_base.AirCon_body_base
+[2025.05.01-10.39.43:148][ 34]LogStaticMesh: Display: Building static mesh AirCon_fan...
+[2025.05.01-10.39.43:157][ 34]LogStaticMesh: Adjacency [0.00s], tris: 4160, UVs 1
+[2025.05.01-10.39.43:175][ 34]LogStaticMesh: Clustering [0.02s]. Ratio: 1.000000
+[2025.05.01-10.39.43:176][ 34]LogStaticMesh: Leaves [0.00s]
+[2025.05.01-10.39.43:304][ 34]LogStaticMesh: Reduce [0.13s]
+[2025.05.01-10.39.43:358][ 34]LogStaticMesh: Fallback 0/1 [0.05s], num tris: 1796
+[2025.05.01-10.39.43:359][ 34]LogStaticMesh: ConstrainClusters:
+[2025.05.01-10.39.43:359][ 34]LogStaticMesh:   Input: 70 Clusters, 8819 Triangles and 7500 Vertices
+[2025.05.01-10.39.43:359][ 34]LogStaticMesh:   Output without splits: 70 Clusters, 8819 Triangles and 7556 Vertices
+[2025.05.01-10.39.43:359][ 34]LogStaticMesh:   Output with splits: 70 Clusters, 8819 Triangles and 7556 Vertices
+[2025.05.01-10.39.43:359][ 34]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 70, Slow Path Clusters: 0, 1 Material: 70, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.05.01-10.39.43:361][ 34]LogStaticMesh: WritePages:
+[2025.05.01-10.39.43:361][ 34]LogStaticMesh:   Root: GPU size: 32508 bytes. 1 Pages. 32508.000 bytes per page (99.207% utilization).
+[2025.05.01-10.39.43:361][ 34]LogStaticMesh:   Streaming: GPU size: 55108 bytes. 1 Pages (1 with relative encoding). 55108.000 bytes per page (42.044% utilization).
+[2025.05.01-10.39.43:361][ 34]LogStaticMesh:   Page data disk size: 66632 bytes. Fixup data size: 376 bytes.
+[2025.05.01-10.39.43:361][ 34]LogStaticMesh:   Total GPU size: 87616 bytes, Total disk size: 67008 bytes.
+[2025.05.01-10.39.43:361][ 34]LogStaticMesh: Encode [0.00s]
+[2025.05.01-10.39.43:361][ 34]LogStaticMesh: Nanite build [0.19s]
+
+[2025.05.01-10.39.43:367][ 34]LogStaticMesh: Built static mesh [0.22s] /Game/Textures/AirCon/AirCon_mesh/AirCon_fan.AirCon_fan
+[2025.05.01-10.39.43:370][ 34]LogStaticMesh: Warning: AirCon_fan has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.05.01-10.39.43:370][ 34]LogStaticMesh: Warning: AirCon_fan has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.05.01-10.39.43:404][ 34]LogStaticMesh: Display: Building static mesh AirCon_pipes...
+[2025.05.01-10.39.43:413][ 34]LogStaticMesh: Adjacency [0.00s], tris: 4736, UVs 1
+[2025.05.01-10.39.43:427][ 34]LogStaticMesh: Clustering [0.01s]. Ratio: 1.027027
+[2025.05.01-10.39.43:428][ 34]LogStaticMesh: Leaves [0.00s]
+[2025.05.01-10.39.43:579][ 34]LogStaticMesh: Reduce [0.15s]
+[2025.05.01-10.39.43:592][ 34]LogStaticMesh: Fallback 0/1 [0.01s], num tris: 304
+[2025.05.01-10.39.43:593][ 34]LogStaticMesh: ConstrainClusters:
+[2025.05.01-10.39.43:593][ 34]LogStaticMesh:   Input: 78 Clusters, 9773 Triangles and 7535 Vertices
+[2025.05.01-10.39.43:593][ 34]LogStaticMesh:   Output without splits: 78 Clusters, 9773 Triangles and 7619 Vertices
+[2025.05.01-10.39.43:593][ 34]LogStaticMesh:   Output with splits: 78 Clusters, 9773 Triangles and 7619 Vertices
+[2025.05.01-10.39.43:593][ 34]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 78, Slow Path Clusters: 0, 1 Material: 78, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.05.01-10.39.43:595][ 34]LogStaticMesh: WritePages:
+[2025.05.01-10.39.43:595][ 34]LogStaticMesh:   Root: GPU size: 32412 bytes. 1 Pages. 32412.000 bytes per page (98.914% utilization).
+[2025.05.01-10.39.43:595][ 34]LogStaticMesh:   Streaming: GPU size: 63140 bytes. 1 Pages (1 with relative encoding). 63140.000 bytes per page (48.172% utilization).
+[2025.05.01-10.39.43:595][ 34]LogStaticMesh:   Page data disk size: 70424 bytes. Fixup data size: 368 bytes.
+[2025.05.01-10.39.43:595][ 34]LogStaticMesh:   Total GPU size: 95552 bytes, Total disk size: 70792 bytes.
+[2025.05.01-10.39.43:595][ 34]LogStaticMesh: Encode [0.00s]
+[2025.05.01-10.39.43:595][ 34]LogStaticMesh: Nanite build [0.17s]
+
+[2025.05.01-10.39.43:599][ 34]LogStaticMesh: Built static mesh [0.19s] /Game/Textures/AirCon/AirCon_mesh/AirCon_pipes.AirCon_pipes
+[2025.05.01-10.39.43:614][ 34]LogStaticMesh: Display: Building static mesh AirCon_screws...
+[2025.05.01-10.39.43:616][ 34]LogStaticMesh: Adjacency [0.00s], tris: 816, UVs 1
+[2025.05.01-10.39.43:618][ 34]LogStaticMesh: Clustering [0.00s]. Ratio: 1.714286
+[2025.05.01-10.39.43:619][ 34]LogStaticMesh: Leaves [0.00s]
+[2025.05.01-10.39.43:639][ 34]LogStaticMesh: Reduce [0.02s]
+[2025.05.01-10.39.43:647][ 34]LogStaticMesh: Fallback 0/1 [0.01s], num tris: 678
+[2025.05.01-10.39.43:650][ 34]LogStaticMesh: ConstrainClusters:
+[2025.05.01-10.39.43:650][ 34]LogStaticMesh:   Input: 19 Clusters, 1698 Triangles and 3365 Vertices
+[2025.05.01-10.39.43:650][ 34]LogStaticMesh:   Output without splits: 19 Clusters, 1698 Triangles and 3365 Vertices
+[2025.05.01-10.39.43:650][ 34]LogStaticMesh:   Output with splits: 26 Clusters, 1698 Triangles and 3367 Vertices
+[2025.05.01-10.39.43:650][ 34]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 26, Slow Path Clusters: 0, 1 Material: 26, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.05.01-10.39.43:651][ 34]LogStaticMesh: WritePages:
+[2025.05.01-10.39.43:651][ 34]LogStaticMesh:   Root: GPU size: 31868 bytes. 1 Pages. 31868.000 bytes per page (97.253% utilization).
+[2025.05.01-10.39.43:651][ 34]LogStaticMesh:   Streaming: GPU size: 3608 bytes. 1 Pages (1 with relative encoding). 3608.000 bytes per page (2.753% utilization).
+[2025.05.01-10.39.43:651][ 34]LogStaticMesh:   Page data disk size: 29912 bytes. Fixup data size: 256 bytes.
+[2025.05.01-10.39.43:651][ 34]LogStaticMesh:   Total GPU size: 35476 bytes, Total disk size: 30168 bytes.
+[2025.05.01-10.39.43:651][ 34]LogStaticMesh: Encode [0.00s]
+[2025.05.01-10.39.43:651][ 34]LogStaticMesh: Nanite build [0.03s]
+
+[2025.05.01-10.39.43:653][ 34]LogStaticMesh: Built static mesh [0.04s] /Game/Textures/AirCon/AirCon_mesh/AirCon_screws.AirCon_screws
+[2025.05.01-10.39.43:671][ 34]FBXImport: Warning: AirCon_fan has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2025.05.01-10.39.43:671][ 34]FBXImport: Warning: AirCon_fan has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2025.05.01-10.39.43:825][ 35]LogAutomationController: Ignoring very large delta of 36.60 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.01-10.39.52:007][733]LogSlate: Window 'Message Log' being destroyed
+[2025.05.01-10.39.52:013][733]LogSlate: Window 'Message Log' being destroyed
+[2025.05.01-10.40.58:089][844]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Textures/AirCon/AirCon_mesh/AirCon_body.AirCon_body
+[2025.05.01-10.40.58:089][844]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Textures/AirCon/AirCon_mesh/AirCon_body.AirCon_body
+[2025.05.01-10.40.58:091][844]LogActorFactory: Actor Factory spawned StaticMesh /Game/Textures/AirCon/AirCon_mesh/AirCon_body.AirCon_body as actor: StaticMeshActor /Game/Main.Main:PersistentLevel.StaticMeshActor_112
+[2025.05.01-10.40.58:092][844]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Textures/AirCon/AirCon_mesh/AirCon_body_base.AirCon_body_base
+[2025.05.01-10.40.58:092][844]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Textures/AirCon/AirCon_mesh/AirCon_body_base.AirCon_body_base
+[2025.05.01-10.40.58:094][844]LogActorFactory: Actor Factory spawned StaticMesh /Game/Textures/AirCon/AirCon_mesh/AirCon_body_base.AirCon_body_base as actor: StaticMeshActor /Game/Main.Main:PersistentLevel.StaticMeshActor_113
+[2025.05.01-10.40.58:094][844]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Textures/AirCon/AirCon_mesh/AirCon_fan.AirCon_fan
+[2025.05.01-10.40.58:094][844]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Textures/AirCon/AirCon_mesh/AirCon_fan.AirCon_fan
+[2025.05.01-10.40.58:096][844]LogActorFactory: Actor Factory spawned StaticMesh /Game/Textures/AirCon/AirCon_mesh/AirCon_fan.AirCon_fan as actor: StaticMeshActor /Game/Main.Main:PersistentLevel.StaticMeshActor_114
+[2025.05.01-10.40.58:096][844]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Textures/AirCon/AirCon_mesh/AirCon_pipes.AirCon_pipes
+[2025.05.01-10.40.58:096][844]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Textures/AirCon/AirCon_mesh/AirCon_pipes.AirCon_pipes
+[2025.05.01-10.40.58:098][844]LogActorFactory: Actor Factory spawned StaticMesh /Game/Textures/AirCon/AirCon_mesh/AirCon_pipes.AirCon_pipes as actor: StaticMeshActor /Game/Main.Main:PersistentLevel.StaticMeshActor_115
+[2025.05.01-10.40.58:098][844]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Textures/AirCon/AirCon_mesh/AirCon_screws.AirCon_screws
+[2025.05.01-10.40.58:098][844]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Textures/AirCon/AirCon_mesh/AirCon_screws.AirCon_screws
+[2025.05.01-10.40.58:100][844]LogActorFactory: Actor Factory spawned StaticMesh /Game/Textures/AirCon/AirCon_mesh/AirCon_screws.AirCon_screws as actor: StaticMeshActor /Game/Main.Main:PersistentLevel.StaticMeshActor_116
+[2025.05.01-10.40.58:969][868]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Textures/AirCon/AirCon_mesh/AirCon_body.AirCon_body
+[2025.05.01-10.40.58:969][868]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Textures/AirCon/AirCon_mesh/AirCon_body.AirCon_body
+[2025.05.01-10.40.58:972][868]LogActorFactory: Actor Factory spawned StaticMesh /Game/Textures/AirCon/AirCon_mesh/AirCon_body.AirCon_body as actor: StaticMeshActor /Game/Main.Main:PersistentLevel.StaticMeshActor_117
+[2025.05.01-10.40.59:001][868]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Textures/AirCon/AirCon_mesh/AirCon_body_base.AirCon_body_base
+[2025.05.01-10.40.59:001][868]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Textures/AirCon/AirCon_mesh/AirCon_body_base.AirCon_body_base
+[2025.05.01-10.40.59:003][868]LogActorFactory: Actor Factory spawned StaticMesh /Game/Textures/AirCon/AirCon_mesh/AirCon_body_base.AirCon_body_base as actor: StaticMeshActor /Game/Main.Main:PersistentLevel.StaticMeshActor_118
+[2025.05.01-10.40.59:030][868]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Textures/AirCon/AirCon_mesh/AirCon_fan.AirCon_fan
+[2025.05.01-10.40.59:030][868]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Textures/AirCon/AirCon_mesh/AirCon_fan.AirCon_fan
+[2025.05.01-10.40.59:032][868]LogActorFactory: Actor Factory spawned StaticMesh /Game/Textures/AirCon/AirCon_mesh/AirCon_fan.AirCon_fan as actor: StaticMeshActor /Game/Main.Main:PersistentLevel.StaticMeshActor_119
+[2025.05.01-10.40.59:060][868]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Textures/AirCon/AirCon_mesh/AirCon_pipes.AirCon_pipes
+[2025.05.01-10.40.59:060][868]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Textures/AirCon/AirCon_mesh/AirCon_pipes.AirCon_pipes
+[2025.05.01-10.40.59:062][868]LogActorFactory: Actor Factory spawned StaticMesh /Game/Textures/AirCon/AirCon_mesh/AirCon_pipes.AirCon_pipes as actor: StaticMeshActor /Game/Main.Main:PersistentLevel.StaticMeshActor_120
+[2025.05.01-10.40.59:089][868]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Textures/AirCon/AirCon_mesh/AirCon_screws.AirCon_screws
+[2025.05.01-10.40.59:089][868]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Textures/AirCon/AirCon_mesh/AirCon_screws.AirCon_screws
+[2025.05.01-10.40.59:092][868]LogActorFactory: Actor Factory spawned StaticMesh /Game/Textures/AirCon/AirCon_mesh/AirCon_screws.AirCon_screws as actor: StaticMeshActor /Game/Main.Main:PersistentLevel.StaticMeshActor_121
+[2025.05.01-10.41.14:692][ 93]Cmd: PIVOT HERE
+[2025.05.01-10.41.17:832][374]Cmd: ACTOR BAKEPREPIVOT
+[2025.05.01-10.41.18:515][422]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.01-10.43.16:703][818]LogInterchangeEngine: [Pending] Importing
+[2025.05.01-10.43.16:703][818]LogInterchangeEngine: Display: Interchange start importing source [E:/Dystopian_Thesis_...on/exported_textures/AirCon_air_con_body_base_MAT_BaseColor.png]
+[2025.05.01-10.43.16:704][818]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.05.01-10.43.16:704][818]LogInterchangeEngine: Display: Interchange start importing source [E:/Dystopian_Thesis_...on/exported_textures/AirCon_air_con_body_base_MAT_Normal.png]
+[2025.05.01-10.43.16:705][818]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.05.01-10.43.16:705][818]LogInterchangeEngine: Display: Interchange start importing source [E:/Dystopian_Thesis_...on/exported_textures/AirCon_air_con_body_base_MAT_OcclusionRoughnessMetallic.png]
+[2025.05.01-10.43.16:706][818]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.05.01-10.43.16:706][818]LogInterchangeEngine: Display: Interchange start importing source [E:/Dystopian_Thesis_...on/exported_textures/AirCon_air_con_body_MAT_BaseColor.png]
+[2025.05.01-10.43.16:707][818]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.05.01-10.43.16:707][818]LogInterchangeEngine: Display: Interchange start importing source [E:/Dystopian_Thesis_...on/exported_textures/AirCon_air_con_body_MAT_Normal.png]
+[2025.05.01-10.43.16:708][818]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.05.01-10.43.16:708][818]LogInterchangeEngine: Display: Interchange start importing source [E:/Dystopian_Thesis_...on/exported_textures/AirCon_air_con_body_MAT_OcclusionRoughnessMetallic.png]
+[2025.05.01-10.43.16:709][818]LogInterchangeEngine: [Pending] Importing -  (7)
+[2025.05.01-10.43.16:709][818]LogInterchangeEngine: Display: Interchange start importing source [E:/Dystopian_Thesis_...on/exported_textures/AirCon_air_con_fan_MAT_BaseColor.png]
+[2025.05.01-10.43.16:710][818]LogInterchangeEngine: [Pending] Importing -  (8)
+[2025.05.01-10.43.16:711][818]LogInterchangeEngine: Display: Interchange start importing source [E:/Dystopian_Thesis_...on/exported_textures/AirCon_air_con_fan_MAT_Normal.png]
+[2025.05.01-10.43.16:711][818]LogInterchangeEngine: [Pending] Importing -  (9)
+[2025.05.01-10.43.16:712][818]LogInterchangeEngine: Display: Interchange start importing source [E:/Dystopian_Thesis_...on/exported_textures/AirCon_air_con_fan_MAT_OcclusionRoughnessMetallic.png]
+[2025.05.01-10.43.16:712][818]LogInterchangeEngine: [Pending] Importing -  (10)
+[2025.05.01-10.43.16:713][818]LogInterchangeEngine: Display: Interchange start importing source [E:/Dystopian_Thesis_...on/exported_textures/AirCon_air_con_pipes_MAT_BaseColor.png]
+[2025.05.01-10.43.16:713][818]LogInterchangeEngine: [Pending] Importing -  (11)
+[2025.05.01-10.43.16:714][818]LogInterchangeEngine: Display: Interchange start importing source [E:/Dystopian_Thesis_...on/exported_textures/AirCon_air_con_pipes_MAT_Normal.png]
+[2025.05.01-10.43.16:714][818]LogInterchangeEngine: [Pending] Importing -  (12)
+[2025.05.01-10.43.16:715][818]LogInterchangeEngine: [Pending] Importing -  (13)
+[2025.05.01-10.43.16:715][818]LogInterchangeEngine: [Pending] Importing -  (14)
+[2025.05.01-10.43.16:716][818]LogInterchangeEngine: [Pending] Importing -  (15)
+[2025.05.01-10.43.16:730][819]LogAutomationController: Ignoring very large delta of 10.16 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.01-10.43.16:757][819]LogInterchangeEngine: [Pending] Importing -  (15)
+[2025.05.01-10.43.16:808][820]LogInterchangeImport: Display: Auto-detected grayscale, image changed to G8
+[2025.05.01-10.43.16:990][821]LogInterchangePipeline: Display: Auto-detected normal map
+[2025.05.01-10.43.16:993][821]LogTexture: Display: Building textures: /Game/Textures/AirCon/AirCon_air_con_body_MAT_Normal.AirCon_air_con_body_MAT_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 471.562488 MB), EncodeSpeed: Fast
+[2025.05.01-10.43.17:025][821]LogInterchangePipeline: Display: Auto-detected normal map
+[2025.05.01-10.43.17:033][821]LogTexture: Display: Building textures: /Game/Textures/AirCon/AirCon_air_con_fan_MAT_BaseColor.AirCon_air_con_fan_MAT_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 293.145823 MB), EncodeSpeed: Fast
+[2025.05.01-10.43.17:035][821]LogTexture: Display: Building textures: /Game/Textures/AirCon/AirCon_air_con_body_base_MAT_Normal.AirCon_air_con_body_base_MAT_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 471.562488 MB), EncodeSpeed: Fast
+[2025.05.01-10.43.17:037][821]LogTexture: Display: Building textures: /Game/Textures/AirCon/AirCon_air_con_body_base_MAT_BaseColor.AirCon_air_con_body_base_MAT_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 305.145823 MB), EncodeSpeed: Fast
+[2025.05.01-10.43.17:038][821]LogTexture: Display: Building textures: /Game/Textures/AirCon/AirCon_air_con_pipes_MAT_BaseColor.AirCon_air_con_pipes_MAT_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 305.145823 MB), EncodeSpeed: Fast
+[2025.05.01-10.43.17:055][821]LogTexture: Display: Building textures: /Game/Textures/AirCon/AirCon_air_con_body_base_MAT_OcclusionRoughnessMetallic.AirCon_air_con_body_base_MAT_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 305.145823 MB), EncodeSpeed: Fast
+[2025.05.01-10.43.17:060][821]LogInterchangePipeline: Display: Auto-detected normal map
+[2025.05.01-10.43.17:100][821]LogInterchangePipeline: Display: Auto-detected normal map
+[2025.05.01-10.43.17:100][821]LogTexture: Display: Building textures: /Game/Textures/AirCon/AirCon_air_con_body_MAT_OcclusionRoughnessMetallic.AirCon_air_con_body_MAT_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 305.145823 MB), EncodeSpeed: Fast
+[2025.05.01-10.43.17:103][821]LogInterchangeEngine: [Pending] Importing -  (10)
+[2025.05.01-10.43.17:103][821]LogInterchangeEngine: [Pending] Importing -  (14)
+[2025.05.01-10.43.17:103][821]LogInterchangeEngine: Display: Interchange start importing source [E:/Dystopian_Thesis_...on/exported_textures/AirCon_air_con_pipes_MAT_OcclusionRoughnessMetallic.png]
+[2025.05.01-10.43.17:103][821]LogInterchangeEngine: [Pending] Importing -  (10)
+[2025.05.01-10.43.17:103][821]LogInterchangeEngine: [Pending] Importing -  (13)
+[2025.05.01-10.43.17:103][821]LogInterchangeEngine: Display: Interchange start importing source [E:/Dystopian_Thesis_...on/exported_textures/AirCon_air_con_screws_MAT_BaseColor.png]
+[2025.05.01-10.43.17:103][821]LogInterchangeEngine: [Pending] Importing -  (10)
+[2025.05.01-10.43.17:103][821]LogInterchangeEngine: [Pending] Importing -  (12)
+[2025.05.01-10.43.17:104][821]LogInterchangeEngine: Display: Interchange start importing source [E:/Dystopian_Thesis_...on/exported_textures/AirCon_air_con_screws_MAT_Normal.png]
+[2025.05.01-10.43.17:104][821]LogInterchangeEngine: [Pending] Importing -  (10)
+[2025.05.01-10.43.17:104][821]LogInterchangeEngine: [Pending] Importing -  (11)
+[2025.05.01-10.43.17:105][821]LogInterchangeEngine: Display: Interchange start importing source [E:/Dystopian_Thesis_...on/exported_textures/AirCon_air_con_screws_MAT_OcclusionRoughnessMetallic.png]
+[2025.05.01-10.43.17:105][821]LogInterchangeEngine: [Pending] Importing -  (10)
+[2025.05.01-10.43.17:105][821]LogInterchangeEngine: [Pending] Importing -  (9)
+[2025.05.01-10.43.17:105][821]LogInterchangeEngine: [Pending] Importing -  (8)
+[2025.05.01-10.43.17:105][821]LogInterchangeEngine: [Pending] Importing -  (7)
+[2025.05.01-10.43.17:106][821]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.05.01-10.43.17:106][821]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.05.01-10.43.17:106][821]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.05.01-10.43.17:111][821]LogTexture: Display: Building textures: /Game/Textures/AirCon/AirCon_air_con_fan_MAT_Normal.AirCon_air_con_fan_MAT_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 471.562488 MB), EncodeSpeed: Fast
+[2025.05.01-10.43.17:119][821]LogTexture: Display: Building textures: /Game/Textures/AirCon/AirCon_air_con_fan_MAT_OcclusionRoughnessMetallic.AirCon_air_con_fan_MAT_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 305.145823 MB), EncodeSpeed: Fast
+[2025.05.01-10.43.17:126][821]LogTexture: Display: Building textures: /Game/Textures/AirCon/AirCon_air_con_body_MAT_BaseColor.AirCon_air_con_body_MAT_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 305.145823 MB), EncodeSpeed: Fast
+[2025.05.01-10.43.17:128][821]LogTexture: Display: Building textures: /Game/Textures/AirCon/AirCon_air_con_pipes_MAT_Normal.AirCon_air_con_pipes_MAT_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 471.562488 MB), EncodeSpeed: Fast
+[2025.05.01-10.43.17:576][822]LogInterchangeImport: Display: Auto-detected grayscale, image changed to G8
+[2025.05.01-10.43.17:734][822]LogTexture: Display: Building textures: /Game/Textures/AirCon/AirCon_air_con_screws_MAT_BaseColor.AirCon_air_con_screws_MAT_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 293.145823 MB), EncodeSpeed: Fast
+[2025.05.01-10.43.17:739][822]LogTexture: Display: Building textures: /Game/Textures/AirCon/AirCon_air_con_pipes_MAT_OcclusionRoughnessMetallic.AirCon_air_con_pipes_MAT_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 305.145823 MB), EncodeSpeed: Fast
+[2025.05.01-10.43.17:767][822]LogInterchangePipeline: Display: Auto-detected normal map
+[2025.05.01-10.43.17:779][822]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.05.01-10.43.17:779][822]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.05.01-10.43.17:779][822]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.05.01-10.43.17:779][822]LogInterchangeEngine: [Success] Import Done
+[2025.05.01-10.43.17:817][823]LogInterchangeEngine: [Success] Import Done
+[2025.05.01-10.43.17:837][823]LogTexture: Display: Building textures: /Game/Textures/AirCon/AirCon_air_con_screws_MAT_Normal.AirCon_air_con_screws_MAT_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 471.562488 MB), EncodeSpeed: Fast
+[2025.05.01-10.43.17:837][823]LogTexture: Display: Building textures: /Game/Textures/AirCon/AirCon_air_con_screws_MAT_OcclusionRoughnessMetallic.AirCon_air_con_screws_MAT_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 305.145823 MB), EncodeSpeed: Fast
+[2025.05.01-10.45.21:395][437]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/AirCon/AirCon_air_con_body_base_MAT_OcclusionRoughnessMetallic.AirCon_air_con_body_base_MAT_OcclusionRoughnessMetallic
+[2025.05.01-10.45.21:990][437]LogViewport: Scene viewport resized to 1083x768, mode Windowed.
+[2025.05.01-10.45.23:013][508]LogTexture: Display: Building textures: /Game/Textures/AirCon/AirCon_air_con_body_base_MAT_OcclusionRoughnessMetallic.AirCon_air_con_body_base_MAT_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 305.145823 MB), EncodeSpeed: Final
+[2025.05.01-10.45.23:849][558]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/AirCon/AirCon_air_con_body_MAT_OcclusionRoughnessMetallic.AirCon_air_con_body_MAT_OcclusionRoughnessMetallic
+[2025.05.01-10.45.24:417][558]LogViewport: Scene viewport resized to 1083x768, mode Windowed.
+[2025.05.01-10.45.24:862][586]LogTexture: Display: Building textures: /Game/Textures/AirCon/AirCon_air_con_body_MAT_OcclusionRoughnessMetallic.AirCon_air_con_body_MAT_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 305.145823 MB), EncodeSpeed: Final
+[2025.05.01-10.45.25:631][631]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/AirCon/AirCon_air_con_fan_MAT_OcclusionRoughnessMetallic.AirCon_air_con_fan_MAT_OcclusionRoughnessMetallic
+[2025.05.01-10.45.26:104][631]LogViewport: Scene viewport resized to 1083x768, mode Windowed.
+[2025.05.01-10.45.26:634][665]LogTexture: Display: Building textures: /Game/Textures/AirCon/AirCon_air_con_fan_MAT_OcclusionRoughnessMetallic.AirCon_air_con_fan_MAT_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 305.145823 MB), EncodeSpeed: Final
+[2025.05.01-10.45.27:308][703]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/AirCon/AirCon_air_con_pipes_MAT_OcclusionRoughnessMetallic.AirCon_air_con_pipes_MAT_OcclusionRoughnessMetallic
+[2025.05.01-10.45.27:821][703]LogViewport: Scene viewport resized to 1083x768, mode Windowed.
+[2025.05.01-10.45.28:478][745]LogTexture: Display: Building textures: /Game/Textures/AirCon/AirCon_air_con_pipes_MAT_OcclusionRoughnessMetallic.AirCon_air_con_pipes_MAT_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 305.145823 MB), EncodeSpeed: Final
+[2025.05.01-10.45.29:595][809]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/AirCon/AirCon_air_con_screws_MAT_OcclusionRoughnessMetallic.AirCon_air_con_screws_MAT_OcclusionRoughnessMetallic
+[2025.05.01-10.45.30:138][809]LogViewport: Scene viewport resized to 1083x768, mode Windowed.
+[2025.05.01-10.45.31:607][852]LogTexture: Display: Building textures: /Game/Textures/AirCon/AirCon_air_con_screws_MAT_OcclusionRoughnessMetallic.AirCon_air_con_screws_MAT_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 305.145823 MB), EncodeSpeed: Final
+[2025.05.01-10.45.33:198][944]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Textures/AirCon/Body_MAT.Body_MAT
+[2025.05.01-10.45.33:202][944]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.01-10.45.33:202][944]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.01-10.45.34:339][944]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.01-10.45.34:339][944]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.01-10.45.34:339][944]MaterialEditorStats: Shader Count: 0
+[2025.05.01-10.45.34:351][944]LogViewport: Scene viewport resized to 285x383, mode Windowed.
+[2025.05.01-10.45.34:378][945]LogShaderCompilers: Display: ================================================
+[2025.05.01-10.45.34:378][945]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.01-10.45.34:378][945]LogShaderCompilers: Display: Total job queries 3,840, among them cache hits 3,609 (93.98%)
+[2025.05.01-10.45.34:378][945]LogShaderCompilers: Display: Tracking 231 distinct input hashes that result in 151 distinct outputs (65.37%)
+[2025.05.01-10.45.34:378][945]LogShaderCompilers: Display: RAM used: 5.43 MiB of 1.60 GiB budget. Usage: 0.33%
+[2025.05.01-10.45.34:378][945]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.01-10.45.34:378][945]LogShaderCompilers: Display: Shaders Compiled: 65
+[2025.05.01-10.45.34:378][945]LogShaderCompilers: Display: Jobs assigned 65, completed 65 (100%)
+[2025.05.01-10.45.34:378][945]LogShaderCompilers: Display: Average time worker was idle: 29.22 s
+[2025.05.01-10.45.34:378][945]LogShaderCompilers: Display: Time job spent in pending queue: average 0.15 s, longest 1.04 s
+[2025.05.01-10.45.34:378][945]LogShaderCompilers: Display: Job execution time: average 0.57 s, max 1.36 s
+[2025.05.01-10.45.34:378][945]LogShaderCompilers: Display: Job life time (pending + execution): average 0.72 s, max 1.46
+[2025.05.01-10.45.34:378][945]LogShaderCompilers: Display: Shader code size: average 42.205 KiB, min 5.336 KiB, max 72.621 KiB
+[2025.05.01-10.45.34:378][945]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 7.07 s
+[2025.05.01-10.45.34:378][945]LogShaderCompilers: Display: Jobs were issued in 65 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.05.01-10.45.34:378][945]LogShaderCompilers: Display: Average processing rate: 9.19 jobs/sec
+[2025.05.01-10.45.34:378][945]LogShaderCompilers: Display: Total thread time: 27.275 s
+[2025.05.01-10.45.34:378][945]LogShaderCompilers: Display: Total thread preprocess time: 1.897 s
+[2025.05.01-10.45.34:378][945]LogShaderCompilers: Display: Percentage time preprocessing: 6.95%
+[2025.05.01-10.45.34:378][945]LogShaderCompilers: Display: Effective parallelization: 3.86 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2025.05.01-10.45.34:378][945]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.05.01-10.45.34:378][945]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    1 times, average 0.89 sec, max 0.89 sec, min 0.89 sec)
+[2025.05.01-10.45.34:378][945]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 0.77 sec, max 1.22 sec, min 0.32 sec)
+[2025.05.01-10.45.34:378][945]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    2 times, average 0.76 sec, max 1.22 sec, min 0.30 sec)
+[2025.05.01-10.45.34:378][945]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 0.76 sec, max 1.22 sec, min 0.31 sec)
+[2025.05.01-10.45.34:379][945]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    2 times, average 0.75 sec, max 1.19 sec, min 0.30 sec)
+[2025.05.01-10.45.34:379][945]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.05.01-10.45.34:379][945]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 13.58% of total time (compiled    7 times, average 0.53 sec, max 0.94 sec, min 0.42 sec)
+[2025.05.01-10.45.34:379][945]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.60% of total time (compiled    7 times, average 0.41 sec, max 1.17 sec, min 0.26 sec)
+[2025.05.01-10.45.34:379][945]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 5.62% of total time (compiled    2 times, average 0.77 sec, max 1.22 sec, min 0.32 sec)
+[2025.05.01-10.45.34:379][945]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 5.59% of total time (compiled    2 times, average 0.76 sec, max 1.22 sec, min 0.30 sec)
+[2025.05.01-10.45.34:379][945]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 5.59% of total time (compiled    2 times, average 0.76 sec, max 1.22 sec, min 0.31 sec)
+[2025.05.01-10.45.34:379][945]LogShaderCompilers: Display: ================================================
+[2025.05.01-10.45.34:411][946]MaterialEditorStats: Base pass shader: 187 instructions
+[2025.05.01-10.45.34:411][946]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2025.05.01-10.45.34:411][946]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.01-10.45.34:411][946]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.01-10.45.34:411][946]MaterialEditorStats: Shader Count: 5
+[2025.05.01-10.45.39:265][226]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.01-10.45.39:265][226]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.01-10.45.39:265][226]MaterialEditorStats: Shader Count: 0
+[2025.05.01-10.45.39:375][227]MaterialEditorStats: Base pass shader: 187 instructions
+[2025.05.01-10.45.39:375][227]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2025.05.01-10.45.39:375][227]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.01-10.45.39:375][227]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.01-10.45.39:375][227]MaterialEditorStats: Shader Count: 5
+[2025.05.01-10.45.48:741][742]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.01-10.45.48:741][742]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.05.01-10.45.48:741][742]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.01-10.45.48:741][742]MaterialEditorStats: Shader Count: 0
+[2025.05.01-10.45.48:978][744]MaterialEditorStats: Base pass shader: 194 instructions
+[2025.05.01-10.45.48:978][744]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.01-10.45.48:978][744]MaterialEditorStats: Texture samplers: 3/16
+[2025.05.01-10.45.48:978][744]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.05.01-10.45.48:978][744]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.01-10.45.48:978][744]MaterialEditorStats: Shader Count: 5
+[2025.05.01-10.45.50:082][808]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.01-10.45.50:082][808]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.05.01-10.45.50:082][808]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.01-10.45.50:082][808]MaterialEditorStats: Shader Count: 0
+[2025.05.01-10.45.50:220][811]MaterialEditorStats: Base pass shader: 198 instructions
+[2025.05.01-10.45.50:220][811]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.01-10.45.50:220][811]MaterialEditorStats: Texture samplers: 4/16
+[2025.05.01-10.45.50:220][811]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.05.01-10.45.50:220][811]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.01-10.45.50:220][811]MaterialEditorStats: Shader Count: 5
+[2025.05.01-10.45.51:684][897]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.01-10.45.51:684][897]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.05.01-10.45.51:684][897]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.01-10.45.51:684][897]MaterialEditorStats: Shader Count: 0
+[2025.05.01-10.45.51:820][899]MaterialEditorStats: Base pass shader: 199 instructions
+[2025.05.01-10.45.51:820][899]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.01-10.45.51:820][899]MaterialEditorStats: Texture samplers: 4/16
+[2025.05.01-10.45.51:820][899]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.05.01-10.45.51:820][899]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.01-10.45.51:820][899]MaterialEditorStats: Shader Count: 5
+[2025.05.01-10.45.53:599][995]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.01-10.45.53:599][995]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.05.01-10.45.53:599][995]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.01-10.45.53:599][995]MaterialEditorStats: Shader Count: 0
+[2025.05.01-10.45.53:745][998]MaterialEditorStats: Base pass shader: 206 instructions
+[2025.05.01-10.45.53:745][998]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.01-10.45.53:745][998]MaterialEditorStats: Texture samplers: 5/16
+[2025.05.01-10.45.53:745][998]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.05.01-10.45.53:745][998]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.01-10.45.53:745][998]MaterialEditorStats: Shader Count: 5
+[2025.05.01-10.45.56:549][144]LogMaterialEditor: Saving and Compiling material Body_MAT
+[2025.05.01-10.45.56:702][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.05.01-10.45.56:874][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.05.01-10.45.56:893][144]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.01-10.45.57:027][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/AirCon/Body_MAT" FILE="E:/Thesis_Hatch_Room_UE/Hatch_Room/Content/Textures/AirCon/Body_MAT.uasset" SILENT=true
+[2025.05.01-10.45.57:922][144]LogSavePackage: Moving output files for package: /Game/Textures/AirCon/Body_MAT
+[2025.05.01-10.45.57:932][144]LogSavePackage: Moving 'E:/Thesis_Hatch_Room_UE/Hatch_Room/Saved/Body_MATAE65C5EB4C2B3743A9745ABD5BDE8945.tmp' to 'E:/Thesis_Hatch_Room_UE/Hatch_Room/Content/Textures/AirCon/Body_MAT.uasset'
+[2025.05.01-10.45.57:984][144]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.08 sec (total: 18:22 min)
+[2025.05.01-10.45.57:986][144]AssetCheck: New page: Asset Save: Body_MAT
+[2025.05.01-10.45.57:986][144]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Textures/AirCon/Body_MAT.Body_MAT
+[2025.05.01-10.45.57:987][144]MaterialEditorStats: Base pass shader: 206 instructions
+[2025.05.01-10.45.57:987][144]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.01-10.45.57:987][144]MaterialEditorStats: MaxSampler: 256 instructions
+[2025.05.01-10.45.57:987][144]MaterialEditorStats: Texture samplers: 6/16
+[2025.05.01-10.45.57:987][144]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.05.01-10.45.57:987][144]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.01-10.45.57:987][144]MaterialEditorStats: Shader Count: 27
+[2025.05.01-10.45.59:659][233]LogMaterial: Display: Material /Game/Textures/AirCon/Body_MAT.Body_MAT needed to have new flag set bUsedWithNanite !
+[2025.05.01-10.45.59:659][233]LogMaterial: Display: Material /Engine/Transient.Body_MAT needed to have new flag set bUsedWithNanite !
+[2025.05.01-10.45.59:740][233]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.01-10.45.59:740][233]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.05.01-10.45.59:740][233]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.01-10.45.59:740][233]MaterialEditorStats: Shader Count: 0
+[2025.05.01-10.45.59:879][234]MaterialEditorStats: Base pass shader: 206 instructions
+[2025.05.01-10.45.59:879][234]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.01-10.45.59:879][234]MaterialEditorStats: MaxSampler: 256 instructions
+[2025.05.01-10.45.59:879][234]MaterialEditorStats: Texture samplers: 6/16
+[2025.05.01-10.45.59:879][234]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.05.01-10.45.59:879][234]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.01-10.45.59:879][234]MaterialEditorStats: Shader Count: 40
+[2025.05.01-10.46.05:858][562]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Textures/AirCon/BodyBase_MAT.BodyBase_MAT
+[2025.05.01-10.46.05:862][562]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.01-10.46.05:863][562]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.01-10.46.06:792][562]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.01-10.46.06:792][562]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.01-10.46.06:792][562]MaterialEditorStats: Shader Count: 0
+[2025.05.01-10.46.06:805][562]LogViewport: Scene viewport resized to 285x383, mode Windowed.
+[2025.05.01-10.46.06:856][564]MaterialEditorStats: Base pass shader: 187 instructions
+[2025.05.01-10.46.06:856][564]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2025.05.01-10.46.06:856][564]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.01-10.46.06:856][564]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.01-10.46.06:856][564]MaterialEditorStats: Shader Count: 5
+[2025.05.01-10.46.11:722][852]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.01-10.46.11:722][852]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.01-10.46.11:722][852]MaterialEditorStats: Shader Count: 0
+[2025.05.01-10.46.11:830][853]MaterialEditorStats: Base pass shader: 187 instructions
+[2025.05.01-10.46.11:830][853]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2025.05.01-10.46.11:830][853]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.01-10.46.11:830][853]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.01-10.46.11:830][853]MaterialEditorStats: Shader Count: 5
+[2025.05.01-10.46.20:044][368]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.01-10.46.20:044][368]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.05.01-10.46.20:044][368]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.01-10.46.20:044][368]MaterialEditorStats: Shader Count: 0
+[2025.05.01-10.46.20:175][370]MaterialEditorStats: Base pass shader: 194 instructions
+[2025.05.01-10.46.20:175][370]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.01-10.46.20:175][370]MaterialEditorStats: Texture samplers: 3/16
+[2025.05.01-10.46.20:175][370]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.05.01-10.46.20:175][370]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.01-10.46.20:175][370]MaterialEditorStats: Shader Count: 5
+[2025.05.01-10.46.21:645][455]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.01-10.46.21:645][455]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.05.01-10.46.21:645][455]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.01-10.46.21:645][455]MaterialEditorStats: Shader Count: 0
+[2025.05.01-10.46.21:774][458]MaterialEditorStats: Base pass shader: 198 instructions
+[2025.05.01-10.46.21:774][458]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.01-10.46.21:774][458]MaterialEditorStats: Texture samplers: 4/16
+[2025.05.01-10.46.21:774][458]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.05.01-10.46.21:774][458]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.01-10.46.21:774][458]MaterialEditorStats: Shader Count: 5
+[2025.05.01-10.46.25:863][772]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.01-10.46.25:863][772]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.05.01-10.46.25:863][772]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.01-10.46.25:863][772]MaterialEditorStats: Shader Count: 0
+[2025.05.01-10.46.26:020][774]MaterialEditorStats: Base pass shader: 199 instructions
+[2025.05.01-10.46.26:020][774]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.01-10.46.26:020][774]MaterialEditorStats: Texture samplers: 4/16
+[2025.05.01-10.46.26:020][774]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.05.01-10.46.26:020][774]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.01-10.46.26:020][774]MaterialEditorStats: Shader Count: 5
+[2025.05.01-10.46.27:473][855]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.01-10.46.27:473][855]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.05.01-10.46.27:473][855]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.01-10.46.27:473][855]MaterialEditorStats: Shader Count: 0
+[2025.05.01-10.46.27:601][858]MaterialEditorStats: Base pass shader: 206 instructions
+[2025.05.01-10.46.27:601][858]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.01-10.46.27:601][858]MaterialEditorStats: Texture samplers: 5/16
+[2025.05.01-10.46.27:601][858]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.05.01-10.46.27:601][858]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.01-10.46.27:601][858]MaterialEditorStats: Shader Count: 5
+[2025.05.01-10.46.28:775][931]LogMaterialEditor: Saving and Compiling material BodyBase_MAT
+[2025.05.01-10.46.28:905][931]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.05.01-10.46.29:055][931]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.05.01-10.46.29:066][931]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.01-10.46.29:191][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/AirCon/BodyBase_MAT" FILE="E:/Thesis_Hatch_Room_UE/Hatch_Room/Content/Textures/AirCon/BodyBase_MAT.uasset" SILENT=true
+[2025.05.01-10.46.30:055][931]LogSavePackage: Moving output files for package: /Game/Textures/AirCon/BodyBase_MAT
+[2025.05.01-10.46.30:066][931]LogSavePackage: Moving 'E:/Thesis_Hatch_Room_UE/Hatch_Room/Saved/BodyBase_MATF9B8920C48A6B38684E0A7A45948DBD8.tmp' to 'E:/Thesis_Hatch_Room_UE/Hatch_Room/Content/Textures/AirCon/BodyBase_MAT.uasset'
+[2025.05.01-10.46.30:105][931]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.03 sec (total: 18:23 min)
+[2025.05.01-10.46.30:107][931]AssetCheck: New page: Asset Save: BodyBase_MAT
+[2025.05.01-10.46.30:107][931]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Textures/AirCon/BodyBase_MAT.BodyBase_MAT
+[2025.05.01-10.46.30:108][931]MaterialEditorStats: Base pass shader: 206 instructions
+[2025.05.01-10.46.30:108][931]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.01-10.46.30:108][931]MaterialEditorStats: MaxSampler: 256 instructions
+[2025.05.01-10.46.30:108][931]MaterialEditorStats: Texture samplers: 6/16
+[2025.05.01-10.46.30:108][931]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.05.01-10.46.30:108][931]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.01-10.46.30:108][931]MaterialEditorStats: Shader Count: 27
+[2025.05.01-10.46.44:351][786]LogMaterial: Display: Material /Game/Textures/AirCon/BodyBase_MAT.BodyBase_MAT needed to have new flag set bUsedWithNanite !
+[2025.05.01-10.46.44:352][786]LogMaterial: Display: Material /Engine/Transient.BodyBase_MAT needed to have new flag set bUsedWithNanite !
+[2025.05.01-10.46.44:395][786]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.01-10.46.44:395][786]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.05.01-10.46.44:395][786]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.01-10.46.44:395][786]MaterialEditorStats: Shader Count: 0
+[2025.05.01-10.46.44:522][787]MaterialEditorStats: Base pass shader: 206 instructions
+[2025.05.01-10.46.44:522][787]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.01-10.46.44:522][787]MaterialEditorStats: MaxSampler: 256 instructions
+[2025.05.01-10.46.44:522][787]MaterialEditorStats: Texture samplers: 6/16
+[2025.05.01-10.46.44:522][787]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.05.01-10.46.44:522][787]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.01-10.46.44:522][787]MaterialEditorStats: Shader Count: 40
+[2025.05.01-10.46.47:037][937]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Textures/AirCon/fan_MAT.fan_MAT
+[2025.05.01-10.46.47:041][937]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.01-10.46.47:041][937]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.01-10.46.47:972][937]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.01-10.46.47:972][937]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.01-10.46.47:972][937]MaterialEditorStats: Shader Count: 0
+[2025.05.01-10.46.47:982][937]LogViewport: Scene viewport resized to 285x383, mode Windowed.
+[2025.05.01-10.46.48:032][939]MaterialEditorStats: Base pass shader: 187 instructions
+[2025.05.01-10.46.48:032][939]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2025.05.01-10.46.48:032][939]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.01-10.46.48:032][939]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.01-10.46.48:032][939]MaterialEditorStats: Shader Count: 5
+[2025.05.01-10.46.54:635][320]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.01-10.46.54:635][320]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.01-10.46.54:635][320]MaterialEditorStats: Shader Count: 0
+[2025.05.01-10.46.54:729][321]MaterialEditorStats: Base pass shader: 187 instructions
+[2025.05.01-10.46.54:729][321]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2025.05.01-10.46.54:729][321]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.01-10.46.54:729][321]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.01-10.46.54:729][321]MaterialEditorStats: Shader Count: 5
+[2025.05.01-10.47.01:081][725]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.01-10.47.01:081][725]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.05.01-10.47.01:081][725]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.01-10.47.01:081][725]MaterialEditorStats: Shader Count: 0
+[2025.05.01-10.47.01:213][727]MaterialEditorStats: Base pass shader: 194 instructions
+[2025.05.01-10.47.01:213][727]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.01-10.47.01:213][727]MaterialEditorStats: Texture samplers: 3/16
+[2025.05.01-10.47.01:213][727]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.05.01-10.47.01:213][727]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.01-10.47.01:213][727]MaterialEditorStats: Shader Count: 5
+[2025.05.01-10.47.02:473][796]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.01-10.47.02:473][796]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.05.01-10.47.02:473][796]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.01-10.47.02:473][796]MaterialEditorStats: Shader Count: 0
+[2025.05.01-10.47.02:600][799]MaterialEditorStats: Base pass shader: 198 instructions
+[2025.05.01-10.47.02:600][799]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.01-10.47.02:600][799]MaterialEditorStats: Texture samplers: 4/16
+[2025.05.01-10.47.02:600][799]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.05.01-10.47.02:600][799]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.01-10.47.02:600][799]MaterialEditorStats: Shader Count: 5
+[2025.05.01-10.47.03:637][860]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.01-10.47.03:637][860]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.05.01-10.47.03:637][860]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.01-10.47.03:637][860]MaterialEditorStats: Shader Count: 0
+[2025.05.01-10.47.03:767][862]MaterialEditorStats: Base pass shader: 199 instructions
+[2025.05.01-10.47.03:768][862]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.01-10.47.03:768][862]MaterialEditorStats: Texture samplers: 4/16
+[2025.05.01-10.47.03:768][862]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.05.01-10.47.03:768][862]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.01-10.47.03:768][862]MaterialEditorStats: Shader Count: 5
+[2025.05.01-10.47.04:986][933]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.01-10.47.04:986][933]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.05.01-10.47.04:986][933]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.01-10.47.04:986][933]MaterialEditorStats: Shader Count: 0
+[2025.05.01-10.47.05:114][936]MaterialEditorStats: Base pass shader: 206 instructions
+[2025.05.01-10.47.05:114][936]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.01-10.47.05:114][936]MaterialEditorStats: Texture samplers: 5/16
+[2025.05.01-10.47.05:114][936]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.05.01-10.47.05:114][936]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.01-10.47.05:114][936]MaterialEditorStats: Shader Count: 5
+[2025.05.01-10.47.06:575][ 27]LogMaterialEditor: Saving and Compiling material fan_MAT
+[2025.05.01-10.47.06:674][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.05.01-10.47.06:846][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.05.01-10.47.06:855][ 27]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.01-10.47.06:978][ 27]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/AirCon/fan_MAT" FILE="E:/Thesis_Hatch_Room_UE/Hatch_Room/Content/Textures/AirCon/fan_MAT.uasset" SILENT=true
+[2025.05.01-10.47.07:885][ 27]LogSavePackage: Moving output files for package: /Game/Textures/AirCon/fan_MAT
+[2025.05.01-10.47.07:885][ 27]LogSavePackage: Moving 'E:/Thesis_Hatch_Room_UE/Hatch_Room/Saved/fan_MATF2329DDF409D4028C38D8F8F9C0A48E4.tmp' to 'E:/Thesis_Hatch_Room_UE/Hatch_Room/Content/Textures/AirCon/fan_MAT.uasset'
+[2025.05.01-10.47.07:912][ 27]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.05 sec (total: 18:24 min)
+[2025.05.01-10.47.07:915][ 27]AssetCheck: New page: Asset Save: fan_MAT
+[2025.05.01-10.47.07:915][ 27]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Textures/AirCon/fan_MAT.fan_MAT
+[2025.05.01-10.47.07:917][ 27]MaterialEditorStats: Base pass shader: 206 instructions
+[2025.05.01-10.47.07:917][ 27]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.01-10.47.07:917][ 27]MaterialEditorStats: MaxSampler: 256 instructions
+[2025.05.01-10.47.07:917][ 27]MaterialEditorStats: Texture samplers: 6/16
+[2025.05.01-10.47.07:917][ 27]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.05.01-10.47.07:917][ 27]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.01-10.47.07:917][ 27]MaterialEditorStats: Shader Count: 27
+[2025.05.01-10.47.14:929][439]LogMaterial: Display: Material /Game/Textures/AirCon/fan_MAT.fan_MAT needed to have new flag set bUsedWithNanite !
+[2025.05.01-10.47.14:930][439]LogMaterial: Display: Material /Engine/Transient.fan_MAT needed to have new flag set bUsedWithNanite !
+[2025.05.01-10.47.14:977][439]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.01-10.47.14:977][439]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.05.01-10.47.14:977][439]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.01-10.47.14:977][439]MaterialEditorStats: Shader Count: 0
+[2025.05.01-10.47.15:171][440]MaterialEditorStats: Base pass shader: 206 instructions
+[2025.05.01-10.47.15:172][440]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.01-10.47.15:172][440]MaterialEditorStats: MaxSampler: 256 instructions
+[2025.05.01-10.47.15:172][440]MaterialEditorStats: Texture samplers: 6/16
+[2025.05.01-10.47.15:172][440]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.05.01-10.47.15:172][440]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.01-10.47.15:172][440]MaterialEditorStats: Shader Count: 40
+[2025.05.01-10.47.18:030][612]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Textures/AirCon/Pipes_MAT.Pipes_MAT
+[2025.05.01-10.47.18:033][612]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.01-10.47.18:034][612]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.01-10.47.18:994][612]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.01-10.47.18:994][612]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.01-10.47.18:995][612]MaterialEditorStats: Shader Count: 0
+[2025.05.01-10.47.19:038][612]LogViewport: Scene viewport resized to 285x383, mode Windowed.
+[2025.05.01-10.47.19:102][614]MaterialEditorStats: Base pass shader: 187 instructions
+[2025.05.01-10.47.19:103][614]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2025.05.01-10.47.19:103][614]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.01-10.47.19:103][614]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.01-10.47.19:103][614]MaterialEditorStats: Shader Count: 5
+[2025.05.01-10.47.25:660][ 19]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.01-10.47.25:660][ 19]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.01-10.47.25:660][ 19]MaterialEditorStats: Shader Count: 0
+[2025.05.01-10.47.25:767][ 20]MaterialEditorStats: Base pass shader: 187 instructions
+[2025.05.01-10.47.25:767][ 20]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2025.05.01-10.47.25:767][ 20]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.01-10.47.25:767][ 20]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.01-10.47.25:767][ 20]MaterialEditorStats: Shader Count: 5
+[2025.05.01-10.47.35:197][634]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.01-10.47.35:197][634]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.05.01-10.47.35:197][634]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.01-10.47.35:197][634]MaterialEditorStats: Shader Count: 0
+[2025.05.01-10.47.35:329][636]MaterialEditorStats: Base pass shader: 194 instructions
+[2025.05.01-10.47.35:329][636]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.01-10.47.35:329][636]MaterialEditorStats: Texture samplers: 3/16
+[2025.05.01-10.47.35:329][636]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.05.01-10.47.35:329][636]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.01-10.47.35:329][636]MaterialEditorStats: Shader Count: 5
+[2025.05.01-10.47.36:803][718]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.01-10.47.36:804][718]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.05.01-10.47.36:804][718]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.01-10.47.36:804][718]MaterialEditorStats: Shader Count: 0
+[2025.05.01-10.47.37:023][721]MaterialEditorStats: Base pass shader: 198 instructions
+[2025.05.01-10.47.37:023][721]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.01-10.47.37:023][721]MaterialEditorStats: Texture samplers: 4/16
+[2025.05.01-10.47.37:023][721]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.05.01-10.47.37:023][721]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.01-10.47.37:023][721]MaterialEditorStats: Shader Count: 5
+[2025.05.01-10.47.38:382][799]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.01-10.47.38:383][799]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.05.01-10.47.38:383][799]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.01-10.47.38:383][799]MaterialEditorStats: Shader Count: 0
+[2025.05.01-10.47.38:513][801]MaterialEditorStats: Base pass shader: 199 instructions
+[2025.05.01-10.47.38:513][801]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.01-10.47.38:513][801]MaterialEditorStats: Texture samplers: 4/16
+[2025.05.01-10.47.38:513][801]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.05.01-10.47.38:513][801]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.01-10.47.38:513][801]MaterialEditorStats: Shader Count: 5
+[2025.05.01-10.47.39:996][890]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.01-10.47.39:996][890]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.05.01-10.47.39:996][890]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.01-10.47.39:996][890]MaterialEditorStats: Shader Count: 0
+[2025.05.01-10.47.40:124][893]MaterialEditorStats: Base pass shader: 206 instructions
+[2025.05.01-10.47.40:124][893]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.01-10.47.40:124][893]MaterialEditorStats: Texture samplers: 5/16
+[2025.05.01-10.47.40:124][893]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.05.01-10.47.40:124][893]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.01-10.47.40:124][893]MaterialEditorStats: Shader Count: 5
+[2025.05.01-10.47.45:906][237]LogMaterial: Display: Material /Game/Textures/AirCon/Pipes_MAT.Pipes_MAT needed to have new flag set bUsedWithNanite !
+[2025.05.01-10.47.45:906][237]LogMaterial: Display: Material /Engine/Transient.Pipes_MAT needed to have new flag set bUsedWithNanite !
+[2025.05.01-10.47.45:943][237]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.01-10.47.45:943][237]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.05.01-10.47.45:943][237]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.01-10.47.45:943][237]MaterialEditorStats: Shader Count: 0
+[2025.05.01-10.47.46:073][238]MaterialEditorStats: Base pass shader: 206 instructions
+[2025.05.01-10.47.46:074][238]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.01-10.47.46:074][238]MaterialEditorStats: Texture samplers: 5/16
+[2025.05.01-10.47.46:074][238]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.05.01-10.47.46:074][238]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.01-10.47.46:074][238]MaterialEditorStats: Shader Count: 15
+[2025.05.01-10.47.47:020][258]LogMaterialEditor: Saving and Compiling material Pipes_MAT
+[2025.05.01-10.47.47:180][258]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.05.01-10.47.47:350][258]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.05.01-10.47.47:361][258]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.01-10.47.47:452][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/AirCon/Pipes_MAT" FILE="E:/Thesis_Hatch_Room_UE/Hatch_Room/Content/Textures/AirCon/Pipes_MAT.uasset" SILENT=true
+[2025.05.01-10.47.48:357][258]LogSavePackage: Moving output files for package: /Game/Textures/AirCon/Pipes_MAT
+[2025.05.01-10.47.48:357][258]LogSavePackage: Moving 'E:/Thesis_Hatch_Room_UE/Hatch_Room/Saved/Pipes_MAT709453BA46321F3E941A2AAA31F18F36.tmp' to 'E:/Thesis_Hatch_Room_UE/Hatch_Room/Content/Textures/AirCon/Pipes_MAT.uasset'
+[2025.05.01-10.47.48:373][258]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.01 sec (total: 18:25 min)
+[2025.05.01-10.47.48:374][258]AssetCheck: New page: Asset Save: Pipes_MAT
+[2025.05.01-10.47.48:374][258]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Textures/AirCon/Pipes_MAT.Pipes_MAT
+[2025.05.01-10.47.48:375][258]MaterialEditorStats: Base pass shader: 206 instructions
+[2025.05.01-10.47.48:375][258]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.01-10.47.48:375][258]MaterialEditorStats: MaxSampler: 256 instructions
+[2025.05.01-10.47.48:375][258]MaterialEditorStats: Texture samplers: 6/16
+[2025.05.01-10.47.48:375][258]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.05.01-10.47.48:375][258]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.01-10.47.48:375][258]MaterialEditorStats: Shader Count: 40
+[2025.05.01-10.47.49:904][330]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Textures/AirCon/screws_MAT.screws_MAT
+[2025.05.01-10.47.49:908][330]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.01-10.47.49:908][330]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.01-10.47.50:771][330]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.01-10.47.50:771][330]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.01-10.47.50:771][330]MaterialEditorStats: Shader Count: 0
+[2025.05.01-10.47.50:782][330]LogViewport: Scene viewport resized to 285x383, mode Windowed.
+[2025.05.01-10.47.50:836][332]MaterialEditorStats: Base pass shader: 187 instructions
+[2025.05.01-10.47.50:836][332]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2025.05.01-10.47.50:836][332]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.01-10.47.50:836][332]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.01-10.47.50:836][332]MaterialEditorStats: Shader Count: 5
+[2025.05.01-10.47.54:932][570]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.01-10.47.54:932][570]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.01-10.47.54:932][570]MaterialEditorStats: Shader Count: 0
+[2025.05.01-10.47.55:046][571]MaterialEditorStats: Base pass shader: 187 instructions
+[2025.05.01-10.47.55:046][571]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2025.05.01-10.47.55:046][571]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.01-10.47.55:046][571]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.01-10.47.55:046][571]MaterialEditorStats: Shader Count: 5
+[2025.05.01-10.48.07:279][272]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.01-10.48.07:280][272]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.05.01-10.48.07:280][272]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.01-10.48.07:280][272]MaterialEditorStats: Shader Count: 0
+[2025.05.01-10.48.07:495][274]MaterialEditorStats: Base pass shader: 194 instructions
+[2025.05.01-10.48.07:495][274]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.01-10.48.07:495][274]MaterialEditorStats: Texture samplers: 3/16
+[2025.05.01-10.48.07:495][274]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.05.01-10.48.07:495][274]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.01-10.48.07:495][274]MaterialEditorStats: Shader Count: 5
+[2025.05.01-10.48.09:190][369]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.01-10.48.09:190][369]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.05.01-10.48.09:190][369]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.01-10.48.09:190][369]MaterialEditorStats: Shader Count: 0
+[2025.05.01-10.48.09:330][372]MaterialEditorStats: Base pass shader: 198 instructions
+[2025.05.01-10.48.09:330][372]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.01-10.48.09:330][372]MaterialEditorStats: Texture samplers: 4/16
+[2025.05.01-10.48.09:330][372]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.05.01-10.48.09:330][372]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.01-10.48.09:330][372]MaterialEditorStats: Shader Count: 5
+[2025.05.01-10.48.10:695][451]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.01-10.48.10:695][451]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.05.01-10.48.10:695][451]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.01-10.48.10:695][451]MaterialEditorStats: Shader Count: 0
+[2025.05.01-10.48.10:873][453]MaterialEditorStats: Base pass shader: 199 instructions
+[2025.05.01-10.48.10:873][453]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.01-10.48.10:873][453]MaterialEditorStats: Texture samplers: 4/16
+[2025.05.01-10.48.10:873][453]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.05.01-10.48.10:873][453]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.01-10.48.10:873][453]MaterialEditorStats: Shader Count: 5
+[2025.05.01-10.48.12:411][543]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.01-10.48.12:411][543]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.05.01-10.48.12:411][543]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.01-10.48.12:411][543]MaterialEditorStats: Shader Count: 0
+[2025.05.01-10.48.12:560][546]MaterialEditorStats: Base pass shader: 206 instructions
+[2025.05.01-10.48.12:560][546]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.01-10.48.12:560][546]MaterialEditorStats: Texture samplers: 5/16
+[2025.05.01-10.48.12:560][546]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.05.01-10.48.12:560][546]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.01-10.48.12:561][546]MaterialEditorStats: Shader Count: 5
+[2025.05.01-10.48.13:839][627]LogMaterialEditor: Saving and Compiling material screws_MAT
+[2025.05.01-10.48.13:940][627]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.05.01-10.48.14:132][627]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.05.01-10.48.14:142][627]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.01-10.48.14:383][627]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/AirCon/screws_MAT" FILE="E:/Thesis_Hatch_Room_UE/Hatch_Room/Content/Textures/AirCon/screws_MAT.uasset" SILENT=true
+[2025.05.01-10.48.15:567][627]LogSavePackage: Moving output files for package: /Game/Textures/AirCon/screws_MAT
+[2025.05.01-10.48.15:568][627]LogSavePackage: Moving 'E:/Thesis_Hatch_Room_UE/Hatch_Room/Saved/screws_MAT9B8239784525A6B7F05AE4B889A96DBB.tmp' to 'E:/Thesis_Hatch_Room_UE/Hatch_Room/Content/Textures/AirCon/screws_MAT.uasset'
+[2025.05.01-10.48.15:597][627]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.45 sec (total: 18:27 min)
+[2025.05.01-10.48.15:599][627]AssetCheck: New page: Asset Save: screws_MAT
+[2025.05.01-10.48.15:599][627]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Textures/AirCon/screws_MAT.screws_MAT
+[2025.05.01-10.48.15:600][627]MaterialEditorStats: Base pass shader: 206 instructions
+[2025.05.01-10.48.15:600][627]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.01-10.48.15:600][627]MaterialEditorStats: MaxSampler: 256 instructions
+[2025.05.01-10.48.15:600][627]MaterialEditorStats: Texture samplers: 6/16
+[2025.05.01-10.48.15:600][627]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.05.01-10.48.15:600][627]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.01-10.48.15:600][627]MaterialEditorStats: Shader Count: 27
+[2025.05.01-10.48.19:098][801]LogMaterial: Display: Material /Game/Textures/AirCon/screws_MAT.screws_MAT needed to have new flag set bUsedWithNanite !
+[2025.05.01-10.48.19:099][801]LogMaterial: Display: Material /Engine/Transient.screws_MAT needed to have new flag set bUsedWithNanite !
+[2025.05.01-10.48.19:249][801]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.01-10.48.19:249][801]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.05.01-10.48.19:249][801]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.01-10.48.19:249][801]MaterialEditorStats: Shader Count: 0
+[2025.05.01-10.48.19:396][802]MaterialEditorStats: Base pass shader: 206 instructions
+[2025.05.01-10.48.19:396][802]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.01-10.48.19:396][802]MaterialEditorStats: MaxSampler: 256 instructions
+[2025.05.01-10.48.19:396][802]MaterialEditorStats: Texture samplers: 6/16
+[2025.05.01-10.48.19:396][802]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.05.01-10.48.19:396][802]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.01-10.48.19:396][802]MaterialEditorStats: Shader Count: 40
+[2025.05.01-10.48.35:986][809]LogSlate: Window 'screws_MAT' being destroyed
+[2025.05.01-10.48.35:993][809]LogSlate: Window 'screws_MAT' being destroyed
+[2025.05.01-10.48.37:648][809]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2025.05.01-10.48.37:648][809]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.01-10.48.38:012][809]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2025.05.01-10.48.38:012][809]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.01-10.48.38:306][809]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2025.05.01-10.48.38:306][809]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.01-10.48.38:598][809]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2025.05.01-10.48.38:598][809]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.01-10.48.38:936][809]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2025.05.01-10.48.38:936][809]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.01-10.48.38:959][809]LogAutomationController: Ignoring very large delta of 3.07 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.01-10.49.04:913][794]Cmd: TRANSACTION UNDO
+[2025.05.01-10.49.04:914][794]LogEditorTransaction: Undo Paste Location
+[2025.05.01-10.49.09:892][185]Cmd: TRANSACTION UNDO
+[2025.05.01-10.49.09:892][185]LogEditorTransaction: Undo Create Folder
+[2025.05.01-10.49.13:501][455]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.01-10.51.10:496][934]Cmd: DUPLICATE
+[2025.05.01-10.51.10:496][934]Cmd: ACTOR DUPLICATE
+[2025.05.01-10.51.27:659][883]Cmd: TRANSACTION UNDO
+[2025.05.01-10.51.27:659][883]LogEditorTransaction: Undo Paste Location
+[2025.05.01-10.51.38:653][414]Cmd: TRANSACTION UNDO
+[2025.05.01-10.51.38:653][414]LogEditorTransaction: Undo Paste Location
+[2025.05.01-10.51.44:832][885]Cmd: PIVOT HERE
+[2025.05.01-10.51.47:876][128]Cmd: ACTOR BAKEPREPIVOT
+[2025.05.01-10.51.55:931][895]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.01-10.52.16:084][344]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.01-10.52.23:137][982]Cmd: DELETE
+[2025.05.01-10.52.23:137][982]Cmd: ACTOR DELETE
+[2025.05.01-10.52.23:146][982]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.52.23:158][982]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.05.01-10.52.23:168][982]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2025.05.01-10.52.35:340][ 63]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.01-10.52.47:372][116]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.01-10.52.50:295][369]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.01-10.52.52:019][520]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.01-10.52.53:169][630]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.01-10.52.54:062][714]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.01-10.52.54:712][774]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.01-10.52.58:097][ 93]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.01-10.52.59:950][255]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.01-10.53.01:643][395]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.01-10.53.03:221][526]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.01-10.53.05:113][689]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.01-10.53.07:075][855]Cmd: TRANSACTION UNDO
+[2025.05.01-10.53.07:075][855]LogEditorTransaction: Undo Clicking on Actors
+[2025.05.01-10.53.10:809][124]Cmd: TRANSACTION UNDO
+[2025.05.01-10.53.10:809][124]LogEditorTransaction: Undo Clicking on Actors
+[2025.05.01-10.53.11:777][168]Cmd: DELETE
+[2025.05.01-10.53.11:777][168]Cmd: ACTOR DELETE
+[2025.05.01-10.53.11:788][168]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.53.11:788][168]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.53.11:789][168]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.53.11:789][168]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.53.11:790][168]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.53.11:790][168]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.53.11:791][168]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.53.11:791][168]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.53.11:792][168]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.53.11:792][168]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.53.11:793][168]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.53.11:793][168]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.53.11:794][168]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.53.11:794][168]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.53.11:795][168]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.53.11:796][168]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.53.11:796][168]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.53.11:797][168]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.53.11:797][168]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.53.11:798][168]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.53.11:798][168]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.53.11:799][168]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.53.11:799][168]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.53.11:800][168]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.53.11:800][168]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.53.11:801][168]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.53.11:802][168]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.53.11:802][168]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.53.11:803][168]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.53.11:804][168]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.53.11:804][168]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.53.11:805][168]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.53.11:805][168]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.53.11:806][168]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.53.11:806][168]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.53.11:807][168]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.53.11:807][168]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.53.11:808][168]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.53.11:808][168]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.53.11:814][168]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.05.01-10.53.11:820][168]LogEditorActor: Deleted 39 Actors (0.043 secs)
+[2025.05.01-10.53.22:295][170]Cmd: TRANSACTION UNDO
+[2025.05.01-10.53.22:295][170]LogEditorTransaction: Undo Clicking on Elements
+[2025.05.01-10.53.34:564][176]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.01-10.53.38:414][511]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.01-10.53.41:424][791]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.01-10.53.42:300][863]Cmd: TRANSACTION UNDO
+[2025.05.01-10.53.42:300][863]LogEditorTransaction: Undo Clicking on Actors
+[2025.05.01-10.53.43:726][940]Cmd: DELETE
+[2025.05.01-10.53.43:726][940]Cmd: ACTOR DELETE
+[2025.05.01-10.53.43:735][940]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.53.43:736][940]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.53.43:742][940]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.05.01-10.53.43:748][940]LogEditorActor: Deleted 2 Actors (0.022 secs)
+[2025.05.01-10.53.50:349][517]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.01-10.53.57:616][135]Cmd: DELETE
+[2025.05.01-10.53.57:616][135]Cmd: ACTOR DELETE
+[2025.05.01-10.53.57:624][135]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.53.57:624][135]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.53.57:626][135]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.53.57:626][135]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.53.57:632][135]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.05.01-10.53.57:636][135]LogEditorActor: Deleted 4 Actors (0.020 secs)
+[2025.05.01-10.54.07:942][191]Cmd: DELETE
+[2025.05.01-10.54.07:942][191]Cmd: ACTOR DELETE
+[2025.05.01-10.54.07:950][191]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.54.07:951][191]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.54.07:951][191]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.54.07:952][191]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.54.07:958][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.05.01-10.54.07:961][191]LogEditorActor: Deleted 4 Actors (0.018 secs)
+[2025.05.01-10.54.43:763][790]Cmd: DELETE
+[2025.05.01-10.54.43:763][790]Cmd: ACTOR DELETE
+[2025.05.01-10.54.43:771][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.54.43:772][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.54.43:772][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.54.43:773][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.54.43:773][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.54.43:774][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.54.43:774][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.54.43:780][790]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.05.01-10.54.43:786][790]LogEditorActor: Deleted 7 Actors (0.023 secs)
+[2025.05.01-10.54.45:952][ 10]Cmd: DELETE
+[2025.05.01-10.54.45:952][ 10]Cmd: ACTOR DELETE
+[2025.05.01-10.54.45:960][ 10]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.54.45:961][ 10]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.54.45:966][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.05.01-10.54.45:969][ 10]LogEditorActor: Deleted 2 Actors (0.017 secs)
+[2025.05.01-10.54.55:903][ 53]Cmd: DELETE
+[2025.05.01-10.54.55:903][ 53]Cmd: ACTOR DELETE
+[2025.05.01-10.54.55:911][ 53]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.54.55:916][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.05.01-10.54.55:920][ 53]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2025.05.01-10.54.56:399][110]Cmd: TRANSACTION UNDO
+[2025.05.01-10.54.56:399][110]LogEditorTransaction: Undo Delete Elements
+[2025.05.01-10.55.03:901][440]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.01-10.55.20:848][451]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.01-10.55.24:972][814]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.01-10.55.27:171][  5]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.01-10.55.28:463][125]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.01-10.55.29:939][243]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.01-10.55.32:862][492]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.01-10.55.36:043][770]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.01-10.55.38:638][  5]Cmd: DELETE
+[2025.05.01-10.55.38:638][  5]Cmd: ACTOR DELETE
+[2025.05.01-10.55.38:647][  5]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.55.38:648][  5]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.55.38:648][  5]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.55.38:649][  5]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.55.38:649][  5]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.55.38:650][  5]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.55.38:650][  5]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.55.38:651][  5]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.55.38:651][  5]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.55.38:652][  5]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.55.38:652][  5]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.55.38:653][  5]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.55.38:653][  5]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.55.38:654][  5]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.55.38:654][  5]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.55.38:655][  5]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.55.38:655][  5]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.55.38:656][  5]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.55.38:656][  5]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.55.38:657][  5]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.55.38:657][  5]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.55.38:658][  5]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.55.38:658][  5]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.55.38:659][  5]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.55.38:659][  5]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.55.38:660][  5]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.55.38:660][  5]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.55.38:661][  5]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.55.38:661][  5]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.55.38:662][  5]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.55.38:662][  5]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.55.38:663][  5]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.55.38:663][  5]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.55.38:664][  5]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.55.38:670][  5]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.05.01-10.55.38:678][  5]LogEditorActor: Deleted 34 Actors (0.039 secs)
+[2025.05.01-10.55.56:891][476]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.01-10.56.53:998][471]Cmd: DELETE
+[2025.05.01-10.56.53:998][471]Cmd: ACTOR DELETE
+[2025.05.01-10.56.54:005][471]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.01-10.56.54:011][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.05.01-10.56.54:021][471]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.05.01-10.57.01:348][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.05.01-10.57.01:363][255]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.01-10.57.01:428][255]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="E:/Thesis_Hatch_Room_UE/Hatch_Room/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.05.01-10.57.01:927][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
