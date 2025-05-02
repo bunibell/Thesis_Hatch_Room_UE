@@ -1655,3 +1655,603 @@ LogConfig: Set CVar [[r.setres:1280x720]]
 [2025.05.02-04.42.01:219][310]LogEditorActor: Deleted Actor: StaticMeshActor
 [2025.05.02-04.42.01:227][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
 [2025.05.02-04.42.01:230][310]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2025.05.02-04.45.27:475][264]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.05.02-04.45.27:486][264]LogContentBrowser: Creating deferred item: NewFolder
+[2025.05.02-04.45.27:498][265]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.05.02-04.45.35:816][233]LogContentBrowser: Attempting asset rename: NewFolder -> wall_panels_default_and_thin
+[2025.05.02-04.45.36:515][233]LogContentBrowser: End creating deferred item NewFolder
+[2025.05.02-04.45.38:384][404]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.05.02-04.45.39:232][404]LogSlate: Window 'Delete Assets' being destroyed
+[2025.05.02-04.45.39:248][404]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.05.02-04.45.39:254][404]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.05.02-04.45.39:258][404]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.05.02-04.45.43:171][753]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2025.05.02-04.45.43:290][753]LogContentBrowser: Creating deferred item: NewMaterial
+[2025.05.02-04.45.43:315][755]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2025.05.02-04.45.43:642][783]LogContentBrowser: Attempting asset rename: NewMaterial -> NewMaterial
+[2025.05.02-04.45.43:643][783]LogContentBrowser: End creating deferred item NewMaterial
+[2025.05.02-04.45.44:814][874]LogContentBrowser: Deferred new asset file creation: NewMaterial1
+[2025.05.02-04.45.44:824][874]LogContentBrowser: Creating deferred item: NewMaterial1
+[2025.05.02-04.45.44:836][875]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial1).
+[2025.05.02-04.45.45:190][904]LogContentBrowser: Attempting asset rename: NewMaterial1 -> NewMaterial1
+[2025.05.02-04.45.45:190][904]LogContentBrowser: End creating deferred item NewMaterial1
+[2025.05.02-04.45.59:535][403]LogContentBrowser: Attempting asset rename: NewMaterial -> WallPanel_Default_MAT
+[2025.05.02-04.45.59:573][403]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.02-04.45.59:776][403]LogSavePackage: Moving output files for package: /Game/Textures/Structure/wall_panels_default_and_thin/WallPanel_Default_MAT
+[2025.05.02-04.45.59:776][403]LogSavePackage: Moving 'E:/Thesis_Hatch_Room_UE/Hatch_Room/Saved/WallPanel_Default_MAT8EEE69A94D268FFE8007ACA7896927CF.tmp' to 'E:/Thesis_Hatch_Room_UE/Hatch_Room/Content/Textures/Structure/wall_panels_default_and_thin/WallPanel_Default_MAT.uasset'
+[2025.05.02-04.45.59:810][403]LogFileHelpers: InternalPromptForCheckoutAndSave took 236 ms (total: 2.04 sec)
+[2025.05.02-04.45.59:823][403]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.05.02-04.45.59:830][403]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.05.02-04.45.59:834][403]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.05.02-04.45.59:837][403]AssetCheck: New page: Asset Save: WallPanel_Default_MAT
+[2025.05.02-04.45.59:837][403]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Textures/Structure/wall_panels_default_and_thin/WallPanel_Default_MAT.WallPanel_Default_MAT
+[2025.05.02-04.46.08:900][242]LogContentBrowser: Attempting asset rename: NewMaterial1 -> WallPanel_thin_MAT
+[2025.05.02-04.46.08:937][242]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.02-04.46.09:223][242]LogSavePackage: Moving output files for package: /Game/Textures/Structure/wall_panels_default_and_thin/WallPanel_thin_MAT
+[2025.05.02-04.46.09:223][242]LogSavePackage: Moving 'E:/Thesis_Hatch_Room_UE/Hatch_Room/Saved/WallPanel_thin_MATB2C0B7F14DE8BCEBF6E798AB763D3404.tmp' to 'E:/Thesis_Hatch_Room_UE/Hatch_Room/Content/Textures/Structure/wall_panels_default_and_thin/WallPanel_thin_MAT.uasset'
+[2025.05.02-04.46.09:285][242]LogFileHelpers: InternalPromptForCheckoutAndSave took 348 ms (total: 2.39 sec)
+[2025.05.02-04.46.09:295][242]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.05.02-04.46.09:301][242]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.05.02-04.46.09:307][242]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.05.02-04.46.09:310][242]AssetCheck: New page: Asset Save: WallPanel_thin_MAT
+[2025.05.02-04.46.09:310][242]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Textures/Structure/wall_panels_default_and_thin/WallPanel_thin_MAT.WallPanel_thin_MAT
+[2025.05.02-04.46.15:597][604]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:/Dystopian_Thesis/FBX/wall_panels_default_and_thin.fbx)
+[2025.05.02-04.46.15:611][604]LogFbx: Loading FBX Scene from E:/Dystopian_Thesis/FBX/wall_panels_default_and_thin.fbx
+[2025.05.02-04.46.15:616][604]LogFbx: FBX Scene Loaded Succesfully
+[2025.05.02-04.46.16:622][604]LogSlate: Window 'FBX Import Options' being destroyed
+[2025.05.02-04.46.16:916][604]LogStaticMesh: Display: Building static mesh wall_panels_default_and_thin_wall_panel_default...
+[2025.05.02-04.46.16:917][604]LogStaticMesh: Adjacency [0.00s], tris: 108, UVs 1
+[2025.05.02-04.46.16:917][604]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.05.02-04.46.16:917][604]LogStaticMesh: Leaves [0.00s]
+[2025.05.02-04.46.16:917][604]LogStaticMesh: Reduce [0.00s]
+[2025.05.02-04.46.16:917][604]LogStaticMesh: Fallback 0/1 [0.00s], num tris: 108
+[2025.05.02-04.46.16:917][604]LogStaticMesh: ConstrainClusters:
+[2025.05.02-04.46.16:917][604]LogStaticMesh:   Input: 1 Clusters, 108 Triangles and 96 Vertices
+[2025.05.02-04.46.16:917][604]LogStaticMesh:   Output without splits: 1 Clusters, 108 Triangles and 96 Vertices
+[2025.05.02-04.46.16:917][604]LogStaticMesh:   Output with splits: 1 Clusters, 108 Triangles and 96 Vertices
+[2025.05.02-04.46.16:917][604]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.05.02-04.46.16:917][604]LogStaticMesh: WritePages:
+[2025.05.02-04.46.16:917][604]LogStaticMesh:   Root: GPU size: 1112 bytes. 1 Pages. 1112.000 bytes per page (3.394% utilization).
+[2025.05.02-04.46.16:917][604]LogStaticMesh:   Streaming: 0 bytes.
+[2025.05.02-04.46.16:917][604]LogStaticMesh:   Page data disk size: 1196 bytes. Fixup data size: 24 bytes.
+[2025.05.02-04.46.16:917][604]LogStaticMesh:   Total GPU size: 1112 bytes, Total disk size: 1220 bytes.
+[2025.05.02-04.46.16:917][604]LogStaticMesh: Encode [0.00s]
+[2025.05.02-04.46.16:917][604]LogStaticMesh: Nanite build [0.00s]
+
+[2025.05.02-04.46.16:919][604]LogStaticMesh: Built static mesh [0.00s] /Game/Textures/Structure/wall_panels_default_and_thin/wall_panels_default_and_thin_wall_panel_default.wall_panels_default_and_thin_wall_panel_default
+[2025.05.02-04.46.16:927][604]LogStaticMesh: Display: Building static mesh wall_panels_default_and_thin_wall_panel_thin...
+[2025.05.02-04.46.16:928][604]LogStaticMesh: Adjacency [0.00s], tris: 108, UVs 1
+[2025.05.02-04.46.16:928][604]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.05.02-04.46.16:928][604]LogStaticMesh: Leaves [0.00s]
+[2025.05.02-04.46.16:928][604]LogStaticMesh: Reduce [0.00s]
+[2025.05.02-04.46.16:928][604]LogStaticMesh: Fallback 0/1 [0.00s], num tris: 108
+[2025.05.02-04.46.16:928][604]LogStaticMesh: ConstrainClusters:
+[2025.05.02-04.46.16:928][604]LogStaticMesh:   Input: 1 Clusters, 108 Triangles and 96 Vertices
+[2025.05.02-04.46.16:928][604]LogStaticMesh:   Output without splits: 1 Clusters, 108 Triangles and 96 Vertices
+[2025.05.02-04.46.16:928][604]LogStaticMesh:   Output with splits: 1 Clusters, 108 Triangles and 96 Vertices
+[2025.05.02-04.46.16:928][604]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.05.02-04.46.16:928][604]LogStaticMesh: WritePages:
+[2025.05.02-04.46.16:928][604]LogStaticMesh:   Root: GPU size: 1112 bytes. 1 Pages. 1112.000 bytes per page (3.394% utilization).
+[2025.05.02-04.46.16:928][604]LogStaticMesh:   Streaming: 0 bytes.
+[2025.05.02-04.46.16:928][604]LogStaticMesh:   Page data disk size: 1196 bytes. Fixup data size: 24 bytes.
+[2025.05.02-04.46.16:928][604]LogStaticMesh:   Total GPU size: 1112 bytes, Total disk size: 1220 bytes.
+[2025.05.02-04.46.16:928][604]LogStaticMesh: Encode [0.00s]
+[2025.05.02-04.46.16:928][604]LogStaticMesh: Nanite build [0.00s]
+
+[2025.05.02-04.46.16:930][604]LogStaticMesh: Built static mesh [0.00s] /Game/Textures/Structure/wall_panels_default_and_thin/wall_panels_default_and_thin_wall_panel_thin.wall_panels_default_and_thin_wall_panel_thin
+[2025.05.02-04.46.21:369][  8]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Textures/Structure/wall_panels_default_and_thin/wall_panels_default_and_thin_wall_panel_default.wall_panels_default_and_thin_wall_panel_default
+[2025.05.02-04.46.21:369][  8]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Textures/Structure/wall_panels_default_and_thin/wall_panels_default_and_thin_wall_panel_default.wall_panels_default_and_thin_wall_panel_default
+[2025.05.02-04.46.21:370][  8]LogActorFactory: Actor Factory spawned StaticMesh /Game/Textures/Structure/wall_panels_default_and_thin/wall_panels_default_and_thin_wall_panel_default.wall_panels_default_and_thin_wall_panel_default as actor: StaticMeshActor /Game/Main.Main:PersistentLevel.StaticMeshActor_2
+[2025.05.02-04.46.21:371][  8]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Textures/Structure/wall_panels_default_and_thin/wall_panels_default_and_thin_wall_panel_thin.wall_panels_default_and_thin_wall_panel_thin
+[2025.05.02-04.46.21:371][  8]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Textures/Structure/wall_panels_default_and_thin/wall_panels_default_and_thin_wall_panel_thin.wall_panels_default_and_thin_wall_panel_thin
+[2025.05.02-04.46.21:372][  8]LogActorFactory: Actor Factory spawned StaticMesh /Game/Textures/Structure/wall_panels_default_and_thin/wall_panels_default_and_thin_wall_panel_thin.wall_panels_default_and_thin_wall_panel_thin as actor: StaticMeshActor /Game/Main.Main:PersistentLevel.StaticMeshActor_3
+[2025.05.02-04.46.21:635][ 26]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Textures/Structure/wall_panels_default_and_thin/wall_panels_default_and_thin_wall_panel_default.wall_panels_default_and_thin_wall_panel_default
+[2025.05.02-04.46.21:635][ 26]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Textures/Structure/wall_panels_default_and_thin/wall_panels_default_and_thin_wall_panel_default.wall_panels_default_and_thin_wall_panel_default
+[2025.05.02-04.46.21:637][ 26]LogActorFactory: Actor Factory spawned StaticMesh /Game/Textures/Structure/wall_panels_default_and_thin/wall_panels_default_and_thin_wall_panel_default.wall_panels_default_and_thin_wall_panel_default as actor: StaticMeshActor /Game/Main.Main:PersistentLevel.StaticMeshActor_4
+[2025.05.02-04.46.21:667][ 26]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Textures/Structure/wall_panels_default_and_thin/wall_panels_default_and_thin_wall_panel_thin.wall_panels_default_and_thin_wall_panel_thin
+[2025.05.02-04.46.21:667][ 26]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Textures/Structure/wall_panels_default_and_thin/wall_panels_default_and_thin_wall_panel_thin.wall_panels_default_and_thin_wall_panel_thin
+[2025.05.02-04.46.21:668][ 26]LogActorFactory: Actor Factory spawned StaticMesh /Game/Textures/Structure/wall_panels_default_and_thin/wall_panels_default_and_thin_wall_panel_thin.wall_panels_default_and_thin_wall_panel_thin as actor: StaticMeshActor /Game/Main.Main:PersistentLevel.StaticMeshActor_5
+[2025.05.02-04.46.28:202][676]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.02-04.46.33:516][202]LogContentBrowser: Deferred new asset file creation: NewMaterialParameterCollection
+[2025.05.02-04.46.33:525][202]LogContentBrowser: Creating deferred item: NewMaterialParameterCollection
+[2025.05.02-04.46.33:538][203]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterialParameterCollection).
+[2025.05.02-04.46.34:085][251]LogContentBrowser: Attempting asset rename: NewMaterialParameterCollection -> NewMaterialParameterCollection
+[2025.05.02-04.46.34:087][251]LogContentBrowser: End creating deferred item NewMaterialParameterCollection
+[2025.05.02-04.46.36:110][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.05.02-04.46.38:212][380]LogSlate: Window 'Delete Assets' being destroyed
+[2025.05.02-04.46.38:226][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.05.02-04.46.38:232][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.05.02-04.46.38:237][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.05.02-04.46.47:373][432]LogInterchangeEngine: [Pending] Importing
+[2025.05.02-04.46.47:374][432]LogInterchangeEngine: Display: Interchange start importing source [E:/Dystopian_Thesis_...els_default_and_thin/wall_panels_default_and_thin_wall_panel_default_MAT_BaseColor.png]
+[2025.05.02-04.46.47:374][432]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.05.02-04.46.47:375][432]LogInterchangeEngine: Display: Interchange start importing source [E:/Dystopian_Thesis_...els_default_and_thin/wall_panels_default_and_thin_wall_panel_default_MAT_Normal.png]
+[2025.05.02-04.46.47:375][432]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.05.02-04.46.47:376][432]LogInterchangeEngine: Display: Interchange start importing source [E:/Dystopian_Thesis_...els_default_and_thin/wall_panels_default_and_thin_wall_panel_default_MAT_OcclusionRoughnessMetallic.png]
+[2025.05.02-04.46.47:376][432]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.05.02-04.46.47:377][432]LogInterchangeEngine: Display: Interchange start importing source [E:/Dystopian_Thesis_...els_default_and_thin/wall_panels_default_and_thin_wall_panel_thin_MAT_BaseColor.png]
+[2025.05.02-04.46.47:377][432]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.05.02-04.46.47:378][432]LogInterchangeEngine: Display: Interchange start importing source [E:/Dystopian_Thesis_...els_default_and_thin/wall_panels_default_and_thin_wall_panel_thin_MAT_Normal.png]
+[2025.05.02-04.46.47:378][432]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.05.02-04.46.47:379][432]LogInterchangeEngine: Display: Interchange start importing source [E:/Dystopian_Thesis_...els_default_and_thin/wall_panels_default_and_thin_wall_panel_thin_MAT_OcclusionRoughnessMetallic.png]
+[2025.05.02-04.46.47:423][433]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.05.02-04.46.47:474][434]LogTexture: Display: Building textures: /Game/Textures/Structure/wall_panels_default_and_thin/wall_panels_default_and_thin_wall_panel_default_MAT_BaseColor.wall_panels_default_and_thin_wall_panel_default_MAT_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 305.145823 MB), EncodeSpeed: Fast
+[2025.05.02-04.46.47:541][434]LogInterchangePipeline: Display: Auto-detected normal map
+[2025.05.02-04.46.47:544][434]LogTexture: Display: Building textures: /Game/Textures/Structure/wall_panels_default_and_thin/wall_panels_default_and_thin_wall_panel_thin_MAT_Normal.wall_panels_default_and_thin_wall_panel_thin_MAT_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 471.562488 MB), EncodeSpeed: Fast
+[2025.05.02-04.46.47:606][434]LogInterchangePipeline: Display: Auto-detected normal map
+[2025.05.02-04.46.47:608][434]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.05.02-04.46.47:610][434]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.05.02-04.46.47:611][434]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.05.02-04.46.47:611][434]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.05.02-04.46.47:611][434]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.05.02-04.46.47:611][434]LogInterchangeEngine: [Success] Import Done
+[2025.05.02-04.46.47:611][434]LogTexture: Display: Building textures: /Game/Textures/Structure/wall_panels_default_and_thin/wall_panels_default_and_thin_wall_panel_default_MAT_Normal.wall_panels_default_and_thin_wall_panel_default_MAT_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 471.562488 MB), EncodeSpeed: Fast
+[2025.05.02-04.46.47:619][434]LogTexture: Display: Building textures: /Game/Textures/Structure/wall_panels_default_and_thin/wall_panels_default_and_thin_wall_panel_default_MAT_OcclusionRoughnessMetallic.wall_panels_default_and_thin_wall_panel_default_MAT_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 305.145823 MB), EncodeSpeed: Fast
+[2025.05.02-04.46.47:626][434]LogTexture: Display: Building textures: /Game/Textures/Structure/wall_panels_default_and_thin/wall_panels_default_and_thin_wall_panel_thin_MAT_BaseColor.wall_panels_default_and_thin_wall_panel_thin_MAT_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 305.145823 MB), EncodeSpeed: Fast
+[2025.05.02-04.46.47:630][434]LogTexture: Display: Building textures: /Game/Textures/Structure/wall_panels_default_and_thin/wall_panels_default_and_thin_wall_panel_thin_MAT_OcclusionRoughnessMetallic.wall_panels_default_and_thin_wall_panel_thin_MAT_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 305.145823 MB), EncodeSpeed: Fast
+[2025.05.02-04.46.47:657][434]LogInterchangeEngine: [Success] Import Done
+[2025.05.02-04.46.49:658][524]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/Structure/wall_panels_default_and_thin/wall_panels_default_and_thin_wall_panel_default_MAT_OcclusionRoughnessMetallic.wall_panels_default_and_thin_wall_panel_default_MAT_OcclusionRoughnessMetallic
+[2025.05.02-04.46.50:339][524]LogViewport: Scene viewport resized to 1083x768, mode Windowed.
+[2025.05.02-04.46.50:414][525]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/Structure/wall_panels_default_and_thin/wall_panels_default_and_thin_wall_panel_thin_MAT_OcclusionRoughnessMetallic.wall_panels_default_and_thin_wall_panel_thin_MAT_OcclusionRoughnessMetallic
+[2025.05.02-04.46.50:864][525]LogViewport: Scene viewport resized to 1083x768, mode Windowed.
+[2025.05.02-04.46.52:322][630]LogTexture: Display: Building textures: /Game/Textures/Structure/wall_panels_default_and_thin/wall_panels_default_and_thin_wall_panel_thin_MAT_OcclusionRoughnessMetallic.wall_panels_default_and_thin_wall_panel_thin_MAT_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 305.145823 MB), EncodeSpeed: Final
+[2025.05.02-04.46.55:283][860]LogTexture: Display: Building textures: /Game/Textures/Structure/wall_panels_default_and_thin/wall_panels_default_and_thin_wall_panel_default_MAT_OcclusionRoughnessMetallic.wall_panels_default_and_thin_wall_panel_default_MAT_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 305.145823 MB), EncodeSpeed: Final
+[2025.05.02-04.46.56:141][922]LogSlate: Window 'wall_panels_default_and_thin_wall_panel_thin_MAT_OcclusionRoughnessMetallic' being destroyed
+[2025.05.02-04.46.56:152][922]LogSlate: Window 'wall_panels_default_and_thin_wall_panel_thin_MAT_OcclusionRoughnessMetallic' being destroyed
+[2025.05.02-04.46.57:752][989]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Textures/Structure/wall_panels_default_and_thin/WallPanel_Default_MAT.WallPanel_Default_MAT
+[2025.05.02-04.46.57:756][989]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.02-04.46.57:756][989]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.02-04.46.58:655][989]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.02-04.46.58:655][989]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.02-04.46.58:655][989]MaterialEditorStats: Shader Count: 0
+[2025.05.02-04.46.58:695][989]LogViewport: Scene viewport resized to 285x383, mode Windowed.
+[2025.05.02-04.46.58:731][990]LogShaderCompilers: Display: ================================================
+[2025.05.02-04.46.58:731][990]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.02-04.46.58:731][990]LogShaderCompilers: Display: Total job queries 211, among them cache hits 112 (53.08%)
+[2025.05.02-04.46.58:731][990]LogShaderCompilers: Display: Tracking 99 distinct input hashes that result in 77 distinct outputs (77.78%)
+[2025.05.02-04.46.58:731][990]LogShaderCompilers: Display: RAM used: 2.26 MiB of 1.60 GiB budget. Usage: 0.14%
+[2025.05.02-04.46.58:731][990]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.02-04.46.58:731][990]LogShaderCompilers: Display: Shaders Compiled: 1
+[2025.05.02-04.46.58:731][990]LogShaderCompilers: Display: Jobs assigned 1, completed 1 (100%)
+[2025.05.02-04.46.58:731][990]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 0.09 s
+[2025.05.02-04.46.58:731][990]LogShaderCompilers: Display: Job execution time: average 0.62 s, max 0.62 s
+[2025.05.02-04.46.58:731][990]LogShaderCompilers: Display: Job life time (pending + execution): average 0.71 s, max 0.71
+[2025.05.02-04.46.58:731][990]LogShaderCompilers: Display: Shader code size: average 59.395 KiB, min 59.395 KiB, max 59.395 KiB
+[2025.05.02-04.46.58:731][990]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.71 s
+[2025.05.02-04.46.58:731][990]LogShaderCompilers: Display: Jobs were issued in 1 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.05.02-04.46.58:731][990]LogShaderCompilers: Display: Average processing rate: 1.41 jobs/sec
+[2025.05.02-04.46.58:731][990]LogShaderCompilers: Display: Total thread time: 0.291 s
+[2025.05.02-04.46.58:731][990]LogShaderCompilers: Display: Total thread preprocess time: 0.05 s
+[2025.05.02-04.46.58:731][990]LogShaderCompilers: Display: Percentage time preprocessing: 17.31%
+[2025.05.02-04.46.58:731][990]LogShaderCompilers: Display: Effective parallelization: 0.41 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2025.05.02-04.46.58:731][990]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2025.05.02-04.46.58:731][990]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    1 times, average 0.29 sec, max 0.29 sec, min 0.29 sec)
+[2025.05.02-04.46.58:731][990]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2025.05.02-04.46.58:731][990]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight - 100.00% of total time (compiled    1 times, average 0.29 sec, max 0.29 sec, min 0.29 sec)
+[2025.05.02-04.46.58:731][990]LogShaderCompilers: Display: ================================================
+[2025.05.02-04.46.58:762][991]MaterialEditorStats: Base pass shader: 187 instructions
+[2025.05.02-04.46.58:762][991]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2025.05.02-04.46.58:762][991]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.02-04.46.58:762][991]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.02-04.46.58:762][991]MaterialEditorStats: Shader Count: 5
+[2025.05.02-04.47.02:104][151]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.02-04.47.02:104][151]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.02-04.47.02:104][151]MaterialEditorStats: Shader Count: 0
+[2025.05.02-04.47.02:161][152]MaterialEditorStats: Base pass shader: 187 instructions
+[2025.05.02-04.47.02:161][152]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2025.05.02-04.47.02:161][152]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.02-04.47.02:161][152]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.02-04.47.02:161][152]MaterialEditorStats: Shader Count: 5
+[2025.05.02-04.47.10:955][706]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.02-04.47.10:955][706]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.05.02-04.47.10:955][706]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.02-04.47.10:955][706]MaterialEditorStats: Shader Count: 0
+[2025.05.02-04.47.11:096][708]MaterialEditorStats: Base pass shader: 194 instructions
+[2025.05.02-04.47.11:096][708]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.02-04.47.11:096][708]MaterialEditorStats: Texture samplers: 3/16
+[2025.05.02-04.47.11:096][708]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.05.02-04.47.11:096][708]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.02-04.47.11:096][708]MaterialEditorStats: Shader Count: 5
+[2025.05.02-04.47.12:274][767]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.02-04.47.12:274][767]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.05.02-04.47.12:274][767]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.02-04.47.12:274][767]MaterialEditorStats: Shader Count: 0
+[2025.05.02-04.47.12:390][770]MaterialEditorStats: Base pass shader: 198 instructions
+[2025.05.02-04.47.12:390][770]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.02-04.47.12:390][770]MaterialEditorStats: Texture samplers: 4/16
+[2025.05.02-04.47.12:390][770]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.05.02-04.47.12:390][770]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.02-04.47.12:390][770]MaterialEditorStats: Shader Count: 5
+[2025.05.02-04.47.13:708][844]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.02-04.47.13:709][844]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.05.02-04.47.13:709][844]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.02-04.47.13:709][844]MaterialEditorStats: Shader Count: 0
+[2025.05.02-04.47.13:838][846]MaterialEditorStats: Base pass shader: 199 instructions
+[2025.05.02-04.47.13:838][846]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.02-04.47.13:838][846]MaterialEditorStats: Texture samplers: 4/16
+[2025.05.02-04.47.13:838][846]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.05.02-04.47.13:838][846]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.02-04.47.13:838][846]MaterialEditorStats: Shader Count: 5
+[2025.05.02-04.47.15:286][922]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.02-04.47.15:286][922]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.05.02-04.47.15:286][922]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.02-04.47.15:286][922]MaterialEditorStats: Shader Count: 0
+[2025.05.02-04.47.15:412][925]MaterialEditorStats: Base pass shader: 206 instructions
+[2025.05.02-04.47.15:412][925]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.02-04.47.15:412][925]MaterialEditorStats: Texture samplers: 5/16
+[2025.05.02-04.47.15:412][925]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.05.02-04.47.15:412][925]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.02-04.47.15:412][925]MaterialEditorStats: Shader Count: 5
+[2025.05.02-04.47.16:582][  1]LogMaterialEditor: Saving and Compiling material WallPanel_Default_MAT
+[2025.05.02-04.47.16:748][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.05.02-04.47.16:916][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.05.02-04.47.16:930][  1]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.02-04.47.18:035][  1]LogSavePackage: Moving output files for package: /Game/Textures/Structure/wall_panels_default_and_thin/WallPanel_Default_MAT
+[2025.05.02-04.47.18:045][  1]LogSavePackage: Moving 'E:/Thesis_Hatch_Room_UE/Hatch_Room/Saved/WallPanel_Default_MATE747E3214AB5DA7BD4A2F28028DF1986.tmp' to 'E:/Thesis_Hatch_Room_UE/Hatch_Room/Content/Textures/Structure/wall_panels_default_and_thin/WallPanel_Default_MAT.uasset'
+[2025.05.02-04.47.18:087][  1]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.15 sec (total: 3.55 sec)
+[2025.05.02-04.47.18:090][  1]AssetCheck: New page: Asset Save: WallPanel_Default_MAT
+[2025.05.02-04.47.18:090][  1]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Textures/Structure/wall_panels_default_and_thin/WallPanel_Default_MAT.WallPanel_Default_MAT
+[2025.05.02-04.47.18:090][  1]MaterialEditorStats: Base pass shader: 206 instructions
+[2025.05.02-04.47.18:090][  1]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.02-04.47.18:090][  1]MaterialEditorStats: MaxSampler: 256 instructions
+[2025.05.02-04.47.18:090][  1]MaterialEditorStats: Texture samplers: 6/16
+[2025.05.02-04.47.18:090][  1]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.05.02-04.47.18:090][  1]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.02-04.47.18:090][  1]MaterialEditorStats: Shader Count: 27
+[2025.05.02-04.47.18:612][ 27]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Textures/Structure/wall_panels_default_and_thin/WallPanel_thin_MAT.WallPanel_thin_MAT
+[2025.05.02-04.47.18:616][ 27]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.02-04.47.18:616][ 27]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.02-04.47.19:394][ 27]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.02-04.47.19:394][ 27]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.02-04.47.19:394][ 27]MaterialEditorStats: Shader Count: 0
+[2025.05.02-04.47.19:406][ 27]LogViewport: Scene viewport resized to 285x383, mode Windowed.
+[2025.05.02-04.47.19:456][ 29]MaterialEditorStats: Base pass shader: 187 instructions
+[2025.05.02-04.47.19:456][ 29]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2025.05.02-04.47.19:456][ 29]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.02-04.47.19:456][ 29]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.02-04.47.19:456][ 29]MaterialEditorStats: Shader Count: 5
+[2025.05.02-04.47.23:595][267]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.02-04.47.23:595][267]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.02-04.47.23:595][267]MaterialEditorStats: Shader Count: 0
+[2025.05.02-04.47.23:642][268]MaterialEditorStats: Base pass shader: 187 instructions
+[2025.05.02-04.47.23:642][268]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2025.05.02-04.47.23:642][268]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.02-04.47.23:642][268]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.02-04.47.23:642][268]MaterialEditorStats: Shader Count: 5
+[2025.05.02-04.47.36:399][135]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.02-04.47.36:399][135]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.05.02-04.47.36:399][135]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.02-04.47.36:399][135]MaterialEditorStats: Shader Count: 0
+[2025.05.02-04.47.36:528][137]MaterialEditorStats: Base pass shader: 194 instructions
+[2025.05.02-04.47.36:528][137]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.02-04.47.36:528][137]MaterialEditorStats: Texture samplers: 3/16
+[2025.05.02-04.47.36:528][137]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.05.02-04.47.36:528][137]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.02-04.47.36:528][137]MaterialEditorStats: Shader Count: 5
+[2025.05.02-04.47.38:137][230]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.02-04.47.38:138][230]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.05.02-04.47.38:138][230]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.02-04.47.38:138][230]MaterialEditorStats: Shader Count: 0
+[2025.05.02-04.47.38:261][233]MaterialEditorStats: Base pass shader: 198 instructions
+[2025.05.02-04.47.38:261][233]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.02-04.47.38:261][233]MaterialEditorStats: Texture samplers: 4/16
+[2025.05.02-04.47.38:261][233]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.05.02-04.47.38:261][233]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.02-04.47.38:261][233]MaterialEditorStats: Shader Count: 5
+[2025.05.02-04.47.39:390][295]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.02-04.47.39:390][295]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.05.02-04.47.39:390][295]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.02-04.47.39:390][295]MaterialEditorStats: Shader Count: 0
+[2025.05.02-04.47.39:505][297]MaterialEditorStats: Base pass shader: 199 instructions
+[2025.05.02-04.47.39:505][297]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.02-04.47.39:505][297]MaterialEditorStats: Texture samplers: 4/16
+[2025.05.02-04.47.39:505][297]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.05.02-04.47.39:505][297]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.02-04.47.39:505][297]MaterialEditorStats: Shader Count: 5
+[2025.05.02-04.47.40:780][370]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.02-04.47.40:781][370]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.05.02-04.47.40:781][370]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.02-04.47.40:781][370]MaterialEditorStats: Shader Count: 0
+[2025.05.02-04.47.40:906][373]MaterialEditorStats: Base pass shader: 206 instructions
+[2025.05.02-04.47.40:906][373]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.02-04.47.40:906][373]MaterialEditorStats: Texture samplers: 5/16
+[2025.05.02-04.47.40:906][373]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.05.02-04.47.40:906][373]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.02-04.47.40:906][373]MaterialEditorStats: Shader Count: 5
+[2025.05.02-04.47.41:720][428]LogMaterialEditor: Saving and Compiling material WallPanel_thin_MAT
+[2025.05.02-04.47.41:837][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.05.02-04.47.42:007][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.05.02-04.47.42:021][428]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.02-04.47.43:137][428]LogSavePackage: Moving output files for package: /Game/Textures/Structure/wall_panels_default_and_thin/WallPanel_thin_MAT
+[2025.05.02-04.47.43:148][428]LogSavePackage: Moving 'E:/Thesis_Hatch_Room_UE/Hatch_Room/Saved/WallPanel_thin_MATE4F9EE73486D5B6CC92188B17753B692.tmp' to 'E:/Thesis_Hatch_Room_UE/Hatch_Room/Content/Textures/Structure/wall_panels_default_and_thin/WallPanel_thin_MAT.uasset'
+[2025.05.02-04.47.43:201][428]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.18 sec (total: 4.73 sec)
+[2025.05.02-04.47.43:202][428]AssetCheck: New page: Asset Save: WallPanel_thin_MAT
+[2025.05.02-04.47.43:202][428]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Textures/Structure/wall_panels_default_and_thin/WallPanel_thin_MAT.WallPanel_thin_MAT
+[2025.05.02-04.47.43:203][428]MaterialEditorStats: Base pass shader: 206 instructions
+[2025.05.02-04.47.43:204][428]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.02-04.47.43:204][428]MaterialEditorStats: MaxSampler: 256 instructions
+[2025.05.02-04.47.43:204][428]MaterialEditorStats: Texture samplers: 6/16
+[2025.05.02-04.47.43:204][428]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.05.02-04.47.43:204][428]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.02-04.47.43:204][428]MaterialEditorStats: Shader Count: 27
+[2025.05.02-04.47.48:316][772]LogSlate: Window 'WallPanel_thin_MAT' being destroyed
+[2025.05.02-04.47.48:325][772]LogSlate: Window 'WallPanel_thin_MAT' being destroyed
+[2025.05.02-04.47.49:254][772]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.05.02-04.47.49:254][772]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.02-04.47.49:984][772]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.05.02-04.47.49:984][772]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.02-04.47.50:583][796]LogMaterial: Display: Material /Game/Textures/Structure/wall_panels_default_and_thin/WallPanel_Default_MAT.WallPanel_Default_MAT needed to have new flag set bUsedWithNanite !
+[2025.05.02-04.47.51:608][840]LogMaterial: Display: Material /Game/Textures/Structure/wall_panels_default_and_thin/WallPanel_thin_MAT.WallPanel_thin_MAT needed to have new flag set bUsedWithNanite !
+[2025.05.02-04.47.59:003][543]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.02-04.48.07:825][365]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.02-04.48.09:937][570]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.05.02-04.48.15:781][ 39]Cmd: PIVOT HERE
+[2025.05.02-04.48.18:511][270]Cmd: ACTOR BAKEPREPIVOT
+[2025.05.02-04.48.20:012][398]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.02-04.48.23:152][687]Cmd: PIVOT HERE
+[2025.05.02-04.48.25:203][856]Cmd: ACTOR BAKEPREPIVOT
+[2025.05.02-04.48.37:835][112]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.02-04.48.44:759][833]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.02-04.49.02:902][656]Cmd: TRANSACTION UNDO
+[2025.05.02-04.49.02:902][656]LogEditorTransaction: Undo Set Location
+[2025.05.02-04.49.09:106][176]Cmd: DELETE
+[2025.05.02-04.49.09:106][176]Cmd: ACTOR DELETE
+[2025.05.02-04.49.09:111][176]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.02-04.49.09:129][176]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.05.02-04.49.09:133][176]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2025.05.02-04.49.16:335][983]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.02-04.49.21:422][504]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.02-04.49.24:737][817]Cmd: TRANSACTION UNDO
+[2025.05.02-04.49.24:737][817]LogEditorTransaction: Undo Set Location
+[2025.05.02-04.49.25:875][875]Cmd: TRANSACTION UNDO
+[2025.05.02-04.49.25:875][875]LogEditorTransaction: Undo Set Location
+[2025.05.02-04.49.30:529][304]Cmd: DELETE
+[2025.05.02-04.49.30:529][304]Cmd: ACTOR DELETE
+[2025.05.02-04.49.30:534][304]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.02-04.49.30:540][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.05.02-04.49.30:542][304]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2025.05.02-04.50.11:600][453]Cmd: DUPLICATE
+[2025.05.02-04.50.11:600][453]Cmd: ACTOR DUPLICATE
+[2025.05.02-04.50.12:742][557]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.02-04.50.17:252][945]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.02-04.50.20:927][259]Cmd: TRANSACTION UNDO
+[2025.05.02-04.50.20:927][259]LogEditorTransaction: Undo Move Elements
+[2025.05.02-04.50.26:637][678]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.02-04.50.27:416][743]Cmd: TRANSACTION UNDO
+[2025.05.02-04.50.27:416][743]LogEditorTransaction: Undo Set Location
+[2025.05.02-04.50.28:183][772]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.02-04.50.31:806][ 67]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.02-04.50.39:145][731]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.02-04.50.50:924][757]Cmd: DELETE
+[2025.05.02-04.50.50:924][757]Cmd: ACTOR DELETE
+[2025.05.02-04.50.50:929][757]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.02-04.50.50:936][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.05.02-04.50.50:939][757]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2025.05.02-04.50.51:576][832]Cmd: TRANSACTION UNDO
+[2025.05.02-04.50.51:576][832]LogEditorTransaction: Undo Delete Elements
+[2025.05.02-04.50.57:689][251]Cmd: TRANSACTION UNDO
+[2025.05.02-04.50.57:689][251]LogEditorTransaction: Undo Set Location
+[2025.05.02-04.51.08:770][233]Cmd: DELETE
+[2025.05.02-04.51.08:770][233]Cmd: ACTOR DELETE
+[2025.05.02-04.51.08:775][233]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.02-04.51.08:781][233]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.05.02-04.51.08:784][233]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2025.05.02-04.51.33:277][785]Cmd: DUPLICATE
+[2025.05.02-04.51.33:277][785]Cmd: ACTOR DUPLICATE
+[2025.05.02-04.51.35:877][ 45]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.02-04.51.38:755][324]Cmd: TRANSACTION UNDO
+[2025.05.02-04.51.38:755][324]LogEditorTransaction: Undo Move Elements
+[2025.05.02-04.51.40:256][413]Cmd: TRANSACTION UNDO
+[2025.05.02-04.51.40:256][413]LogEditorTransaction: Undo Duplicate Elements
+[2025.05.02-04.51.44:474][800]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.02-04.51.45:437][884]Cmd: TRANSACTION UNDO
+[2025.05.02-04.51.45:437][884]LogEditorTransaction: Undo Move Elements
+[2025.05.02-04.51.48:492][101]Cmd: TRANSACTION UNDO
+[2025.05.02-04.51.48:492][101]LogEditorTransaction: Undo Move Elements
+[2025.05.02-04.51.50:183][257]Cmd: TRANSACTION UNDO
+[2025.05.02-04.51.50:183][257]LogEditorTransaction: Undo Move Elements
+[2025.05.02-04.51.55:067][657]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.02-04.52.33:485][749]Cmd: DELETE
+[2025.05.02-04.52.33:485][749]Cmd: ACTOR DELETE
+[2025.05.02-04.52.33:490][749]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.02-04.52.33:491][749]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.02-04.52.33:496][749]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.05.02-04.52.33:499][749]LogEditorActor: Deleted 2 Actors (0.014 secs)
+[2025.05.02-04.52.45:128][ 15]Cmd: TRANSACTION UNDO
+[2025.05.02-04.52.45:128][ 15]LogEditorTransaction: Undo Move Elements
+[2025.05.02-04.52.47:188][158]Cmd: TRANSACTION UNDO
+[2025.05.02-04.52.47:188][158]LogEditorTransaction: Undo Move Elements
+[2025.05.02-04.53.59:754][293]Cmd: DELETE
+[2025.05.02-04.53.59:754][293]Cmd: ACTOR DELETE
+[2025.05.02-04.53.59:759][293]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.02-04.53.59:760][293]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.02-04.53.59:765][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.05.02-04.53.59:768][293]LogEditorActor: Deleted 2 Actors (0.013 secs)
+[2025.05.02-04.54.14:391][891]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.02-04.54.25:811][ 38]Cmd: DELETE
+[2025.05.02-04.54.25:811][ 38]Cmd: ACTOR DELETE
+[2025.05.02-04.54.25:816][ 38]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.02-04.54.25:816][ 38]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.02-04.54.25:822][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.05.02-04.54.25:824][ 38]LogEditorActor: Deleted 2 Actors (0.013 secs)
+[2025.05.02-04.54.33:601][902]Cmd: TRANSACTION UNDO
+[2025.05.02-04.54.33:601][902]LogEditorTransaction: Undo Move Elements
+[2025.05.02-04.54.35:664][ 26]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.02-04.54.41:459][577]Cmd: DELETE
+[2025.05.02-04.54.41:459][577]Cmd: ACTOR DELETE
+[2025.05.02-04.54.41:463][577]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.02-04.54.41:469][577]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.05.02-04.54.41:472][577]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2025.05.02-04.54.50:369][546]Cmd: TRANSACTION UNDO
+[2025.05.02-04.54.50:369][546]LogEditorTransaction: Undo Move Elements
+[2025.05.02-04.54.51:043][566]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.02-04.54.55:506][976]Cmd: DELETE
+[2025.05.02-04.54.55:506][976]Cmd: ACTOR DELETE
+[2025.05.02-04.54.55:511][976]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.02-04.54.55:517][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.05.02-04.54.55:520][976]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2025.05.02-04.55.39:461][ 74]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.02-04.55.54:405][590]Cmd: DELETE
+[2025.05.02-04.55.54:405][590]Cmd: ACTOR DELETE
+[2025.05.02-04.55.54:410][590]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.02-04.55.54:415][590]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.05.02-04.55.54:418][590]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2025.05.02-04.56.15:457][798]Cmd: DELETE
+[2025.05.02-04.56.15:458][798]Cmd: ACTOR DELETE
+[2025.05.02-04.56.15:462][798]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.02-04.56.15:467][798]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.05.02-04.56.15:469][798]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2025.05.02-04.56.21:832][490]Cmd: DELETE
+[2025.05.02-04.56.21:832][490]Cmd: ACTOR DELETE
+[2025.05.02-04.56.21:837][490]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.02-04.56.21:842][490]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.05.02-04.56.21:845][490]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2025.05.02-04.56.22:355][551]Cmd: TRANSACTION UNDO
+[2025.05.02-04.56.22:355][551]LogEditorTransaction: Undo Delete Elements
+[2025.05.02-04.57.07:345][674]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Textures/FullCeiling/wires_MAT.wires_MAT
+[2025.05.02-04.57.07:349][674]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.02-04.57.07:349][674]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.02-04.57.08:578][674]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.02-04.57.08:578][674]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.05.02-04.57.08:578][674]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.02-04.57.08:578][674]MaterialEditorStats: Shader Count: 0
+[2025.05.02-04.57.08:588][674]LogViewport: Scene viewport resized to 285x383, mode Windowed.
+[2025.05.02-04.57.08:639][675]LogShaderCompilers: Display: ================================================
+[2025.05.02-04.57.08:639][675]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.02-04.57.08:639][675]LogShaderCompilers: Display: Total job queries 501, among them cache hits 397 (79.24%)
+[2025.05.02-04.57.08:639][675]LogShaderCompilers: Display: Tracking 104 distinct input hashes that result in 77 distinct outputs (74.04%)
+[2025.05.02-04.57.08:639][675]LogShaderCompilers: Display: RAM used: 2.37 MiB of 1.60 GiB budget. Usage: 0.14%
+[2025.05.02-04.57.08:639][675]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.02-04.57.08:639][675]LogShaderCompilers: Display: Shaders Compiled: 1
+[2025.05.02-04.57.08:639][675]LogShaderCompilers: Display: Jobs assigned 1, completed 1 (100%)
+[2025.05.02-04.57.08:639][675]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 0.09 s
+[2025.05.02-04.57.08:639][675]LogShaderCompilers: Display: Job execution time: average 0.62 s, max 0.62 s
+[2025.05.02-04.57.08:639][675]LogShaderCompilers: Display: Job life time (pending + execution): average 0.71 s, max 0.71
+[2025.05.02-04.57.08:639][675]LogShaderCompilers: Display: Shader code size: average 59.395 KiB, min 59.395 KiB, max 59.395 KiB
+[2025.05.02-04.57.08:639][675]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.71 s
+[2025.05.02-04.57.08:639][675]LogShaderCompilers: Display: Jobs were issued in 1 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.05.02-04.57.08:639][675]LogShaderCompilers: Display: Average processing rate: 1.41 jobs/sec
+[2025.05.02-04.57.08:639][675]LogShaderCompilers: Display: Total thread time: 0.291 s
+[2025.05.02-04.57.08:639][675]LogShaderCompilers: Display: Total thread preprocess time: 0.05 s
+[2025.05.02-04.57.08:639][675]LogShaderCompilers: Display: Percentage time preprocessing: 17.31%
+[2025.05.02-04.57.08:639][675]LogShaderCompilers: Display: Effective parallelization: 0.41 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2025.05.02-04.57.08:639][675]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2025.05.02-04.57.08:639][675]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    1 times, average 0.29 sec, max 0.29 sec, min 0.29 sec)
+[2025.05.02-04.57.08:639][675]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2025.05.02-04.57.08:639][675]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight - 100.00% of total time (compiled    1 times, average 0.29 sec, max 0.29 sec, min 0.29 sec)
+[2025.05.02-04.57.08:639][675]LogShaderCompilers: Display: ================================================
+[2025.05.02-04.57.08:668][676]MaterialEditorStats: Base pass shader: 206 instructions
+[2025.05.02-04.57.08:668][676]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.02-04.57.08:668][676]MaterialEditorStats: Texture samplers: 5/16
+[2025.05.02-04.57.08:668][676]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.05.02-04.57.08:668][676]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.02-04.57.08:668][676]MaterialEditorStats: Shader Count: 5
+[2025.05.02-04.57.36:066][ 95]LogSlate: Took 0.000775 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.05.02-04.57.41:949][334]LogSlate: Window 'wires_MAT' being destroyed
+[2025.05.02-04.57.41:957][334]LogSlate: Window 'wires_MAT' being destroyed
+[2025.05.02-04.57.42:337][334]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.05.02-04.57.42:337][334]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.02-04.57.55:399][395]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.02-04.57.59:755][768]Cmd: TRANSACTION UNDO
+[2025.05.02-04.57.59:755][768]LogEditorTransaction: Undo Move Elements
+[2025.05.02-04.58.05:700][219]Cmd: DELETE
+[2025.05.02-04.58.05:700][219]Cmd: ACTOR DELETE
+[2025.05.02-04.58.05:705][219]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.02-04.58.05:713][219]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.05.02-04.58.05:715][219]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2025.05.02-04.58.24:404][ 78]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.02-04.58.44:571][866]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.02-04.58.53:132][593]Cmd: TRANSACTION UNDO
+[2025.05.02-04.58.53:132][593]LogEditorTransaction: Undo Set Scale
+[2025.05.02-04.58.55:383][717]Cmd: TRANSACTION UNDO
+[2025.05.02-04.58.55:383][717]LogEditorTransaction: Undo Set Scale
+[2025.05.02-04.58.57:010][820]Cmd: TRANSACTION UNDO
+[2025.05.02-04.58.57:010][820]LogEditorTransaction: Undo Set Scale
+[2025.05.02-04.59.03:455][301]Cmd: DELETE
+[2025.05.02-04.59.03:455][301]Cmd: ACTOR DELETE
+[2025.05.02-04.59.03:459][301]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.02-04.59.03:465][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.05.02-04.59.03:467][301]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2025.05.02-04.59.26:526][327]Cmd: DELETE
+[2025.05.02-04.59.26:527][327]Cmd: ACTOR DELETE
+[2025.05.02-04.59.26:531][327]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.02-04.59.26:537][327]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.05.02-04.59.26:540][327]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2025.05.02-04.59.54:455][754]Cmd: DELETE
+[2025.05.02-04.59.54:455][754]Cmd: ACTOR DELETE
+[2025.05.02-04.59.54:460][754]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.02-04.59.54:466][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.05.02-04.59.54:468][754]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2025.05.02-05.00.32:062][910]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.02-05.01.21:463][982]Cmd: DELETE
+[2025.05.02-05.01.21:463][982]Cmd: ACTOR DELETE
+[2025.05.02-05.01.21:468][982]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.02-05.01.21:469][982]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.02-05.01.21:469][982]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.02-05.01.21:470][982]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.02-05.01.21:475][982]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.05.02-05.01.21:478][982]LogEditorActor: Deleted 4 Actors (0.015 secs)
+[2025.05.02-05.01.32:363][101]Cmd: DELETE
+[2025.05.02-05.01.32:363][101]Cmd: ACTOR DELETE
+[2025.05.02-05.01.32:367][101]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.02-05.01.32:368][101]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.02-05.01.32:368][101]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.02-05.01.32:369][101]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.02-05.01.32:374][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.05.02-05.01.32:376][101]LogEditorActor: Deleted 4 Actors (0.014 secs)
+[2025.05.02-05.01.47:329][315]Cmd: DELETE
+[2025.05.02-05.01.47:329][315]Cmd: ACTOR DELETE
+[2025.05.02-05.01.47:334][315]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.02-05.01.47:334][315]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.02-05.01.47:335][315]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.02-05.01.47:335][315]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.02-05.01.47:341][315]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.05.02-05.01.47:344][315]LogEditorActor: Deleted 4 Actors (0.014 secs)
+[2025.05.02-05.01.51:529][753]Cmd: DELETE
+[2025.05.02-05.01.51:529][753]Cmd: ACTOR DELETE
+[2025.05.02-05.01.51:533][753]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.02-05.01.51:534][753]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.02-05.01.51:539][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.05.02-05.01.51:542][753]LogEditorActor: Deleted 2 Actors (0.013 secs)
+[2025.05.02-05.02.36:550][370]Cmd: TRANSACTION UNDO
+[2025.05.02-05.02.36:550][370]LogEditorTransaction: Undo Set Location
+[2025.05.02-05.02.37:757][433]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.02-05.02.43:666][874]Cmd: TRANSACTION UNDO
+[2025.05.02-05.02.43:666][874]LogEditorTransaction: Undo Set Location
+[2025.05.02-05.03.50:481][457]Cmd: TRANSACTION UNDO
+[2025.05.02-05.03.50:481][457]LogEditorTransaction: Undo Set Location
+[2025.05.02-05.04.06:281][ 31]Cmd: TRANSACTION UNDO
+[2025.05.02-05.04.06:281][ 31]LogEditorTransaction: Undo Set Location
+[2025.05.02-05.04.31:855][ 35]Cmd: TRANSACTION UNDO
+[2025.05.02-05.04.31:855][ 35]LogEditorTransaction: Undo Set Location
+[2025.05.02-05.05.08:712][528]Cmd: DELETE
+[2025.05.02-05.05.08:712][528]Cmd: ACTOR DELETE
+[2025.05.02-05.05.08:716][528]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.02-05.05.08:723][528]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.05.02-05.05.08:726][528]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2025.05.02-05.05.13:230][986]Cmd: DELETE
+[2025.05.02-05.05.13:230][986]Cmd: ACTOR DELETE
+[2025.05.02-05.05.13:235][986]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.02-05.05.13:240][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.05.02-05.05.13:243][986]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2025.05.02-05.05.14:192][ 97]Cmd: TRANSACTION UNDO
+[2025.05.02-05.05.14:192][ 97]LogEditorTransaction: Undo Delete Elements
+[2025.05.02-05.05.25:296][939]Cmd: TRANSACTION UNDO
+[2025.05.02-05.05.25:297][939]LogEditorTransaction: Undo Clicking on Elements
+[2025.05.02-05.05.26:328][981]Cmd: TRANSACTION UNDO
+[2025.05.02-05.05.26:329][981]LogEditorTransaction: Undo Move Elements
+[2025.05.02-05.05.44:039][368]Cmd: DELETE
+[2025.05.02-05.05.44:039][368]Cmd: ACTOR DELETE
+[2025.05.02-05.05.44:039][368]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'ACTOR'. 
+[2025.05.02-05.05.44:044][368]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.02-05.05.44:049][368]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.05.02-05.05.44:053][368]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2025.05.02-05.05.48:405][801]Cmd: DELETE
+[2025.05.02-05.05.48:405][801]Cmd: ACTOR DELETE
+[2025.05.02-05.05.48:410][801]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.02-05.05.48:411][801]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.02-05.05.48:417][801]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.05.02-05.05.48:419][801]LogEditorActor: Deleted 2 Actors (0.014 secs)
+[2025.05.02-05.05.57:029][492]LogEditorViewport: Clicking Background
+[2025.05.02-05.06.32:380][646]Cmd: TRANSACTION UNDO
+[2025.05.02-05.06.32:380][646]LogEditorTransaction: Undo Move Elements
