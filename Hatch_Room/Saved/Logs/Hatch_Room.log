@@ -3096,3 +3096,695 @@ LogConfig: Set CVar [[r.setres:1280x720]]
 [2025.05.02-05.44.13:038][817]LogSavePackage: Moving 'E:/Thesis_Hatch_Room_UE/Hatch_Room/Saved/wall_L_wall_L_base_MAT_NormalBE188B6549F2F07E8062FD9839D22494.tmp' to 'E:/Thesis_Hatch_Room_UE/Hatch_Room/Content/Textures/Structure/wall_L/wall_L_wall_L_base_MAT_Normal.uasset'
 [2025.05.02-05.44.13:333][817]LogSavePackage: Moving output files for package: /Game/Textures/Structure/wall_L/wall_L_wall_L_base_MAT_BaseColor
 [2025.05.02-05.44.13:333][817]LogSavePackage: Moving 'E:/Thesis_Hatch_Room_UE/Hatch_Room/Saved/wall_L_wall_L_base_MAT_BaseColorC38BA783483F7183C4D7E0A98E6635C3.tmp' to 'E:/Thesis_Hatch_Room_UE/Hatch_Room/Content/Textures/Structure/wall_L/wall_L_wall_L_base_MAT_BaseColor.uasset'
+[2025.05.02-05.44.15:748][817]LogSavePackage: Moving output files for package: /Game/Textures/Structure/wall_L/wall_L_mesh/wall_L_doorway
+[2025.05.02-05.44.15:750][817]LogSavePackage: Moving 'E:/Thesis_Hatch_Room_UE/Hatch_Room/Saved/wall_L_doorway89AC1EA34CEE8518A76DD9A0F0FE9256.tmp' to 'E:/Thesis_Hatch_Room_UE/Hatch_Room/Content/Textures/Structure/wall_L/wall_L_mesh/wall_L_doorway.uasset'
+[2025.05.02-05.44.18:000][817]LogSavePackage: Moving output files for package: /Game/Textures/Structure/wall_L/wall_L_mesh/wall_L_wall_base
+[2025.05.02-05.44.18:000][817]LogSavePackage: Moving 'E:/Thesis_Hatch_Room_UE/Hatch_Room/Saved/wall_L_wall_baseB0EEC41249DA9D8849CFBFAAE6DACEE8.tmp' to 'E:/Thesis_Hatch_Room_UE/Hatch_Room/Content/Textures/Structure/wall_L/wall_L_mesh/wall_L_wall_base.uasset'
+[2025.05.02-05.44.18:308][817]LogSavePackage: Moving output files for package: /Game/Textures/Structure/wall_L/wall_L_wall_L_doorway_MAT_OcclusionRoughnessMetallic
+[2025.05.02-05.44.18:309][817]LogSavePackage: Moving 'E:/Thesis_Hatch_Room_UE/Hatch_Room/Saved/wall_L_wall_L_doorway_MAT_Occlus6D65EB35401CE8F72056DD99AFAA7CA0.tmp' to 'E:/Thesis_Hatch_Room_UE/Hatch_Room/Content/Textures/Structure/wall_L/wall_L_wall_L_doorway_MAT_OcclusionRoughnessMetallic.uasset'
+[2025.05.02-05.44.18:371][817]LogFileHelpers: InternalPromptForCheckoutAndSave took 1:44 min (total: 3:20 min)
+[2025.05.02-05.44.18:421][817]AssetCheck: New page: Asset Save: multiple assets
+[2025.05.02-05.44.18:421][817]LogContentValidation: Display: Validating /Script/Engine.World /Game/Main.Main
+[2025.05.02-05.44.18:421][817]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/Structure/wall_L/wall_L_wall_L_doorway_MAT_Normal.wall_L_wall_L_doorway_MAT_Normal
+[2025.05.02-05.44.18:421][817]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/Structure/wall_L/wall_L_wall_L_doorway_MAT_BaseColor.wall_L_wall_L_doorway_MAT_BaseColor
+[2025.05.02-05.44.18:421][817]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/Structure/wall_L/wall_L_wall_L_base_MAT_OcclusionRoughnessMetallic.wall_L_wall_L_base_MAT_OcclusionRoughnessMetallic
+[2025.05.02-05.44.18:421][817]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/Structure/wall_L/wall_L_wall_L_base_MAT_Normal.wall_L_wall_L_base_MAT_Normal
+[2025.05.02-05.44.18:421][817]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/Structure/wall_L/wall_L_wall_L_base_MAT_BaseColor.wall_L_wall_L_base_MAT_BaseColor
+[2025.05.02-05.44.18:421][817]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Textures/Structure/wall_L/wall_L_mesh/wall_L_doorway.wall_L_doorway
+[2025.05.02-05.44.18:421][817]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Textures/Structure/wall_L/wall_L_mesh/wall_L_wall_base.wall_L_wall_base
+[2025.05.02-05.44.18:421][817]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/Structure/wall_L/wall_L_wall_L_doorway_MAT_OcclusionRoughnessMetallic.wall_L_wall_L_doorway_MAT_OcclusionRoughnessMetallic
+[2025.05.02-06.22.23:459][201]LogDerivedDataCache: C:/Users/bella/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:34.424 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 17630 files in 19566 folders with total size 768 MiB.
+[2025.05.02-06.35.44:598][196]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.05.02-06.35.44:624][196]LogContentBrowser: Creating deferred item: NewFolder
+[2025.05.02-06.35.44:637][197]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.05.02-06.35.48:499][598]LogContentBrowser: Attempting asset rename: NewFolder -> GovtSign
+[2025.05.02-06.35.49:327][598]LogContentBrowser: End creating deferred item NewFolder
+[2025.05.02-06.35.59:494][837]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:/Dystopian_Thesis/FBX/Govt_Sign.fbx)
+[2025.05.02-06.35.59:521][837]LogFbx: Loading FBX Scene from E:/Dystopian_Thesis/FBX/Govt_Sign.fbx
+[2025.05.02-06.35.59:535][837]LogFbx: FBX Scene Loaded Succesfully
+[2025.05.02-06.36.00:968][837]LogSlate: Window 'FBX Import Options' being destroyed
+[2025.05.02-06.36.01:648][837]LogStaticMesh: Display: Building static mesh Govt_Sign_body...
+[2025.05.02-06.36.01:655][837]LogStaticMesh: Adjacency [0.00s], tris: 252, UVs 1
+[2025.05.02-06.36.01:657][837]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.05.02-06.36.01:657][837]LogStaticMesh: Leaves [0.00s]
+[2025.05.02-06.36.01:665][837]LogStaticMesh: Reduce [0.01s]
+[2025.05.02-06.36.01:666][837]LogStaticMesh: Fallback 0/1 [0.00s], num tris: 252
+[2025.05.02-06.36.01:667][837]LogStaticMesh: ConstrainClusters:
+[2025.05.02-06.36.01:667][837]LogStaticMesh:   Input: 3 Clusters, 378 Triangles and 354 Vertices
+[2025.05.02-06.36.01:667][837]LogStaticMesh:   Output without splits: 3 Clusters, 378 Triangles and 354 Vertices
+[2025.05.02-06.36.01:667][837]LogStaticMesh:   Output with splits: 3 Clusters, 378 Triangles and 354 Vertices
+[2025.05.02-06.36.01:667][837]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 3, Slow Path Clusters: 0, 1 Material: 3, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.05.02-06.36.01:667][837]LogStaticMesh: WritePages:
+[2025.05.02-06.36.01:667][837]LogStaticMesh:   Root: GPU size: 3748 bytes. 1 Pages. 3748.000 bytes per page (11.438% utilization).
+[2025.05.02-06.36.01:667][837]LogStaticMesh:   Streaming: 0 bytes.
+[2025.05.02-06.36.01:667][837]LogStaticMesh:   Page data disk size: 3472 bytes. Fixup data size: 40 bytes.
+[2025.05.02-06.36.01:667][837]LogStaticMesh:   Total GPU size: 3748 bytes, Total disk size: 3512 bytes.
+[2025.05.02-06.36.01:668][837]LogStaticMesh: Encode [0.00s]
+[2025.05.02-06.36.01:668][837]LogStaticMesh: Nanite build [0.01s]
+
+[2025.05.02-06.36.01:683][837]LogStaticMesh: Built static mesh [0.04s] /Game/Textures/GovtSign/Govt_Sign_body.Govt_Sign_body
+[2025.05.02-06.36.01:730][837]LogStaticMesh: Display: Building static mesh Govt_Sign_pSphere11...
+[2025.05.02-06.36.01:731][837]LogStaticMesh: Adjacency [0.00s], tris: 180, UVs 1
+[2025.05.02-06.36.01:731][837]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.05.02-06.36.01:731][837]LogStaticMesh: Leaves [0.00s]
+[2025.05.02-06.36.01:735][837]LogStaticMesh: Reduce [0.00s]
+[2025.05.02-06.36.01:736][837]LogStaticMesh: Fallback 0/1 [0.00s], num tris: 180
+[2025.05.02-06.36.01:737][837]LogStaticMesh: ConstrainClusters:
+[2025.05.02-06.36.01:737][837]LogStaticMesh:   Input: 3 Clusters, 306 Triangles and 676 Vertices
+[2025.05.02-06.36.01:737][837]LogStaticMesh:   Output without splits: 3 Clusters, 306 Triangles and 676 Vertices
+[2025.05.02-06.36.01:737][837]LogStaticMesh:   Output with splits: 4 Clusters, 306 Triangles and 676 Vertices
+[2025.05.02-06.36.01:737][837]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 4, Slow Path Clusters: 0, 1 Material: 4, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.05.02-06.36.01:737][837]LogStaticMesh: WritePages:
+[2025.05.02-06.36.01:737][837]LogStaticMesh:   Root: GPU size: 6876 bytes. 1 Pages. 6876.000 bytes per page (20.984% utilization).
+[2025.05.02-06.36.01:737][837]LogStaticMesh:   Streaming: 0 bytes.
+[2025.05.02-06.36.01:737][837]LogStaticMesh:   Page data disk size: 5996 bytes. Fixup data size: 40 bytes.
+[2025.05.02-06.36.01:737][837]LogStaticMesh:   Total GPU size: 6876 bytes, Total disk size: 6036 bytes.
+[2025.05.02-06.36.01:737][837]LogStaticMesh: Encode [0.00s]
+[2025.05.02-06.36.01:737][837]LogStaticMesh: Nanite build [0.01s]
+
+[2025.05.02-06.36.01:739][837]LogStaticMesh: Built static mesh [0.01s] /Game/Textures/GovtSign/Govt_Sign_pSphere11.Govt_Sign_pSphere11
+[2025.05.02-06.36.01:752][837]LogStaticMesh: Display: Building static mesh Govt_Sign_pSphere12...
+[2025.05.02-06.36.01:753][837]LogStaticMesh: Adjacency [0.00s], tris: 180, UVs 1
+[2025.05.02-06.36.01:753][837]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.05.02-06.36.01:753][837]LogStaticMesh: Leaves [0.00s]
+[2025.05.02-06.36.01:757][837]LogStaticMesh: Reduce [0.00s]
+[2025.05.02-06.36.01:757][837]LogStaticMesh: Fallback 0/1 [0.00s], num tris: 180
+[2025.05.02-06.36.01:758][837]LogStaticMesh: ConstrainClusters:
+[2025.05.02-06.36.01:758][837]LogStaticMesh:   Input: 3 Clusters, 306 Triangles and 676 Vertices
+[2025.05.02-06.36.01:758][837]LogStaticMesh:   Output without splits: 3 Clusters, 306 Triangles and 676 Vertices
+[2025.05.02-06.36.01:758][837]LogStaticMesh:   Output with splits: 4 Clusters, 306 Triangles and 676 Vertices
+[2025.05.02-06.36.01:758][837]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 4, Slow Path Clusters: 0, 1 Material: 4, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.05.02-06.36.01:758][837]LogStaticMesh: WritePages:
+[2025.05.02-06.36.01:758][837]LogStaticMesh:   Root: GPU size: 6876 bytes. 1 Pages. 6876.000 bytes per page (20.984% utilization).
+[2025.05.02-06.36.01:758][837]LogStaticMesh:   Streaming: 0 bytes.
+[2025.05.02-06.36.01:758][837]LogStaticMesh:   Page data disk size: 5996 bytes. Fixup data size: 40 bytes.
+[2025.05.02-06.36.01:758][837]LogStaticMesh:   Total GPU size: 6876 bytes, Total disk size: 6036 bytes.
+[2025.05.02-06.36.01:758][837]LogStaticMesh: Encode [0.00s]
+[2025.05.02-06.36.01:758][837]LogStaticMesh: Nanite build [0.00s]
+
+[2025.05.02-06.36.01:760][837]LogStaticMesh: Built static mesh [0.01s] /Game/Textures/GovtSign/Govt_Sign_pSphere12.Govt_Sign_pSphere12
+[2025.05.02-06.36.01:771][837]LogStaticMesh: Display: Building static mesh Govt_Sign_pSphere13...
+[2025.05.02-06.36.01:772][837]LogStaticMesh: Adjacency [0.00s], tris: 180, UVs 1
+[2025.05.02-06.36.01:772][837]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.05.02-06.36.01:772][837]LogStaticMesh: Leaves [0.00s]
+[2025.05.02-06.36.01:775][837]LogStaticMesh: Reduce [0.00s]
+[2025.05.02-06.36.01:776][837]LogStaticMesh: Fallback 0/1 [0.00s], num tris: 180
+[2025.05.02-06.36.01:776][837]LogStaticMesh: ConstrainClusters:
+[2025.05.02-06.36.01:776][837]LogStaticMesh:   Input: 3 Clusters, 306 Triangles and 676 Vertices
+[2025.05.02-06.36.01:776][837]LogStaticMesh:   Output without splits: 3 Clusters, 306 Triangles and 676 Vertices
+[2025.05.02-06.36.01:776][837]LogStaticMesh:   Output with splits: 4 Clusters, 306 Triangles and 678 Vertices
+[2025.05.02-06.36.01:776][837]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 4, Slow Path Clusters: 0, 1 Material: 4, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.05.02-06.36.01:777][837]LogStaticMesh: WritePages:
+[2025.05.02-06.36.01:777][837]LogStaticMesh:   Root: GPU size: 6892 bytes. 1 Pages. 6892.000 bytes per page (21.033% utilization).
+[2025.05.02-06.36.01:777][837]LogStaticMesh:   Streaming: 0 bytes.
+[2025.05.02-06.36.01:777][837]LogStaticMesh:   Page data disk size: 6004 bytes. Fixup data size: 40 bytes.
+[2025.05.02-06.36.01:777][837]LogStaticMesh:   Total GPU size: 6892 bytes, Total disk size: 6044 bytes.
+[2025.05.02-06.36.01:777][837]LogStaticMesh: Encode [0.00s]
+[2025.05.02-06.36.01:777][837]LogStaticMesh: Nanite build [0.00s]
+
+[2025.05.02-06.36.01:778][837]LogStaticMesh: Built static mesh [0.01s] /Game/Textures/GovtSign/Govt_Sign_pSphere13.Govt_Sign_pSphere13
+[2025.05.02-06.36.01:792][837]LogStaticMesh: Display: Building static mesh Govt_Sign_pSphere14...
+[2025.05.02-06.36.01:793][837]LogStaticMesh: Adjacency [0.00s], tris: 180, UVs 1
+[2025.05.02-06.36.01:793][837]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.05.02-06.36.01:793][837]LogStaticMesh: Leaves [0.00s]
+[2025.05.02-06.36.01:796][837]LogStaticMesh: Reduce [0.00s]
+[2025.05.02-06.36.01:796][837]LogStaticMesh: Fallback 0/1 [0.00s], num tris: 180
+[2025.05.02-06.36.01:797][837]LogStaticMesh: ConstrainClusters:
+[2025.05.02-06.36.01:797][837]LogStaticMesh:   Input: 3 Clusters, 306 Triangles and 676 Vertices
+[2025.05.02-06.36.01:797][837]LogStaticMesh:   Output without splits: 3 Clusters, 306 Triangles and 676 Vertices
+[2025.05.02-06.36.01:797][837]LogStaticMesh:   Output with splits: 4 Clusters, 306 Triangles and 678 Vertices
+[2025.05.02-06.36.01:797][837]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 4, Slow Path Clusters: 0, 1 Material: 4, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.05.02-06.36.01:797][837]LogStaticMesh: WritePages:
+[2025.05.02-06.36.01:797][837]LogStaticMesh:   Root: GPU size: 6908 bytes. 1 Pages. 6908.000 bytes per page (21.082% utilization).
+[2025.05.02-06.36.01:797][837]LogStaticMesh:   Streaming: 0 bytes.
+[2025.05.02-06.36.01:797][837]LogStaticMesh:   Page data disk size: 6004 bytes. Fixup data size: 40 bytes.
+[2025.05.02-06.36.01:797][837]LogStaticMesh:   Total GPU size: 6908 bytes, Total disk size: 6044 bytes.
+[2025.05.02-06.36.01:797][837]LogStaticMesh: Encode [0.00s]
+[2025.05.02-06.36.01:797][837]LogStaticMesh: Nanite build [0.00s]
+
+[2025.05.02-06.36.01:799][837]LogStaticMesh: Built static mesh [0.01s] /Game/Textures/GovtSign/Govt_Sign_pSphere14.Govt_Sign_pSphere14
+[2025.05.02-06.36.06:334][210]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.05.02-06.36.06:344][210]LogContentBrowser: Creating deferred item: NewFolder
+[2025.05.02-06.36.06:398][211]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.05.02-06.36.15:871][206]LogContentBrowser: Attempting asset rename: NewFolder -> GovtSign_mesh
+[2025.05.02-06.36.16:133][206]LogContentBrowser: End creating deferred item NewFolder
+[2025.05.02-06.36.20:387][494]LogMetaData: Removing '/Game/Textures/GovtSign/GovtSign_mesh/Govt_Sign_pSphere14.Govt_Sign_pSphere14' ref from Metadata '/Game/Textures/GovtSign/Govt_Sign_pSphere14.PackageMetaData'
+[2025.05.02-06.36.20:407][494]LogMetaData: Removing '/Game/Textures/GovtSign/GovtSign_mesh/Govt_Sign_body.Govt_Sign_body' ref from Metadata '/Game/Textures/GovtSign/Govt_Sign_body.PackageMetaData'
+[2025.05.02-06.36.20:409][494]LogMetaData: Removing '/Game/Textures/GovtSign/GovtSign_mesh/Govt_Sign_pSphere11.Govt_Sign_pSphere11' ref from Metadata '/Game/Textures/GovtSign/Govt_Sign_pSphere11.PackageMetaData'
+[2025.05.02-06.36.20:410][494]LogMetaData: Removing '/Game/Textures/GovtSign/GovtSign_mesh/Govt_Sign_pSphere12.Govt_Sign_pSphere12' ref from Metadata '/Game/Textures/GovtSign/Govt_Sign_pSphere12.PackageMetaData'
+[2025.05.02-06.36.20:411][494]LogMetaData: Removing '/Game/Textures/GovtSign/GovtSign_mesh/Govt_Sign_pSphere13.Govt_Sign_pSphere13' ref from Metadata '/Game/Textures/GovtSign/Govt_Sign_pSphere13.PackageMetaData'
+[2025.05.02-06.36.20:413][494]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.02-06.36.22:577][494]LogSavePackage: Moving output files for package: /Game/Textures/GovtSign/GovtSign_mesh/Govt_Sign_pSphere14
+[2025.05.02-06.36.22:577][494]LogSavePackage: Moving 'E:/Thesis_Hatch_Room_UE/Hatch_Room/Saved/Govt_Sign_pSphere144A5B6153494ADBBB981DEEBCF986AB6F.tmp' to 'E:/Thesis_Hatch_Room_UE/Hatch_Room/Content/Textures/GovtSign/GovtSign_mesh/Govt_Sign_pSphere14.uasset'
+[2025.05.02-06.36.22:634][494]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/GovtSign/GovtSign_mesh/Govt_Sign_body" FILE="E:/Thesis_Hatch_Room_UE/Hatch_Room/Content/Textures/GovtSign/GovtSign_mesh/Govt_Sign_body.uasset" SILENT=true
+[2025.05.02-06.36.24:607][494]LogSavePackage: Moving output files for package: /Game/Textures/GovtSign/GovtSign_mesh/Govt_Sign_body
+[2025.05.02-06.36.24:608][494]LogSavePackage: Moving 'E:/Thesis_Hatch_Room_UE/Hatch_Room/Saved/Govt_Sign_bodyB91F202C4A0CF4AF383DDABA6A89EC2E.tmp' to 'E:/Thesis_Hatch_Room_UE/Hatch_Room/Content/Textures/GovtSign/GovtSign_mesh/Govt_Sign_body.uasset'
+[2025.05.02-06.36.26:651][494]LogSavePackage: Moving output files for package: /Game/Textures/GovtSign/GovtSign_mesh/Govt_Sign_pSphere11
+[2025.05.02-06.36.26:651][494]LogSavePackage: Moving 'E:/Thesis_Hatch_Room_UE/Hatch_Room/Saved/Govt_Sign_pSphere114AA71D1F420C7985508AEA97FB132A20.tmp' to 'E:/Thesis_Hatch_Room_UE/Hatch_Room/Content/Textures/GovtSign/GovtSign_mesh/Govt_Sign_pSphere11.uasset'
+[2025.05.02-06.36.28:689][494]LogSavePackage: Moving output files for package: /Game/Textures/GovtSign/GovtSign_mesh/Govt_Sign_pSphere12
+[2025.05.02-06.36.28:689][494]LogSavePackage: Moving 'E:/Thesis_Hatch_Room_UE/Hatch_Room/Saved/Govt_Sign_pSphere120369DB3E4AD8A090C5A940A908D74266.tmp' to 'E:/Thesis_Hatch_Room_UE/Hatch_Room/Content/Textures/GovtSign/GovtSign_mesh/Govt_Sign_pSphere12.uasset'
+[2025.05.02-06.36.30:735][494]LogSavePackage: Moving output files for package: /Game/Textures/GovtSign/GovtSign_mesh/Govt_Sign_pSphere13
+[2025.05.02-06.36.30:735][494]LogSavePackage: Moving 'E:/Thesis_Hatch_Room_UE/Hatch_Room/Saved/Govt_Sign_pSphere133A0CEAB3492606D60B3AD092C11B9718.tmp' to 'E:/Thesis_Hatch_Room_UE/Hatch_Room/Content/Textures/GovtSign/GovtSign_mesh/Govt_Sign_pSphere13.uasset'
+[2025.05.02-06.36.30:779][494]LogFileHelpers: InternalPromptForCheckoutAndSave took 10.3 sec (total: 3:31 min)
+[2025.05.02-06.36.30:858][494]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2025.05.02-06.36.30:876][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.05.02-06.36.30:882][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.05.02-06.36.30:908][494]AssetCheck: New page: Asset Save: multiple assets
+[2025.05.02-06.36.30:908][494]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Textures/GovtSign/GovtSign_mesh/Govt_Sign_pSphere14.Govt_Sign_pSphere14
+[2025.05.02-06.36.30:908][494]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Textures/GovtSign/GovtSign_mesh/Govt_Sign_body.Govt_Sign_body
+[2025.05.02-06.36.30:908][494]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Textures/GovtSign/GovtSign_mesh/Govt_Sign_pSphere11.Govt_Sign_pSphere11
+[2025.05.02-06.36.30:908][494]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Textures/GovtSign/GovtSign_mesh/Govt_Sign_pSphere12.Govt_Sign_pSphere12
+[2025.05.02-06.36.30:908][494]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Textures/GovtSign/GovtSign_mesh/Govt_Sign_pSphere13.Govt_Sign_pSphere13
+[2025.05.02-06.36.32:954][672]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2025.05.02-06.36.33:055][672]LogContentBrowser: Creating deferred item: NewMaterial
+[2025.05.02-06.36.33:066][673]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2025.05.02-06.36.42:689][741]LogContentBrowser: Attempting asset rename: NewMaterial -> GovtSign_body_MAT
+[2025.05.02-06.36.42:692][741]LogContentBrowser: End creating deferred item NewMaterial
+[2025.05.02-06.36.44:132][843]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2025.05.02-06.36.44:141][843]LogContentBrowser: Creating deferred item: NewMaterial
+[2025.05.02-06.36.44:154][844]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2025.05.02-06.36.49:733][ 96]LogContentBrowser: Attempting asset rename: NewMaterial -> GovtSign_screws_MAT
+[2025.05.02-06.36.49:733][ 96]LogContentBrowser: End creating deferred item NewMaterial
+[2025.05.02-06.36.59:996][219]LogInterchangeEngine: [Pending] Importing
+[2025.05.02-06.36.59:996][219]LogInterchangeEngine: Display: Interchange start importing source [E:/Dystopian_Thesis_...gn/exported_textures/Govt_Sign_gov_sign_body_MAT_BaseColor.png]
+[2025.05.02-06.36.59:998][219]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.05.02-06.36.59:998][219]LogInterchangeEngine: Display: Interchange start importing source [E:/Dystopian_Thesis_...gn/exported_textures/Govt_Sign_gov_sign_body_MAT_Normal.png]
+[2025.05.02-06.36.59:999][219]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.05.02-06.36.59:999][219]LogInterchangeEngine: Display: Interchange start importing source [E:/Dystopian_Thesis_...gn/exported_textures/Govt_Sign_gov_sign_body_MAT_OcclusionRoughnessMetallic.png]
+[2025.05.02-06.37.00:000][219]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.05.02-06.37.00:000][219]LogInterchangeEngine: Display: Interchange start importing source [E:/Dystopian_Thesis_...gn/exported_textures/Govt_Sign_gov_sign_body_screws_MAT_BaseColor.png]
+[2025.05.02-06.37.00:001][219]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.05.02-06.37.00:002][219]LogInterchangeEngine: Display: Interchange start importing source [E:/Dystopian_Thesis_...gn/exported_textures/Govt_Sign_gov_sign_body_screws_MAT_Normal.png]
+[2025.05.02-06.37.00:002][219]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.05.02-06.37.00:003][219]LogInterchangeEngine: Display: Interchange start importing source [E:/Dystopian_Thesis_...gn/exported_textures/Govt_Sign_gov_sign_body_screws_MAT_OcclusionRoughnessMetallic.png]
+[2025.05.02-06.37.00:045][220]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.05.02-06.37.00:238][221]LogInterchangePipeline: Display: Auto-detected normal map
+[2025.05.02-06.37.00:257][221]LogTexture: Display: Building textures: /Game/Textures/GovtSign/Govt_Sign_gov_sign_body_screws_MAT_Normal.Govt_Sign_gov_sign_body_screws_MAT_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 471.562488 MB), EncodeSpeed: Fast
+[2025.05.02-06.37.00:265][221]LogTexture: Display: Building textures: /Game/Textures/GovtSign/Govt_Sign_gov_sign_body_screws_MAT_BaseColor.Govt_Sign_gov_sign_body_screws_MAT_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 305.145823 MB), EncodeSpeed: Fast
+[2025.05.02-06.37.00:278][221]LogTexture: Display: Building textures: /Game/Textures/GovtSign/Govt_Sign_gov_sign_body_MAT_OcclusionRoughnessMetallic.Govt_Sign_gov_sign_body_MAT_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 305.145823 MB), EncodeSpeed: Fast
+[2025.05.02-06.37.00:290][221]LogTexture: Display: Building textures: /Game/Textures/GovtSign/Govt_Sign_gov_sign_body_screws_MAT_OcclusionRoughnessMetallic.Govt_Sign_gov_sign_body_screws_MAT_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 305.145823 MB), EncodeSpeed: Fast
+[2025.05.02-06.37.00:300][221]LogInterchangePipeline: Display: Auto-detected normal map
+[2025.05.02-06.37.00:304][221]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.05.02-06.37.00:306][221]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.05.02-06.37.00:307][221]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.05.02-06.37.00:307][221]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.05.02-06.37.00:307][221]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.05.02-06.37.00:308][221]LogInterchangeEngine: [Success] Import Done
+[2025.05.02-06.37.00:341][221]LogTexture: Display: Building textures: /Game/Textures/GovtSign/Govt_Sign_gov_sign_body_MAT_Normal.Govt_Sign_gov_sign_body_MAT_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 471.562488 MB), EncodeSpeed: Fast
+[2025.05.02-06.37.00:347][221]LogTexture: Display: Building textures: /Game/Textures/GovtSign/Govt_Sign_gov_sign_body_MAT_BaseColor.Govt_Sign_gov_sign_body_MAT_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 305.145823 MB), EncodeSpeed: Fast
+[2025.05.02-06.37.00:361][221]LogInterchangeEngine: [Success] Import Done
+[2025.05.02-06.37.02:857][365]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/GovtSign/Govt_Sign_gov_sign_body_MAT_OcclusionRoughnessMetallic.Govt_Sign_gov_sign_body_MAT_OcclusionRoughnessMetallic
+[2025.05.02-06.37.03:733][365]LogViewport: Scene viewport resized to 1083x768, mode Windowed.
+[2025.05.02-06.37.05:753][506]LogTexture: Display: Building textures: /Game/Textures/GovtSign/Govt_Sign_gov_sign_body_MAT_OcclusionRoughnessMetallic.Govt_Sign_gov_sign_body_MAT_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 305.145823 MB), EncodeSpeed: Final
+[2025.05.02-06.37.06:521][549]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/GovtSign/Govt_Sign_gov_sign_body_screws_MAT_OcclusionRoughnessMetallic.Govt_Sign_gov_sign_body_screws_MAT_OcclusionRoughnessMetallic
+[2025.05.02-06.37.07:179][549]LogViewport: Scene viewport resized to 1083x768, mode Windowed.
+[2025.05.02-06.37.07:944][602]LogTexture: Display: Building textures: /Game/Textures/GovtSign/Govt_Sign_gov_sign_body_screws_MAT_OcclusionRoughnessMetallic.Govt_Sign_gov_sign_body_screws_MAT_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 305.145823 MB), EncodeSpeed: Final
+[2025.05.02-06.37.09:031][678]LogSlate: Window 'Govt_Sign_gov_sign_body_screws_MAT_OcclusionRoughnessMetallic' being destroyed
+[2025.05.02-06.37.09:042][678]LogSlate: Window 'Govt_Sign_gov_sign_body_screws_MAT_OcclusionRoughnessMetallic' being destroyed
+[2025.05.02-06.37.12:968][760]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Textures/GovtSign/GovtSign_mesh/Govt_Sign_body.Govt_Sign_body
+[2025.05.02-06.37.12:968][760]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Textures/GovtSign/GovtSign_mesh/Govt_Sign_body.Govt_Sign_body
+[2025.05.02-06.37.12:986][760]LogActorFactory: Actor Factory spawned StaticMesh /Game/Textures/GovtSign/GovtSign_mesh/Govt_Sign_body.Govt_Sign_body as actor: StaticMeshActor /Game/Main.Main:PersistentLevel.StaticMeshActor_100
+[2025.05.02-06.37.13:003][760]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Textures/GovtSign/GovtSign_mesh/Govt_Sign_pSphere11.Govt_Sign_pSphere11
+[2025.05.02-06.37.13:003][760]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Textures/GovtSign/GovtSign_mesh/Govt_Sign_pSphere11.Govt_Sign_pSphere11
+[2025.05.02-06.37.13:004][760]LogActorFactory: Actor Factory spawned StaticMesh /Game/Textures/GovtSign/GovtSign_mesh/Govt_Sign_pSphere11.Govt_Sign_pSphere11 as actor: StaticMeshActor /Game/Main.Main:PersistentLevel.StaticMeshActor_101
+[2025.05.02-06.37.13:005][760]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Textures/GovtSign/GovtSign_mesh/Govt_Sign_pSphere12.Govt_Sign_pSphere12
+[2025.05.02-06.37.13:005][760]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Textures/GovtSign/GovtSign_mesh/Govt_Sign_pSphere12.Govt_Sign_pSphere12
+[2025.05.02-06.37.13:006][760]LogActorFactory: Actor Factory spawned StaticMesh /Game/Textures/GovtSign/GovtSign_mesh/Govt_Sign_pSphere12.Govt_Sign_pSphere12 as actor: StaticMeshActor /Game/Main.Main:PersistentLevel.StaticMeshActor_102
+[2025.05.02-06.37.13:006][760]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Textures/GovtSign/GovtSign_mesh/Govt_Sign_pSphere13.Govt_Sign_pSphere13
+[2025.05.02-06.37.13:006][760]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Textures/GovtSign/GovtSign_mesh/Govt_Sign_pSphere13.Govt_Sign_pSphere13
+[2025.05.02-06.37.13:007][760]LogActorFactory: Actor Factory spawned StaticMesh /Game/Textures/GovtSign/GovtSign_mesh/Govt_Sign_pSphere13.Govt_Sign_pSphere13 as actor: StaticMeshActor /Game/Main.Main:PersistentLevel.StaticMeshActor_103
+[2025.05.02-06.37.13:008][760]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Textures/GovtSign/GovtSign_mesh/Govt_Sign_pSphere14.Govt_Sign_pSphere14
+[2025.05.02-06.37.13:008][760]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Textures/GovtSign/GovtSign_mesh/Govt_Sign_pSphere14.Govt_Sign_pSphere14
+[2025.05.02-06.37.13:008][760]LogActorFactory: Actor Factory spawned StaticMesh /Game/Textures/GovtSign/GovtSign_mesh/Govt_Sign_pSphere14.Govt_Sign_pSphere14 as actor: StaticMeshActor /Game/Main.Main:PersistentLevel.StaticMeshActor_112
+[2025.05.02-06.37.13:251][764]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Textures/GovtSign/GovtSign_mesh/Govt_Sign_body.Govt_Sign_body
+[2025.05.02-06.37.13:251][764]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Textures/GovtSign/GovtSign_mesh/Govt_Sign_body.Govt_Sign_body
+[2025.05.02-06.37.13:255][764]LogActorFactory: Actor Factory spawned StaticMesh /Game/Textures/GovtSign/GovtSign_mesh/Govt_Sign_body.Govt_Sign_body as actor: StaticMeshActor /Game/Main.Main:PersistentLevel.StaticMeshActor_113
+[2025.05.02-06.37.13:288][764]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Textures/GovtSign/GovtSign_mesh/Govt_Sign_pSphere11.Govt_Sign_pSphere11
+[2025.05.02-06.37.13:288][764]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Textures/GovtSign/GovtSign_mesh/Govt_Sign_pSphere11.Govt_Sign_pSphere11
+[2025.05.02-06.37.13:289][764]LogActorFactory: Actor Factory spawned StaticMesh /Game/Textures/GovtSign/GovtSign_mesh/Govt_Sign_pSphere11.Govt_Sign_pSphere11 as actor: StaticMeshActor /Game/Main.Main:PersistentLevel.StaticMeshActor_114
+[2025.05.02-06.37.13:316][764]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Textures/GovtSign/GovtSign_mesh/Govt_Sign_pSphere12.Govt_Sign_pSphere12
+[2025.05.02-06.37.13:316][764]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Textures/GovtSign/GovtSign_mesh/Govt_Sign_pSphere12.Govt_Sign_pSphere12
+[2025.05.02-06.37.13:317][764]LogActorFactory: Actor Factory spawned StaticMesh /Game/Textures/GovtSign/GovtSign_mesh/Govt_Sign_pSphere12.Govt_Sign_pSphere12 as actor: StaticMeshActor /Game/Main.Main:PersistentLevel.StaticMeshActor_115
+[2025.05.02-06.37.13:345][764]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Textures/GovtSign/GovtSign_mesh/Govt_Sign_pSphere13.Govt_Sign_pSphere13
+[2025.05.02-06.37.13:345][764]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Textures/GovtSign/GovtSign_mesh/Govt_Sign_pSphere13.Govt_Sign_pSphere13
+[2025.05.02-06.37.13:346][764]LogActorFactory: Actor Factory spawned StaticMesh /Game/Textures/GovtSign/GovtSign_mesh/Govt_Sign_pSphere13.Govt_Sign_pSphere13 as actor: StaticMeshActor /Game/Main.Main:PersistentLevel.StaticMeshActor_116
+[2025.05.02-06.37.13:374][764]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Textures/GovtSign/GovtSign_mesh/Govt_Sign_pSphere14.Govt_Sign_pSphere14
+[2025.05.02-06.37.13:374][764]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Textures/GovtSign/GovtSign_mesh/Govt_Sign_pSphere14.Govt_Sign_pSphere14
+[2025.05.02-06.37.13:375][764]LogActorFactory: Actor Factory spawned StaticMesh /Game/Textures/GovtSign/GovtSign_mesh/Govt_Sign_pSphere14.Govt_Sign_pSphere14 as actor: StaticMeshActor /Game/Main.Main:PersistentLevel.StaticMeshActor_127
+[2025.05.02-06.37.20:003][967]Cmd: PIVOT HERE
+[2025.05.02-06.37.22:194][143]Cmd: ACTOR BAKEPREPIVOT
+[2025.05.02-06.37.22:481][153]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.02-06.37.30:369][849]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Textures/GovtSign/GovtSign_body_MAT.GovtSign_body_MAT
+[2025.05.02-06.37.30:441][849]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.02-06.37.30:452][849]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.02-06.37.31:834][849]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.02-06.37.31:834][849]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.02-06.37.31:834][849]MaterialEditorStats: Shader Count: 0
+[2025.05.02-06.37.31:850][849]LogViewport: Scene viewport resized to 285x383, mode Windowed.
+[2025.05.02-06.37.31:908][850]LogShaderCompilers: Display: ================================================
+[2025.05.02-06.37.31:908][850]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.02-06.37.31:908][850]LogShaderCompilers: Display: Total job queries 1,091, among them cache hits 874 (80.11%)
+[2025.05.02-06.37.31:908][850]LogShaderCompilers: Display: Tracking 217 distinct input hashes that result in 84 distinct outputs (38.71%)
+[2025.05.02-06.37.31:908][850]LogShaderCompilers: Display: RAM used: 5.16 MiB of 1.60 GiB budget. Usage: 0.31%
+[2025.05.02-06.37.31:908][850]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.02-06.37.31:908][850]LogShaderCompilers: Display: Shaders Compiled: 11
+[2025.05.02-06.37.31:908][850]LogShaderCompilers: Display: Jobs assigned 11, completed 11 (100%)
+[2025.05.02-06.37.31:908][850]LogShaderCompilers: Display: Average time worker was idle: 452.94 s
+[2025.05.02-06.37.31:908][850]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.09 s
+[2025.05.02-06.37.31:908][850]LogShaderCompilers: Display: Job execution time: average 0.81 s, max 1.55 s
+[2025.05.02-06.37.31:908][850]LogShaderCompilers: Display: Job life time (pending + execution): average 0.87 s, max 1.57
+[2025.05.02-06.37.31:908][850]LogShaderCompilers: Display: Shader code size: average 39.564 KiB, min 32.355 KiB, max 59.395 KiB
+[2025.05.02-06.37.31:908][850]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.89 s
+[2025.05.02-06.37.31:908][850]LogShaderCompilers: Display: Jobs were issued in 11 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.05.02-06.37.31:908][850]LogShaderCompilers: Display: Average processing rate: 3.81 jobs/sec
+[2025.05.02-06.37.31:908][850]LogShaderCompilers: Display: Total thread time: 5.373 s
+[2025.05.02-06.37.31:908][850]LogShaderCompilers: Display: Total thread preprocess time: 2.855 s
+[2025.05.02-06.37.31:908][850]LogShaderCompilers: Display: Percentage time preprocessing: 53.14%
+[2025.05.02-06.37.31:908][850]LogShaderCompilers: Display: Effective parallelization: 1.86 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2025.05.02-06.37.31:908][850]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.05.02-06.37.31:908][850]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 0.69 sec, max 0.93 sec, min 0.45 sec)
+[2025.05.02-06.37.31:908][850]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.56 sec, max 0.86 sec, min 0.27 sec)
+[2025.05.02-06.37.31:908][850]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 0.47 sec, max 0.70 sec, min 0.25 sec)
+[2025.05.02-06.37.31:908][850]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.47 sec, max 0.71 sec, min 0.22 sec)
+[2025.05.02-06.37.31:908][850]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    2 times, average 0.34 sec, max 0.58 sec, min 0.11 sec)
+[2025.05.02-06.37.31:908][850]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.05.02-06.37.31:908][850]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 25.80% of total time (compiled    2 times, average 0.69 sec, max 0.93 sec, min 0.45 sec)
+[2025.05.02-06.37.31:908][850]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 21.01% of total time (compiled    2 times, average 0.56 sec, max 0.86 sec, min 0.27 sec)
+[2025.05.02-06.37.31:908][850]LogShaderCompilers: Display:                                                 FLumenCardVS - 17.63% of total time (compiled    2 times, average 0.47 sec, max 0.70 sec, min 0.25 sec)
+[2025.05.02-06.37.31:908][850]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 17.35% of total time (compiled    2 times, average 0.47 sec, max 0.71 sec, min 0.22 sec)
+[2025.05.02-06.37.31:908][850]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 12.80% of total time (compiled    2 times, average 0.34 sec, max 0.58 sec, min 0.11 sec)
+[2025.05.02-06.37.31:908][850]LogShaderCompilers: Display: ================================================
+[2025.05.02-06.37.31:940][851]MaterialEditorStats: Base pass shader: 187 instructions
+[2025.05.02-06.37.31:941][851]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2025.05.02-06.37.31:941][851]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.02-06.37.31:941][851]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.02-06.37.31:941][851]MaterialEditorStats: Shader Count: 5
+[2025.05.02-06.37.36:234][ 61]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.02-06.37.36:234][ 61]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.02-06.37.36:234][ 61]MaterialEditorStats: Shader Count: 0
+[2025.05.02-06.37.36:298][ 62]MaterialEditorStats: Base pass shader: 187 instructions
+[2025.05.02-06.37.36:298][ 62]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2025.05.02-06.37.36:298][ 62]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.02-06.37.36:298][ 62]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.02-06.37.36:298][ 62]MaterialEditorStats: Shader Count: 5
+[2025.05.02-06.37.45:526][585]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.02-06.37.45:526][585]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.05.02-06.37.45:526][585]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.02-06.37.45:526][585]MaterialEditorStats: Shader Count: 0
+[2025.05.02-06.37.45:693][587]MaterialEditorStats: Base pass shader: 194 instructions
+[2025.05.02-06.37.45:693][587]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.02-06.37.45:693][587]MaterialEditorStats: Texture samplers: 3/16
+[2025.05.02-06.37.45:693][587]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.05.02-06.37.45:693][587]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.02-06.37.45:693][587]MaterialEditorStats: Shader Count: 5
+[2025.05.02-06.37.46:864][656]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.02-06.37.46:864][656]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.05.02-06.37.46:864][656]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.02-06.37.46:864][656]MaterialEditorStats: Shader Count: 0
+[2025.05.02-06.37.46:995][659]MaterialEditorStats: Base pass shader: 198 instructions
+[2025.05.02-06.37.46:995][659]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.02-06.37.46:995][659]MaterialEditorStats: Texture samplers: 4/16
+[2025.05.02-06.37.46:995][659]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.05.02-06.37.46:995][659]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.02-06.37.46:995][659]MaterialEditorStats: Shader Count: 5
+[2025.05.02-06.37.48:435][740]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.02-06.37.48:435][740]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.05.02-06.37.48:435][740]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.02-06.37.48:435][740]MaterialEditorStats: Shader Count: 0
+[2025.05.02-06.37.48:574][742]MaterialEditorStats: Base pass shader: 199 instructions
+[2025.05.02-06.37.48:574][742]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.02-06.37.48:574][742]MaterialEditorStats: Texture samplers: 4/16
+[2025.05.02-06.37.48:574][742]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.05.02-06.37.48:574][742]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.02-06.37.48:574][742]MaterialEditorStats: Shader Count: 5
+[2025.05.02-06.37.49:867][813]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.02-06.37.49:867][813]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.05.02-06.37.49:867][813]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.02-06.37.49:867][813]MaterialEditorStats: Shader Count: 0
+[2025.05.02-06.37.50:010][816]MaterialEditorStats: Base pass shader: 206 instructions
+[2025.05.02-06.37.50:010][816]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.02-06.37.50:010][816]MaterialEditorStats: Texture samplers: 5/16
+[2025.05.02-06.37.50:010][816]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.05.02-06.37.50:010][816]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.02-06.37.50:010][816]MaterialEditorStats: Shader Count: 5
+[2025.05.02-06.37.50:747][862]LogMaterialEditor: Saving and Compiling material GovtSign_body_MAT
+[2025.05.02-06.37.50:954][862]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.05.02-06.37.51:140][862]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.05.02-06.37.51:151][862]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.02-06.37.51:283][862]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/GovtSign/GovtSign_body_MAT" FILE="E:/Thesis_Hatch_Room_UE/Hatch_Room/Content/Textures/GovtSign/GovtSign_body_MAT.uasset" SILENT=true
+[2025.05.02-06.37.52:646][862]LogSavePackage: Moving output files for package: /Game/Textures/GovtSign/GovtSign_body_MAT
+[2025.05.02-06.37.52:646][862]LogSavePackage: Moving 'E:/Thesis_Hatch_Room_UE/Hatch_Room/Saved/GovtSign_body_MAT2161783F4D43E2343D9C8DA627E8E624.tmp' to 'E:/Thesis_Hatch_Room_UE/Hatch_Room/Content/Textures/GovtSign/GovtSign_body_MAT.uasset'
+[2025.05.02-06.37.52:667][862]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.51 sec (total: 3:32 min)
+[2025.05.02-06.37.52:669][862]AssetCheck: New page: Asset Save: GovtSign_body_MAT
+[2025.05.02-06.37.52:669][862]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Textures/GovtSign/GovtSign_body_MAT.GovtSign_body_MAT
+[2025.05.02-06.37.52:670][862]MaterialEditorStats: Base pass shader: 206 instructions
+[2025.05.02-06.37.52:670][862]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.02-06.37.52:671][862]MaterialEditorStats: MaxSampler: 256 instructions
+[2025.05.02-06.37.52:671][862]MaterialEditorStats: Texture samplers: 6/16
+[2025.05.02-06.37.52:671][862]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.05.02-06.37.52:671][862]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.02-06.37.52:671][862]MaterialEditorStats: Shader Count: 27
+[2025.05.02-06.37.53:627][892]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Textures/GovtSign/GovtSign_screws_MAT.GovtSign_screws_MAT
+[2025.05.02-06.37.53:631][892]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.02-06.37.53:631][892]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.02-06.37.54:460][892]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.02-06.37.54:460][892]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.02-06.37.54:460][892]MaterialEditorStats: Shader Count: 0
+[2025.05.02-06.37.54:503][892]LogViewport: Scene viewport resized to 285x383, mode Windowed.
+[2025.05.02-06.37.54:583][894]MaterialEditorStats: Base pass shader: 187 instructions
+[2025.05.02-06.37.54:583][894]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2025.05.02-06.37.54:583][894]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.02-06.37.54:583][894]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.02-06.37.54:583][894]MaterialEditorStats: Shader Count: 5
+[2025.05.02-06.37.56:082][963]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.02-06.37.56:082][963]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.02-06.37.56:082][963]MaterialEditorStats: Shader Count: 0
+[2025.05.02-06.37.56:127][964]MaterialEditorStats: Base pass shader: 187 instructions
+[2025.05.02-06.37.56:127][964]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2025.05.02-06.37.56:127][964]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.02-06.37.56:127][964]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.02-06.37.56:127][964]MaterialEditorStats: Shader Count: 5
+[2025.05.02-06.38.02:438][332]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.02-06.38.02:438][332]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.05.02-06.38.02:438][332]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.02-06.38.02:438][332]MaterialEditorStats: Shader Count: 0
+[2025.05.02-06.38.02:576][335]MaterialEditorStats: Base pass shader: 195 instructions
+[2025.05.02-06.38.02:576][335]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.02-06.38.02:577][335]MaterialEditorStats: Texture samplers: 3/16
+[2025.05.02-06.38.02:577][335]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.05.02-06.38.02:577][335]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.02-06.38.02:577][335]MaterialEditorStats: Shader Count: 5
+[2025.05.02-06.38.05:428][487]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.02-06.38.05:428][487]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.05.02-06.38.05:428][487]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.02-06.38.05:428][487]MaterialEditorStats: Shader Count: 0
+[2025.05.02-06.38.07:747][571]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.02-06.38.07:747][571]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.05.02-06.38.07:747][571]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.02-06.38.07:747][571]MaterialEditorStats: Shader Count: 1
+[2025.05.02-06.38.07:854][577]MaterialEditorStats: Base pass shader: 200 instructions
+[2025.05.02-06.38.07:854][577]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.02-06.38.07:854][577]MaterialEditorStats: Texture samplers: 4/16
+[2025.05.02-06.38.07:854][577]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.05.02-06.38.07:854][577]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.02-06.38.07:854][577]MaterialEditorStats: Shader Count: 4
+[2025.05.02-06.38.08:613][611]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.02-06.38.08:613][611]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.05.02-06.38.08:613][611]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.02-06.38.08:613][611]MaterialEditorStats: Shader Count: 0
+[2025.05.02-06.38.08:773][613]MaterialEditorStats: Base pass shader: 206 instructions
+[2025.05.02-06.38.08:773][613]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.02-06.38.08:773][613]MaterialEditorStats: Texture samplers: 5/16
+[2025.05.02-06.38.08:773][613]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.05.02-06.38.08:773][613]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.02-06.38.08:773][613]MaterialEditorStats: Shader Count: 5
+[2025.05.02-06.38.10:076][696]LogMaterialEditor: Saving and Compiling material GovtSign_screws_MAT
+[2025.05.02-06.38.10:170][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.05.02-06.38.10:340][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.05.02-06.38.10:351][696]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.02-06.38.10:474][696]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/GovtSign/GovtSign_screws_MAT" FILE="E:/Thesis_Hatch_Room_UE/Hatch_Room/Content/Textures/GovtSign/GovtSign_screws_MAT.uasset" SILENT=true
+[2025.05.02-06.38.11:217][696]LogSavePackage: Moving output files for package: /Game/Textures/GovtSign/GovtSign_screws_MAT
+[2025.05.02-06.38.11:217][696]LogSavePackage: Moving 'E:/Thesis_Hatch_Room_UE/Hatch_Room/Saved/GovtSign_screws_MAT82B7DE204CC4B049887C3D98EFA3CF26.tmp' to 'E:/Thesis_Hatch_Room_UE/Hatch_Room/Content/Textures/GovtSign/GovtSign_screws_MAT.uasset'
+[2025.05.02-06.38.11:245][696]LogFileHelpers: InternalPromptForCheckoutAndSave took 893 ms (total: 3:33 min)
+[2025.05.02-06.38.11:246][696]AssetCheck: New page: Asset Save: GovtSign_screws_MAT
+[2025.05.02-06.38.11:246][696]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Textures/GovtSign/GovtSign_screws_MAT.GovtSign_screws_MAT
+[2025.05.02-06.38.11:247][696]MaterialEditorStats: Base pass shader: 206 instructions
+[2025.05.02-06.38.11:247][696]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.02-06.38.11:247][696]MaterialEditorStats: MaxSampler: 256 instructions
+[2025.05.02-06.38.11:247][696]MaterialEditorStats: Texture samplers: 6/16
+[2025.05.02-06.38.11:247][696]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.05.02-06.38.11:247][696]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.02-06.38.11:247][696]MaterialEditorStats: Shader Count: 27
+[2025.05.02-06.38.13:057][798]LogSlate: Window 'GovtSign_screws_MAT' being destroyed
+[2025.05.02-06.38.13:066][798]LogSlate: Window 'GovtSign_screws_MAT' being destroyed
+[2025.05.02-06.38.13:413][798]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.05.02-06.38.13:417][798]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.02-06.38.13:791][798]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.05.02-06.38.13:791][798]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.02-06.38.14:496][839]LogMaterial: Display: Material /Game/Textures/GovtSign/GovtSign_body_MAT.GovtSign_body_MAT needed to have new flag set bUsedWithNanite !
+[2025.05.02-06.38.16:977][979]LogMaterial: Display: Material /Game/Textures/GovtSign/GovtSign_screws_MAT.GovtSign_screws_MAT needed to have new flag set bUsedWithNanite !
+[2025.05.02-06.38.38:846][410]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.05.02-06.38.45:870][ 21]Cmd: TRANSACTION UNDO
+[2025.05.02-06.38.45:870][ 21]LogEditorTransaction: Undo Clicking on Actors
+[2025.05.02-06.38.50:533][394]Cmd: DELETE
+[2025.05.02-06.38.50:534][394]Cmd: ACTOR DELETE
+[2025.05.02-06.38.50:542][394]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.02-06.38.50:555][394]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.05.02-06.38.50:559][394]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2025.05.02-06.38.56:255][904]Cmd: DELETE
+[2025.05.02-06.38.56:255][904]Cmd: ACTOR DELETE
+[2025.05.02-06.38.56:260][904]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.02-06.38.56:261][904]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.02-06.38.56:262][904]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.02-06.38.56:262][904]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.05.02-06.38.56:268][904]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.05.02-06.38.56:271][904]LogEditorActor: Deleted 4 Actors (0.016 secs)
+[2025.05.02-06.41.03:362][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.05.02-06.41.09:818][549]LogSlate: Window 'Delete Assets' being destroyed
+[2025.05.02-06.41.09:851][549]LogUObjectGlobals: Force Deleting 3 Package(s):
+	Asset Name: /Game/Textures/GovtSign/Govt_Sign_gov_sign_body_MAT_BaseColor.Govt_Sign_gov_sign_body_MAT_BaseColor
+	Asset Type: Texture2D
+	Asset Name: /Game/Textures/GovtSign/Govt_Sign_gov_sign_body_MAT_Normal.Govt_Sign_gov_sign_body_MAT_Normal
+	Asset Type: Texture2D
+	Asset Name: /Game/Textures/GovtSign/Govt_Sign_gov_sign_body_MAT_OcclusionRoughnessMetallic.Govt_Sign_gov_sign_body_MAT_OcclusionRoughnessMetallic
+	Asset Type: Texture2D
+[2025.05.02-06.41.10:256][549]LogMaterial: Warning: [AssetLog] E:\Thesis_Hatch_Room_UE\Hatch_Room\Content\Textures\GovtSign\GovtSign_body_MAT.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.02-06.41.10:257][549]LogMaterial: Warning: [AssetLog] E:\Thesis_Hatch_Room_UE\Hatch_Room\Content\Textures\GovtSign\GovtSign_body_MAT.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.02-06.41.10:258][549]LogMaterial: Warning: [AssetLog] E:\Thesis_Hatch_Room_UE\Hatch_Room\Content\Textures\GovtSign\GovtSign_body_MAT.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.02-06.41.10:260][549]LogMaterial: Warning: [AssetLog] E:\Thesis_Hatch_Room_UE\Hatch_Room\Content\Textures\GovtSign\GovtSign_body_MAT.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.02-06.41.10:261][549]LogMaterial: Warning: [AssetLog] /Engine/Transient.GovtSign_body_MAT: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.02-06.41.10:261][549]LogMaterial: Warning: GovtSign_body_MAT: Requesting an invalid TextureIndex! (1 / 0)
+[2025.05.02-06.41.10:262][549]LogMaterial: Warning: [AssetLog] /Engine/Transient.GovtSign_body_MAT: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.02-06.41.10:264][549]LogMaterial: Warning: [AssetLog] E:\Thesis_Hatch_Room_UE\Hatch_Room\Content\Textures\GovtSign\GovtSign_body_MAT.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.02-06.41.10:675][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.05.02-06.41.10:681][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.05.02-06.41.10:686][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.05.02-06.41.26:933][515]LogInterchangeEngine: [Pending] Importing
+[2025.05.02-06.41.26:933][515]LogInterchangeEngine: Display: Interchange start importing source [E:/Dystopian_Thesis_...gn/exported_textures/Govt_Sign_gov_sign_body_MAT_BaseColor.png]
+[2025.05.02-06.41.26:934][515]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.05.02-06.41.26:935][515]LogInterchangeEngine: Display: Interchange start importing source [E:/Dystopian_Thesis_...gn/exported_textures/Govt_Sign_gov_sign_body_MAT_Normal.png]
+[2025.05.02-06.41.26:935][515]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.05.02-06.41.26:936][515]LogInterchangeEngine: Display: Interchange start importing source [E:/Dystopian_Thesis_...gn/exported_textures/Govt_Sign_gov_sign_body_MAT_OcclusionRoughnessMetallic.png]
+[2025.05.02-06.41.26:970][516]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.05.02-06.41.27:015][517]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.05.02-06.41.27:018][517]LogTexture: Display: Building textures: /Game/Textures/GovtSign/Govt_Sign_gov_sign_body_MAT_OcclusionRoughnessMetallic.Govt_Sign_gov_sign_body_MAT_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 305.145823 MB), EncodeSpeed: Fast
+[2025.05.02-06.41.27:268][517]LogInterchangePipeline: Display: Auto-detected normal map
+[2025.05.02-06.41.27:272][517]LogTexture: Display: Building textures: /Game/Textures/GovtSign/Govt_Sign_gov_sign_body_MAT_Normal.Govt_Sign_gov_sign_body_MAT_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 471.562488 MB), EncodeSpeed: Fast
+[2025.05.02-06.41.27:273][517]LogTexture: Display: Building textures: /Game/Textures/GovtSign/Govt_Sign_gov_sign_body_MAT_BaseColor.Govt_Sign_gov_sign_body_MAT_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 305.145823 MB), EncodeSpeed: Fast
+[2025.05.02-06.41.27:274][517]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.05.02-06.41.27:274][517]LogInterchangeEngine: [Success] Import Done
+[2025.05.02-06.41.27:314][518]LogInterchangeEngine: [Success] Import Done
+[2025.05.02-06.41.29:531][570]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/GovtSign/Govt_Sign_gov_sign_body_MAT_OcclusionRoughnessMetallic.Govt_Sign_gov_sign_body_MAT_OcclusionRoughnessMetallic
+[2025.05.02-06.41.30:002][570]LogViewport: Scene viewport resized to 1083x768, mode Windowed.
+[2025.05.02-06.41.31:396][582]LogTexture: Display: Building textures: /Game/Textures/GovtSign/Govt_Sign_gov_sign_body_MAT_OcclusionRoughnessMetallic.Govt_Sign_gov_sign_body_MAT_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 305.145823 MB), EncodeSpeed: Final
+[2025.05.02-06.41.32:417][591]LogSlate: Window 'Govt_Sign_gov_sign_body_MAT_OcclusionRoughnessMetallic' being destroyed
+[2025.05.02-06.41.32:565][591]LogSlate: Window 'Govt_Sign_gov_sign_body_MAT_OcclusionRoughnessMetallic' being destroyed
+[2025.05.02-06.41.33:428][600]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Textures/GovtSign/GovtSign_body_MAT.GovtSign_body_MAT
+[2025.05.02-06.41.33:429][600]LogMaterial: Warning: [AssetLog] /Engine/Transient.GovtSign_body_MAT: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.02-06.41.33:430][600]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.02-06.41.33:430][600]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.02-06.41.34:097][600]LogMaterial: Warning: [AssetLog] /Engine/Transient.GovtSign_body_MAT: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.02-06.41.34:098][600]LogMaterial: Warning: [AssetLog] /Engine/Transient.GovtSign_body_MAT: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.05.02-06.41.34:232][600]MaterialEditorStats: Error: [SM6] (Node TextureSample) Texture Sample> Missing input texture
+[2025.05.02-06.41.34:233][600]MaterialEditorStats: Error: [SM6] (Node TextureSample) Texture Sample> Missing input texture
+[2025.05.02-06.41.34:233][600]MaterialEditorStats: Error: [SM6] (Node TextureSample) Texture Sample> Missing input texture
+[2025.05.02-06.41.34:241][600]LogViewport: Scene viewport resized to 285x383, mode Windowed.
+[2025.05.02-06.41.37:699][705]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.02-06.41.37:699][705]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.02-06.41.37:699][705]MaterialEditorStats: Shader Count: 0
+[2025.05.02-06.41.37:754][706]LogShaderCompilers: Display: ================================================
+[2025.05.02-06.41.37:755][706]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.02-06.41.37:755][706]LogShaderCompilers: Display: Total job queries 1,387, among them cache hits 1,155 (83.27%)
+[2025.05.02-06.41.37:755][706]LogShaderCompilers: Display: Tracking 232 distinct input hashes that result in 92 distinct outputs (39.66%)
+[2025.05.02-06.41.37:755][706]LogShaderCompilers: Display: RAM used: 5.49 MiB of 1.60 GiB budget. Usage: 0.33%
+[2025.05.02-06.41.37:755][706]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.02-06.41.37:755][706]LogShaderCompilers: Display: Shaders Compiled: 21
+[2025.05.02-06.41.37:755][706]LogShaderCompilers: Display: Jobs assigned 21, completed 21 (100%)
+[2025.05.02-06.41.37:755][706]LogShaderCompilers: Display: Average time worker was idle: 1557.52 s
+[2025.05.02-06.41.37:755][706]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.09 s
+[2025.05.02-06.41.37:755][706]LogShaderCompilers: Display: Job execution time: average 0.69 s, max 1.55 s
+[2025.05.02-06.41.37:755][706]LogShaderCompilers: Display: Job life time (pending + execution): average 0.74 s, max 1.57
+[2025.05.02-06.41.37:755][706]LogShaderCompilers: Display: Shader code size: average 38.641 KiB, min 32.355 KiB, max 59.395 KiB
+[2025.05.02-06.41.37:755][706]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.44 s
+[2025.05.02-06.41.37:755][706]LogShaderCompilers: Display: Jobs were issued in 21 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.05.02-06.41.37:755][706]LogShaderCompilers: Display: Average processing rate: 4.73 jobs/sec
+[2025.05.02-06.41.37:755][706]LogShaderCompilers: Display: Total thread time: 7.959 s
+[2025.05.02-06.41.37:755][706]LogShaderCompilers: Display: Total thread preprocess time: 3.121 s
+[2025.05.02-06.41.37:755][706]LogShaderCompilers: Display: Percentage time preprocessing: 39.22%
+[2025.05.02-06.41.37:755][706]LogShaderCompilers: Display: Effective parallelization: 1.79 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2025.05.02-06.41.37:755][706]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.05.02-06.41.37:755][706]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    4 times, average 0.57 sec, max 0.93 sec, min 0.43 sec)
+[2025.05.02-06.41.37:755][706]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 0.42 sec, max 0.86 sec, min 0.26 sec)
+[2025.05.02-06.41.37:755][706]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    4 times, average 0.35 sec, max 0.71 sec, min 0.22 sec)
+[2025.05.02-06.41.37:755][706]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    4 times, average 0.35 sec, max 0.70 sec, min 0.22 sec)
+[2025.05.02-06.41.37:755][706]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    1 times, average 0.29 sec, max 0.29 sec, min 0.29 sec)
+[2025.05.02-06.41.37:755][706]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.05.02-06.41.37:755][706]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 28.58% of total time (compiled    4 times, average 0.57 sec, max 0.93 sec, min 0.43 sec)
+[2025.05.02-06.41.37:755][706]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 20.86% of total time (compiled    4 times, average 0.42 sec, max 0.86 sec, min 0.26 sec)
+[2025.05.02-06.41.37:755][706]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 17.67% of total time (compiled    4 times, average 0.35 sec, max 0.71 sec, min 0.22 sec)
+[2025.05.02-06.41.37:755][706]LogShaderCompilers: Display:                                                 FLumenCardVS - 17.58% of total time (compiled    4 times, average 0.35 sec, max 0.70 sec, min 0.22 sec)
+[2025.05.02-06.41.37:755][706]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 11.66% of total time (compiled    4 times, average 0.23 sec, max 0.58 sec, min 0.11 sec)
+[2025.05.02-06.41.37:755][706]LogShaderCompilers: Display: ================================================
+[2025.05.02-06.41.37:824][707]MaterialEditorStats: Base pass shader: 187 instructions
+[2025.05.02-06.41.37:824][707]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2025.05.02-06.41.37:824][707]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.02-06.41.37:825][707]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.02-06.41.37:825][707]MaterialEditorStats: Shader Count: 5
+[2025.05.02-06.41.40:455][819]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.02-06.41.40:455][819]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.02-06.41.40:455][819]MaterialEditorStats: Shader Count: 0
+[2025.05.02-06.41.40:555][820]MaterialEditorStats: Base pass shader: 187 instructions
+[2025.05.02-06.41.40:555][820]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2025.05.02-06.41.40:555][820]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.02-06.41.40:555][820]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.02-06.41.40:555][820]MaterialEditorStats: Shader Count: 5
+[2025.05.02-06.41.50:064][569]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.02-06.41.50:064][569]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.05.02-06.41.50:064][569]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.02-06.41.50:064][569]MaterialEditorStats: Shader Count: 0
+[2025.05.02-06.41.50:697][600]MaterialEditorStats: Texture samplers: 1/16
+[2025.05.02-06.41.50:697][600]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.05.02-06.41.50:697][600]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.02-06.41.50:697][600]MaterialEditorStats: Shader Count: 1
+[2025.05.02-06.41.50:793][606]MaterialEditorStats: Base pass shader: 194 instructions
+[2025.05.02-06.41.50:793][606]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.02-06.41.50:794][606]MaterialEditorStats: Texture samplers: 3/16
+[2025.05.02-06.41.50:794][606]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.05.02-06.41.50:794][606]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.02-06.41.50:794][606]MaterialEditorStats: Shader Count: 4
+[2025.05.02-06.41.51:861][679]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.02-06.41.51:861][679]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.05.02-06.41.51:861][679]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.02-06.41.51:861][679]MaterialEditorStats: Shader Count: 0
+[2025.05.02-06.41.52:220][696]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.02-06.41.52:220][696]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.05.02-06.41.52:220][696]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.02-06.41.52:220][696]MaterialEditorStats: Shader Count: 1
+[2025.05.02-06.41.52:321][702]MaterialEditorStats: Base pass shader: 198 instructions
+[2025.05.02-06.41.52:321][702]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.02-06.41.52:321][702]MaterialEditorStats: Texture samplers: 4/16
+[2025.05.02-06.41.52:321][702]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.05.02-06.41.52:321][702]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.02-06.41.52:321][702]MaterialEditorStats: Shader Count: 4
+[2025.05.02-06.41.56:813][ 17]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.02-06.41.56:813][ 17]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.05.02-06.41.56:813][ 17]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.02-06.41.56:813][ 17]MaterialEditorStats: Shader Count: 0
+[2025.05.02-06.41.57:197][ 32]MaterialEditorStats: Texture samplers: 2/16
+[2025.05.02-06.41.57:197][ 32]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.05.02-06.41.57:197][ 32]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.02-06.41.57:197][ 32]MaterialEditorStats: Shader Count: 1
+[2025.05.02-06.41.57:291][ 38]MaterialEditorStats: Base pass shader: 199 instructions
+[2025.05.02-06.41.57:291][ 38]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.02-06.41.57:291][ 38]MaterialEditorStats: Texture samplers: 4/16
+[2025.05.02-06.41.57:291][ 38]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.05.02-06.41.57:291][ 38]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.02-06.41.57:291][ 38]MaterialEditorStats: Shader Count: 4
+[2025.05.02-06.41.59:095][158]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.02-06.41.59:095][158]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.05.02-06.41.59:095][158]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.02-06.41.59:095][158]MaterialEditorStats: Shader Count: 0
+[2025.05.02-06.41.59:486][178]MaterialEditorStats: Texture samplers: 3/16
+[2025.05.02-06.41.59:486][178]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.05.02-06.41.59:486][178]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.02-06.41.59:486][178]MaterialEditorStats: Shader Count: 1
+[2025.05.02-06.41.59:605][184]MaterialEditorStats: Base pass shader: 206 instructions
+[2025.05.02-06.41.59:605][184]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.02-06.41.59:605][184]MaterialEditorStats: Texture samplers: 5/16
+[2025.05.02-06.41.59:605][184]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.05.02-06.41.59:605][184]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.02-06.41.59:605][184]MaterialEditorStats: Shader Count: 4
+[2025.05.02-06.42.00:071][215]LogMaterialEditor: Saving and Compiling material GovtSign_body_MAT
+[2025.05.02-06.42.00:184][215]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.05.02-06.42.00:709][215]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.05.02-06.42.00:783][215]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.02-06.42.02:788][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/GovtSign/GovtSign_body_MAT" FILE="E:/Thesis_Hatch_Room_UE/Hatch_Room/Content/Textures/GovtSign/GovtSign_body_MAT.uasset" SILENT=true
+[2025.05.02-06.42.03:720][215]LogSavePackage: Moving output files for package: /Game/Textures/GovtSign/GovtSign_body_MAT
+[2025.05.02-06.42.03:731][215]LogSavePackage: Moving 'E:/Thesis_Hatch_Room_UE/Hatch_Room/Saved/GovtSign_body_MAT8BF5D58E4F9EA04E172CC8A8E759CD06.tmp' to 'E:/Thesis_Hatch_Room_UE/Hatch_Room/Content/Textures/GovtSign/GovtSign_body_MAT.uasset'
+[2025.05.02-06.42.03:770][215]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.98 sec (total: 3:36 min)
+[2025.05.02-06.42.03:772][215]AssetCheck: New page: Asset Save: GovtSign_body_MAT
+[2025.05.02-06.42.03:772][215]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Textures/GovtSign/GovtSign_body_MAT.GovtSign_body_MAT
+[2025.05.02-06.42.03:773][215]MaterialEditorStats: Base pass shader: 206 instructions
+[2025.05.02-06.42.03:773][215]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.05.02-06.42.03:773][215]MaterialEditorStats: MaxSampler: 256 instructions
+[2025.05.02-06.42.03:773][215]MaterialEditorStats: Texture samplers: 6/16
+[2025.05.02-06.42.03:773][215]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.05.02-06.42.03:773][215]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.05.02-06.42.03:773][215]MaterialEditorStats: Shader Count: 40
+[2025.05.02-06.42.30:733][945]LogSlate: Window 'GovtSign_body_MAT' being destroyed
+[2025.05.02-06.42.30:742][945]LogSlate: Window 'GovtSign_body_MAT' being destroyed
+[2025.05.02-06.42.31:228][945]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.05.02-06.42.31:228][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.02-06.42.33:319][161]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.05.02-06.42.33:330][161]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.02-06.42.33:391][161]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="E:/Thesis_Hatch_Room_UE/Hatch_Room/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.05.02-06.42.33:885][161]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.05.02-06.44.10:373][161]LogSavePackage: Moving output files for package: /Game/Main
+[2025.05.02-06.44.10:383][161]LogSavePackage: Moving 'E:/Thesis_Hatch_Room_UE/Hatch_Room/Saved/MainF5E7FE4C4DDD682CB383A1B670D67595.tmp' to 'E:/Thesis_Hatch_Room_UE/Hatch_Room/Content/Main.umap'
+[2025.05.02-06.44.10:613][161]LogFileHelpers: All files are already saved.
+[2025.05.02-06.44.10:613][161]LogFileHelpers: Saving map 'Main' took 97.223
+[2025.05.02-06.44.10:614][161]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/GovtSign/GovtSign_screws_MAT" FILE="E:/Thesis_Hatch_Room_UE/Hatch_Room/Content/Textures/GovtSign/GovtSign_screws_MAT.uasset" SILENT=true
+[2025.05.02-06.44.11:362][161]LogSavePackage: Moving output files for package: /Game/Textures/GovtSign/GovtSign_screws_MAT
+[2025.05.02-06.44.11:371][161]LogSavePackage: Moving 'E:/Thesis_Hatch_Room_UE/Hatch_Room/Saved/GovtSign_screws_MATFD91C4654699D21D9EAD9990FFA3BC87.tmp' to 'E:/Thesis_Hatch_Room_UE/Hatch_Room/Content/Textures/GovtSign/GovtSign_screws_MAT.uasset'
+[2025.05.02-06.44.12:592][161]LogSavePackage: Moving output files for package: /Game/Textures/GovtSign/Govt_Sign_gov_sign_body_screws_MAT_Normal
+[2025.05.02-06.44.12:592][161]LogSavePackage: Moving 'E:/Thesis_Hatch_Room_UE/Hatch_Room/Saved/Govt_Sign_gov_sign_body_screws_MADEF3E0644E808D5B5FFBA947F073371.tmp' to 'E:/Thesis_Hatch_Room_UE/Hatch_Room/Content/Textures/GovtSign/Govt_Sign_gov_sign_body_screws_MAT_Normal.uasset'
+[2025.05.02-06.44.12:792][161]LogSavePackage: Moving output files for package: /Game/Textures/GovtSign/Govt_Sign_gov_sign_body_screws_MAT_BaseColor
+[2025.05.02-06.44.12:792][161]LogSavePackage: Moving 'E:/Thesis_Hatch_Room_UE/Hatch_Room/Saved/Govt_Sign_gov_sign_body_screws_MC26043024297E70DBAEA23AFF5E65A38.tmp' to 'E:/Thesis_Hatch_Room_UE/Hatch_Room/Content/Textures/GovtSign/Govt_Sign_gov_sign_body_screws_MAT_BaseColor.uasset'
+[2025.05.02-06.44.13:015][161]LogSavePackage: Moving output files for package: /Game/Textures/GovtSign/Govt_Sign_gov_sign_body_screws_MAT_OcclusionRoughnessMetallic
+[2025.05.02-06.44.13:015][161]LogSavePackage: Moving 'E:/Thesis_Hatch_Room_UE/Hatch_Room/Saved/Govt_Sign_gov_sign_body_screws_M93D53B7441679FC743FA7D896BA0A4DA.tmp' to 'E:/Thesis_Hatch_Room_UE/Hatch_Room/Content/Textures/GovtSign/Govt_Sign_gov_sign_body_screws_MAT_OcclusionRoughnessMetallic.uasset'
+[2025.05.02-06.44.13:473][161]LogSavePackage: Moving output files for package: /Game/Textures/GovtSign/Govt_Sign_gov_sign_body_MAT_BaseColor
+[2025.05.02-06.44.13:473][161]LogSavePackage: Moving 'E:/Thesis_Hatch_Room_UE/Hatch_Room/Saved/Govt_Sign_gov_sign_body_MAT_BaseD8A759DC4D30D5465519B78F729F9612.tmp' to 'E:/Thesis_Hatch_Room_UE/Hatch_Room/Content/Textures/GovtSign/Govt_Sign_gov_sign_body_MAT_BaseColor.uasset'
+[2025.05.02-06.44.15:149][161]LogSavePackage: Moving output files for package: /Game/Textures/GovtSign/Govt_Sign_gov_sign_body_MAT_Normal
+[2025.05.02-06.44.15:150][161]LogSavePackage: Moving 'E:/Thesis_Hatch_Room_UE/Hatch_Room/Saved/Govt_Sign_gov_sign_body_MAT_Norm2A4C6B0E469593D9EB8F62A4AB42E95C.tmp' to 'E:/Thesis_Hatch_Room_UE/Hatch_Room/Content/Textures/GovtSign/Govt_Sign_gov_sign_body_MAT_Normal.uasset'
+[2025.05.02-06.44.15:391][161]LogSavePackage: Moving output files for package: /Game/Textures/GovtSign/Govt_Sign_gov_sign_body_MAT_OcclusionRoughnessMetallic
+[2025.05.02-06.44.15:391][161]LogSavePackage: Moving 'E:/Thesis_Hatch_Room_UE/Hatch_Room/Saved/Govt_Sign_gov_sign_body_MAT_OcclD6214D1D47D9A4F3F3888783484F5A06.tmp' to 'E:/Thesis_Hatch_Room_UE/Hatch_Room/Content/Textures/GovtSign/Govt_Sign_gov_sign_body_MAT_OcclusionRoughnessMetallic.uasset'
+[2025.05.02-06.44.15:414][161]LogFileHelpers: InternalPromptForCheckoutAndSave took 1:42 min (total: 5:18 min)
+[2025.05.02-06.44.15:435][161]AssetCheck: New page: Asset Save: multiple assets
+[2025.05.02-06.44.15:435][161]LogContentValidation: Display: Validating /Script/Engine.World /Game/Main.Main
+[2025.05.02-06.44.15:435][161]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Textures/GovtSign/GovtSign_screws_MAT.GovtSign_screws_MAT
+[2025.05.02-06.44.15:435][161]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/GovtSign/Govt_Sign_gov_sign_body_screws_MAT_Normal.Govt_Sign_gov_sign_body_screws_MAT_Normal
+[2025.05.02-06.44.15:435][161]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/GovtSign/Govt_Sign_gov_sign_body_screws_MAT_BaseColor.Govt_Sign_gov_sign_body_screws_MAT_BaseColor
+[2025.05.02-06.44.15:435][161]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/GovtSign/Govt_Sign_gov_sign_body_screws_MAT_OcclusionRoughnessMetallic.Govt_Sign_gov_sign_body_screws_MAT_OcclusionRoughnessMetallic
+[2025.05.02-06.44.15:435][161]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/GovtSign/Govt_Sign_gov_sign_body_MAT_BaseColor.Govt_Sign_gov_sign_body_MAT_BaseColor
+[2025.05.02-06.44.15:435][161]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/GovtSign/Govt_Sign_gov_sign_body_MAT_Normal.Govt_Sign_gov_sign_body_MAT_Normal
+[2025.05.02-06.44.15:435][161]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/GovtSign/Govt_Sign_gov_sign_body_MAT_OcclusionRoughnessMetallic.Govt_Sign_gov_sign_body_MAT_OcclusionRoughnessMetallic
